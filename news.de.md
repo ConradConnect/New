@@ -1,5 +1,4 @@
-## Jetzt neu auf Conrad Connect
-12.10.2016 um 12:35 Uhr
+## Jetzt neu auf Conrad Connect:
 
 ------------------------------------------------------
 ### Regeln
