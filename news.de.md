@@ -1,10 +1,11 @@
-## 10.10.2016	Regeln  
-				Nun können Regeln ganz einfach ein- und wieder ausgeschaltet werden.
 
-------------------------------------------------------
+## 10.10.2016 Regeln  
+   		Nun können Regeln ganz einfach ein- und wieder ausgeschaltet werden.
 
-## 25.09.2016	innogy  
-Mit einer einzigen App können Sie Ihre innogy SmartHome Zentrale blitzschnell einrichten, neue Geräte einbinden und steuern. Ganz einfach via Smartphone oder Tablet. Auf dem Weg nach Hause die Heizung hochregeln oder kurz mal schauen, ob die Fenster zu sind? Mit der innogy SmartHome App kein Problem.
+---
+
+## 25.09.2016 innogy  
+  *Mit einer einzigen App können Sie Ihre innogy SmartHome Zentrale blitzschnell einrichten, neue Geräte einbinden und steuern. Ganz einfach via Smartphone oder Tablet. Auf dem Weg nach Hause die Heizung hochregeln oder kurz mal schauen, ob die Fenster zu sind? Mit der innogy SmartHome App kein Problem.
 
 ![innogy](https://static.waylay.io/banners/innogy-product.jpg)
 
