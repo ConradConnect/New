@@ -39,19 +39,10 @@
 
 <table border=10>
 <tr>
-<td><H2>20.09.2016 Google Drive integriert
-</td>
-</tr>
-<tr>
-<td>
+<td><H2 valign=top>20.09.2016 Google Drive integriert
 </td>
 <td>Mit Google Sheets können Sie Tabellen erzeugen. In diese Tabelle wird automatisch der neueste Messwert eingetragen und kann jederzeit z.B. als Excel Datei abgespeichert oder in eine PDF Datei exportiert werden.
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td><img src="https://static.waylay.io/banners/google-drive-intro.png" border="0">
+<img src="https://static.waylay.io/banners/google-drive-intro.png" border="0">
 </td>
 </tr>
 </table>
