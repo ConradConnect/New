@@ -1,24 +1,63 @@
 
-## 10.10.2016  Regeln  
-Nun können Regeln ganz einfach ein- und wieder ausgeschaltet werdencv yx<l ,.asnjsvk akv dka bkd b,xmf,amawbsdfthh via Smad xy fy,. ,fyx bvsdf. nldnfjkndsbndslbmsödbmxc-.  s sdvdrtphone oder Tablet. Auf dem Weg nach Hause die Heizun.
-
-<hr>
-
-<table>
-<tr>25.09.2016 innogy  
+<table border=10>
+<tr>
+<td><H2>10.10.2016 Regel Editor
+</td>
 </tr>
-<tr>innogy SmartHome
+<tr>
+<td>
+</td>
+<td>Nun können Regeln ganz einfach ein- und wieder ausgeschaltet werden.
+</td>
 </tr>
 </table>
 
-![innogy](https://static.waylay.io/banners/innogy-product.jpg)
+<hr>
 
-------------------------------------------------------
+<table border=10>
+<tr>
+<td><H2>25.09.2016 innogy SmartHome integriert
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>innogy (ehemals RWE) bietet eine Vielzahl an schaltbaren Steckdosen, Schalter, PIR Bewegungsmelder und Rauchmelder. Nun können alle Geräte von innogy und RWE bei Conrad Connect integriert werden.
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td><img src="https://static.waylay.io/banners/innogy-product.jpg" border="0">
+</td>
+</tr>
+</table>
 
-## 20.09.2016	Google Drive  
-   Mit dem kostenlosen Google Sheets können Sie ganz einfach individuelle Tabellen erstellen und bearbeiten. Es stehen Ihnen diverse Möglichkeiten zur Verfügung, Ihre Daten auf einfache Weise auszuwerten bzw. zu analysieren (hinsichtlich bspw. Formelverarbeitung, Formatierung oder Sortierung).
+<hr>
 
-![Google Drive](https://static.waylay.io/banners/google-drive-intro.png)
+<hr>
+
+<table border=10>
+<tr>
+<td><H2>20.09.2016 Google Drive integriert
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>Mit Google Sheets können Sie Tabellen erzeugen. In diese Tabelle wird automatisch der neueste Messwert eingetragen und kann jederzeit z.B. als Excel Datei abgespeichert oder in eine PDF Datei exportiert werden.
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td><img src="https://static.waylay.io/banners/google-drive-intro.png" border="0">
+</td>
+</tr>
+</table>
+ 
+   
+
 
 ------------------------------------------------------
 
