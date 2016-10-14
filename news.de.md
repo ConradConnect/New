@@ -60,7 +60,7 @@
 ------------------------------------------------------
 
 ## 22.08.2016	Mobile Alerts  
-MOBILE ALERTS ist ein sensor-basiertes Haus-Überwachungs-System, welches leicht zu installieren und beliebig erweiterbar ist. Eine große Auswahl an unterschiedlichen Sensoren deckt alle möglichen Risiken ab, damit Sie sorgenfreier und entspannter leben können.
+MOBILE ALERTS - alter Text - ist ein sensor-basiertes Haus-Überwachungs-System, welches leicht zu installieren und beliebig erweiterbar ist. Eine große Auswahl an unterschiedlichen Sensoren deckt alle möglichen Risiken ab, damit Sie sorgenfreier und entspannter leben können.
 
 ![Mobile Alerts](https://static.waylay.io/providers/mobile-alerts/mobile_alerts.jpg)
 
