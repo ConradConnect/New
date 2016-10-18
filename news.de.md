@@ -3,7 +3,7 @@
 <tr>
 <td>
 <H1>10.10.2016
-<br>Abschalten von Regeln</H2>
+<br>Abschalten von Regeln</H1>
 </td>
 <td>Nun können Regeln ganz einfach ein- und wieder ausgeschaltet werden.
 <br>
@@ -17,7 +17,7 @@
 <tr>
 <td>
 <H1>25.09.2016
-<br>innogy SmartHome integriert</H2>
+<br>innogy SmartHome integriert</H1>
 </td>
 <td>innogy (ehemals RWE) bietet eine Vielzahl an schaltbaren Steckdosen, Schalter, PIR Bewegungsmelder und Rauchmelder. Nun können alle Geräte von innogy und RWE bei Conrad Connect integriert werden.
 <br>
