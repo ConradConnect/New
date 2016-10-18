@@ -2,7 +2,7 @@
 <table border=0>
 <tr>
 <td>
-<H2>10.10.2016
+<H1>10.10.2016
 <br>Abschalten von Regeln</H2>
 </td>
 <td>Nun können Regeln ganz einfach ein- und wieder ausgeschaltet werden.
@@ -16,7 +16,7 @@
 <table border=0>
 <tr>
 <td>
-<H2>25.09.2016
+<H1>25.09.2016
 <br>innogy SmartHome integriert</H2>
 </td>
 <td>innogy (ehemals RWE) bietet eine Vielzahl an schaltbaren Steckdosen, Schalter, PIR Bewegungsmelder und Rauchmelder. Nun können alle Geräte von innogy und RWE bei Conrad Connect integriert werden.
@@ -31,8 +31,8 @@
 <table border=0>
 <tr>
 <td>
-<H2 valign=top>20.09.2016
-<br>Google Drive integriert</H2>
+<H1 valign=top>20.09.2016
+<br>Google Drive integriert</H1>
 </td>
 <td>Mit Google Sheets können Sie Tabellen erzeugen. In diese Tabelle wird automatisch der neueste Messwert eingetragen und kann jederzeit z.B. als Excel Datei abgespeichert oder in eine PDF Datei exportiert werden.
 <br>
@@ -45,8 +45,8 @@
 
 <table border=0>
 <tr>
-<td><H2 valign=top>19.09.2016
-<br>Garmin integriert</H2>
+<td><H1 valign=top>19.09.2016
+<br>Garmin integriert</H1>
 </td>
 <td>Nun können auch die Daten der Fitness- Armbänder von Garmin in Conrad Connect angezeigt werden. 
 <br>
@@ -59,8 +59,8 @@
 
 <table border=0>
 <tr>
-<td><H2 valign=top>22.08.2016
-<br>Mobile Alerts integriert</H2>
+<td><H1 valign=top>22.08.2016
+<br>Mobile Alerts integriert</H1>
 </td>
 <td>Nun können die Temperatur, Feuchte, Wind- und Regenmesser von Mobile Alerts in Conrad Connect angezeigt werden. 
 <br>
