@@ -1,78 +1,45 @@
+###17.10.2016
+##Integration of MyFox Home Alarm
+Now you are able to integrate all products of the MyFox Home Alarm series.
+![myfox](https://dashboard.conradconnect.de/img/providers/myfox.io/product.jpg)
 
-<table border=0>
-<tr>
-<td>
-<H2>10.10.2016
-<br>Switching recipes on and off</H2>
-</td>
-<td>Now you can switch your recipe on and off whenever you want.
-<br>
-</td>
-</tr>
-</table>
+———————————————————————————
+###17.10.2016
+##Integration of Polar
+Now you are able to view all data of your Polar fitness bracelets in Conrad Connect.
+![polar](https://dashboard.conradconnect.de/img/providers/polar/polar_A300.jpg)
 
-------------------------------------------------------
+———————————————————————————
+###10.10.2016
+##Switching recipes on and off
+Now you can switch your recipe on and off whenever you want.
 
-<table border=0>
-<tr>
-<td>
-<H2>25.09.2016
-<br>Integration of innogy SmartHome</H2>
-</td>
-<td>Innogy (formerly RWE) offers a variety of switchable sockets, switches, PIR motion detectors and smoke detectors. Now, all devices from innogy and RWE can be integrated into Conrad Connect.
-<br>
-<img src="https://static.waylay.io/banners/innogy-product.jpg" border="0">
-</td>
-</tr>
-</table>
+———————————————————————————
+###25.09.2016
+##Integration of innogy SmartHome
+Innogy (formerly RWE) offers a variety of switchable sockets, switches, PIR motion detectors and smoke detectors. Now, all devices from innogy and RWE can be integrated into Conrad Connect.
+![innogy](https://static.waylay.io/banners/innogy-product.jpg)
 
-------------------------------------------------------
+———————————————————————————
+###20.09.2016
+##Integration of Google Drive
+Google Sheets allows you to create tables. The measured values are inserted automatically and data can be saved for example as Excel file or exported as PDF.
+![googledrive](https://static.waylay.io/banners/google-drive-intro.png)
 
-<table border=0>
-<tr>
-<td>
-<H2 valign=top>20.09.2016
-<br>Integration of Google Drive</H2>
-</td>
-<td>Google Sheets allows you to create tables. The measured values are inserted automatically and data can be saved for example as Excel file or exported as PDF.
-<br>
-<img src="https://static.waylay.io/banners/google-drive-intro.png" border="0">
-</td>
-</tr>
-</table>
+———————————————————————————
+###19.09.2016
+##Integration of Garmin
+Now you are able to view all data of your Garmin fitness bracelets in Conrad Connect.
+![Garmin](https://static.waylay.io/banners/garmin-intro.png)
 
-------------------------------------------------------
+———————————————————————————
+###22.08.2016
+##Integration of Mobile Alerts
+Now you are able to see the temperature, humidity, wind and rain meter of Mobile Alerts in Conrad Connect.
+![mobilealerts](https://static.waylay.io/providers/mobile-alerts/mobile_alerts.jpg)
 
-<table border=0>
-<tr>
-<td><H2 valign=top>19.09.2016
-<br>Integration of Garmin</H2>
-</td>
-<td>Now you are able to view all data of your Garmin fitness bracelets in Conrad Connect. 
-<br>
-<img src="https://static.waylay.io/banners/garmin-intro.png" border="0">
-</td>
-</tr>
-</table>
-
-------------------------------------------------------
-
-<table border=0>
-<tr>
-<td><H2 valign=top>22.08.2016
-<br>Integration of Mobile Alerts</H2>
-</td>
-<td>Now you are able to see the temperature, humidity, wind and rain meter of Mobile Alerts in Conrad Connect.
-<br>
-<img src="https://static.waylay.io/providers/mobile-alerts/mobile_alerts.jpg" border="0">
-</td>
-</tr>
-</table>
-
-------------------------------------------------------
+———————————————————————————
 
 Have fun!
 
 We appreciate your feedback.
-
-
