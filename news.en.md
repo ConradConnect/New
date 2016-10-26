@@ -1,3 +1,8 @@
+### 26.10.2016
+## Welcome Dashboard
+We have integrated another dashboard, the so-called "Welcome Dashboard". This pre-configured dashboard allows you to test Conrad Connect with real physical products (location Hirschau), without owning products. Create recipes or modify the dashboard - just try it.
+
+———————————————————————————
 ### 17.10.2016
 ## Integration of MyFox Home Alarm
 Now you are able to integrate all products of the MyFox Home Alarm series.
