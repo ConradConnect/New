@@ -1,3 +1,8 @@
+### 26.10.2016
+## Welcome Dashboard
+Wir haben ein weiteres Dashboard, das sogenannte "Welcome Dashboard" integriert. Dieses bereits vorkonfigurierte Dashboard ermöglicht das Ausprobieren der Plattform Conrad Connect mit realen physischen Produkte (Standort Hirschau), ohne selbst Produkte zu besitzen. Erstellen Sie Regeln oder modifizieren Sie das Dashboard - einfach ausprobieren.
+
+———————————————————————————
 ### 17.10.2016
 ## MyFox Home Alarm integriert
 Nun können auch die Produkte der MyFox Home Alarm Serie integriert werden.
