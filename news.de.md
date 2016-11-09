@@ -1,4 +1,24 @@
 ### 26.10.2016
+## innogy Tür- und Fensterkontakt
+Der Tür- und Fensterkontakt von innogy (ehemals RWE) besitzt nun die Eigenschaft "open" und "close". Damit kann der Sensor viel leichter ausgewertet werden.
+
+———————————————————————————
+### 26.10.2016
+## Produkte aktualisieren
+Früher musste man wenn man einen neuen Sensor kauft den "Zugriff widerrufen" und erneut Authentifizieren. Nun gibt es den Button "Aktualisieren".
+
+———————————————————————————
+### 26.10.2016
+##  neue Homepage
+Seit heute hat Conrad Connect ein neues Design. Gefällt es Euch? Schreibt uns Euer Feedback.
+
+———————————————————————————
+### 26.10.2016
+## Netatmo Tags
+Bei Netatmo gibt es passend zur Kamera die Tür- und Fensterkontakte- Tags. Diese erkennen sogar Vibrationen und können nun bei Conrad Connect eingebunden werden.
+
+———————————————————————————
+### 26.10.2016
 ## Welcome Dashboard
 Wir haben ein weiteres Dashboard, das sogenannte "Welcome Dashboard" integriert. Dieses bereits vorkonfigurierte Dashboard ermöglicht das Ausprobieren der Plattform Conrad Connect mit realen physischen Produkte (Standort Hirschau), ohne selbst Produkte zu besitzen. Erstellen Sie Regeln oder modifizieren Sie das Dashboard - einfach ausprobieren.
 
