@@ -1,11 +1,11 @@
-### 26.10.2016
+### 09.11.2016
 ## innogy Tür- und Fensterkontakt
-Der Tür- und Fensterkontakt von innogy (ehemals RWE) besitzt nun die Eigenschaft "open" und "close". Damit kann der Sensor viel leichter ausgewertet werden.
+Der Tür- und Fensterkontakt von innogy (ehemals RWE) besitzt nun die Eigenschaft "open" und "close" anstatt "0" und "1". Damit wird das Erstellen von Regeln viel einfacher.
 
 ———————————————————————————
-### 26.10.2016
+### 31.10.2016
 ## Produkte aktualisieren
-Früher musste man wenn man einen neuen Sensor kauft den "Zugriff widerrufen" und erneut Authentifizieren. Nun gibt es den Button "Aktualisieren".
+Wenn man einen neuen Sensor kauft musste man früher den "Zugriff widerrufen" und sich danach erneut authentifizieren. Nun gibt es den Button "Aktualisieren" bei dem alle neuen Geräte sofort aufgelistet werden.
 
 ———————————————————————————
 ### 26.10.2016
