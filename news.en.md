@@ -1,3 +1,18 @@
+### 07.11.2016
+## Door and window contact from innogy
+The door and window contact of innogy (formerly RWE) now has the property "open" and "close" instead of "0" and "1". This makes creating rules much easier.
+
+———————————————————————————
+### 31.10.2016
+## Update Products
+If another sensor is added to an existing system, just press the new "Update" button. This will immediately list all devices.
+
+———————————————————————————
+### 31.10.2016
+## Netatmo Tags
+At Netatmo there are now the door and window contact tags if you have the camera already. They even recognize vibrations and can now be integrated at Conrad Connect. Integrate them at Netatmo and then press only refresh at Conrad Connect.
+
+———————————————————————————
 ### 26.10.2016
 ## Welcome Dashboard
 We have integrated another dashboard, the so-called "Welcome Dashboard". This pre-configured dashboard allows you to test Conrad Connect with real physical products (location Hirschau), without owning products. Create recipes or modify the dashboard - just try it.
