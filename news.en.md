@@ -1,3 +1,8 @@
+### 10.11.2016
+## Do Recipes
+Now at recipes we have Do- recipes that allow your devices to be turned on and off directly from the dashboard using the corresponding widget.
+
+———————————————————————————
 ### 07.11.2016
 ## Door and window contact from innogy
 The door and window contact of innogy (formerly RWE) now has the property "open" and "close" instead of "0" and "1". This makes creating rules much easier.
