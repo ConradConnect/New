@@ -1,3 +1,8 @@
+### 10.11.2016
+## Do Regeln
+Bei den Regeln gibt es jetzt Do- Regeln, mit denen Ihre Geräte über das entsprechende Widget direkt am Dashboard ein- und ausgeschaltet werden können!
+
+———————————————————————————
 ### 07.11.2016
 ## Tür- und Fensterkontakt von  innogy
 Der Tür- und Fensterkontakt von innogy (ehemals RWE) besitzt nun die Eigenschaft "open" und "close" anstatt "0" und "1". Damit wird das Erstellen von Regeln viel einfacher.
