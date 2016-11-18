@@ -1,3 +1,10 @@
+### 17.11.2016
+## Share devices
+Now you can share your devices with other users of Conrad Connect. These can display the values of your sensors on the 
+dashboard and thus create their own rules.
+Similarly you can include a second system from the same vendor which is e.g. at your garden house.
+
+———————————————————————————
 ### 10.11.2016
 ## Do Recipes
 Now at recipes we have Do- recipes that allow your devices to be turned on and off directly from the dashboard using the corresponding widget.
