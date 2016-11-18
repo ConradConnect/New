@@ -1,3 +1,9 @@
+### 17.11.2016
+## Geräte teilen
+Nun können Sie Ihre Geräte anderen Usern von Conrad Connect freigeben. Diese können die Werte Ihrer Sensoren am Dashboard anzeigen lassen und damit auch eigene Regeln erstellen. 
+Ebenso können Sie damit ein zweites Sytem vom gleichen Hersteller einbinden, das z.B. in Ihrem Gartenhäuschen steht.
+
+———————————————————————————
 ### 10.11.2016
 ## Do Regeln
 Bei den Regeln gibt es jetzt Do- Regeln, mit denen Ihre Geräte über das entsprechende Widget direkt am Dashboard ein- und ausgeschaltet werden können!
