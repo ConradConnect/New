@@ -1,3 +1,8 @@
+### 24.11.2016
+## Auto- Refresh of Dashboard
+From now on, the dashboard is updated automatically. This allows the dashboard to be used to permanently show your data, for example on a tablet.
+
+———————————————————————————
 ### 17.11.2016
 ## Share devices
 Now you can share your devices with other users of Conrad Connect. These can display the values of your sensors on the 
