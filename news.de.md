@@ -1,3 +1,8 @@
+### 24.11.2016
+## Aktualisierung des Dashboards
+Ab sofort wird das Dashboard automatisch aktualisiert. Damit kann das Dashboard zur dauerhaften Status- Anzeige Ihrer Daten verwendet werden, beispielsweise auf einem Tablet.
+
+———————————————————————————
 ### 17.11.2016
 ## Geräte teilen
 Nun können Sie Ihre Geräte anderen Usern von Conrad Connect freigeben. Diese können die Werte Ihrer Sensoren am Dashboard anzeigen lassen und damit auch eigene Regeln erstellen. 
