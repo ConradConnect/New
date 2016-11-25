@@ -13,6 +13,8 @@ Ebenso können Sie damit ein zweites Sytem vom gleichen Hersteller einbinden, da
 ## Do Regeln
 Bei den Regeln gibt es jetzt Do- Regeln, mit denen Ihre Geräte über das entsprechende Widget direkt am Dashboard ein- und ausgeschaltet werden können!
 
+![do recipe](http://img.srv2.de/bm/img/ef/3/ef333de9f53c0d120f93cd97bad3dc01d57282c851afa650190bbb6d09d41838.png)
+
 ———————————————————————————
 ### 07.11.2016
 ## Tür- und Fensterkontakt von  innogy
