@@ -13,6 +13,7 @@ Similarly you can include a second system from the same vendor which is e.g. at 
 ### 10.11.2016
 ## Do Recipes
 Now at recipes we have Do- recipes that allow your devices to be turned on and off directly from the dashboard using the corresponding widget.
+
 ![do recipe](http://img.srv2.de/bm/img/ef/3/ef333de9f53c0d120f93cd97bad3dc01d57282c851afa650190bbb6d09d41838.png)
 
 ———————————————————————————
