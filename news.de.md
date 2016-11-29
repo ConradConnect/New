@@ -2,6 +2,8 @@
 ## Ausgeführte Regeln
 Nun kann man sich am Dashboard in einem Widget die Regeln anzeigen lassen, die zuletzt ausgeführt wurden.
 
+![recipe logs](http://static.waylay.io/banners/recipe-logs-de.png)
+
 ———————————————————————————
 ### 24.11.2016
 ## Aktualisierung des Dashboards
