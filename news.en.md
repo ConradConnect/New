@@ -2,6 +2,8 @@
 ## Recipe Logs
 Now you can display the rules that were last executed on the dashboard in a widget.
 
+![recipe logs](http://static.waylay.io/banners/recipe-logs-en.png)
+
 ———————————————————————————
 ### 24.11.2016
 ## Auto- Refresh of Dashboard
