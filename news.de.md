@@ -1,4 +1,9 @@
 ### 24.11.2016
+## Ausgeführte Regeln
+Nun kann man sich am Dashboard in einem Widget die Regeln anzeigen lassen, die zuletzt ausgeführt wurden.
+
+———————————————————————————
+### 24.11.2016
 ## Aktualisierung des Dashboards
 Ab sofort wird das Dashboard automatisch aktualisiert. Damit kann das Dashboard zur dauerhaften Status- Anzeige Ihrer Daten verwendet werden, beispielsweise auf einem Tablet.
 
