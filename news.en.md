@@ -1,4 +1,9 @@
 ### 24.11.2016
+## Recipe Logs
+Now you can display the rules that were last executed on the dashboard in a widget.
+
+———————————————————————————
+### 24.11.2016
 ## Auto- Refresh of Dashboard
 From now on, the dashboard is updated automatically. This allows the dashboard to be used to permanently show your data, for example on a tablet.
 
