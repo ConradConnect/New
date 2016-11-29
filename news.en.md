@@ -1,6 +1,6 @@
 ### 24.11.2016
 ## Recipe Logs
-Now you can display the rules that were last executed on the dashboard in a widget.
+On the dashboard now you can display in a new widget the rules that were executed at last.
 
 ![recipe logs](http://static.waylay.io/banners/recipe-logs-en.png)
 
