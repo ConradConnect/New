@@ -5,6 +5,13 @@ Verbinden Sie ab sofort Ihre Jawbone Produkte mit Conrad Connect und geben Sie I
 ![jawbone](https://dashboard.conradconnect.de/img/providers/jawbone/product.png)
 
 ———————————————————————————
+### 01.12.2016
+## Internet Probleme
+Wie Sie aus den Nachrichten vernommen haben kam es diese Woche zu einigen Unterbrechungen im Internet. 
+Aus diesem Grund könnten Sie Probleme mit Ihren Produkten auf Conrad Connect haben.
+Wir sind uns dessen bewusst und arbeiten daran.
+
+———————————————————————————
 ### 24.11.2016
 ## Ausgeführte Regeln
 Nun kann man sich am Dashboard in einem Widget die Regeln anzeigen lassen, die zuletzt ausgeführt wurden.
