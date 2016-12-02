@@ -7,9 +7,9 @@ Verbinden Sie ab sofort Ihre Jawbone Produkte mit Conrad Connect und geben Sie I
 ———————————————————————————
 ### 01.12.2016
 ## Internet Probleme
-Wie Sie aus den Nachrichten vernommen haben kam es diese Woche zu einigen Unterbrechungen im Internet. 
-Aus diesem Grund könnten Sie Probleme mit Ihren Produkten auf Conrad Connect haben.
-Wir sind uns dessen bewusst und arbeiten daran.
+Wie Sie den den Medienberichten der vergangenen Tage entnehmen konnten, kam es durch Hackerangriffe teils zu erheblichen Störungen. Wir möchten Sie vorsorglich darauf hinweisen, dass es in diesem Zusammenhang auch zu Beeinträchtigungen im Verbindungsaufbau zwischen Conrad Connect und den von Ihnen verknüpften Artikeln und Services kommen kann. 
+
+Wir sind in stetigem Austausch mit den Kooperationspartnern und dadurch in der Lage, diese Beeinträchtigungen schnellst möglich zu beheben!
 
 ———————————————————————————
 ### 24.11.2016
