@@ -7,10 +7,9 @@ Connect your Jawbone products now with Conrad Connect and give your fitness data
 ———————————————————————————
 ### 01.12.2016
 ## Internet Problems
-As you heard from the news there were some interruptions on the internet this week.
-Because of that you might have problems with your integrated devices on Conrad Connect.
-We are aware of that and work on it.
-
+As you might have heard on the news there have been some issues with the internet this week.  
+Because of this, you might have some delays with your integrated devices on Conrad Connect. 
+We are aware of this issue and are working to correct it as soon as possible.
 
 ———————————————————————————
 ### 24.11.2016
