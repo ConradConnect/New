@@ -1,3 +1,10 @@
+### 02.12.2016
+## Jawbone
+Verbinden Sie ab sofort Ihre Jawbone Produkte mit Conrad Connect und geben Sie Ihren Fitnessdaten völlig neue Möglichkeiten: https://dashboard.conradconnect.de/devices/jawbone
+
+![jawbone](https://dashboard.conradconnect.de/img/providers/jawbone/product.png)
+
+———————————————————————————
 ### 24.11.2016
 ## Ausgeführte Regeln
 Nun kann man sich am Dashboard in einem Widget die Regeln anzeigen lassen, die zuletzt ausgeführt wurden.
