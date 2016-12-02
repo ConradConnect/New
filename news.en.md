@@ -5,6 +5,14 @@ Connect your Jawbone products now with Conrad Connect and give your fitness data
 ![jawbone](https://dashboard.conradconnect.de/img/providers/jawbone/product.png)
 
 ———————————————————————————
+### 01.12.2016
+## Internet Problems
+As you heard from the news there were some interruptions on the internet this week.
+Because of that you might have problems with your integrated devices on Conrad Connect.
+We are aware of that and work on it.
+
+
+———————————————————————————
 ### 24.11.2016
 ## Recipe Logs
 On the dashboard now you can display in a new widget the rules that were executed at last.
