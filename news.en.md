@@ -1,3 +1,10 @@
+### 02.12.2016
+## Jawbone
+Connect your Jawbone products now with Conrad Connect and give your fitness data completely new possibilities: https://dashboard.conradconnect.de/devices/jawbone
+
+![jawbone](https://dashboard.conradconnect.de/img/providers/jawbone/product.png)
+
+———————————————————————————
 ### 24.11.2016
 ## Recipe Logs
 On the dashboard now you can display in a new widget the rules that were executed at last.
