@@ -1,3 +1,11 @@
+### 06.12.2016
+## Verlaufsdiagramm
+Nun können auch in den Verlaufsdiagrammen die Grenzwerte individuell eingestellt werden.
+Hierzu auf das Zahnrad oben rechts klicken, den Button konfigurieren wählen und den Bereich festlegen.
+
+![diagramm](https://conradconnect.de/svg/logo.svg)
+
+———————————————————————————
 ### 02.12.2016
 ## Jawbone
 Verbinden Sie ab sofort Ihre Jawbone Produkte mit Conrad Connect und geben Sie Ihren Fitnessdaten völlig neue Möglichkeiten: https://dashboard.conradconnect.de/devices/jawbone
