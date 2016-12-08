@@ -1,3 +1,11 @@
+### 06.12.2016
+## Diagrams
+Now upper and lower limits for your data visualizations can be set individually in the diagrams.
+To change the limits, click on the options icon in the upper right corner of the chart, select the Configure button and then set the desired range.
+
+![diagramm](https://conradconnect.de/svg/logo.svg)
+
+———————————————————————————
 ### 02.12.2016
 ## Jawbone
 Connect your Jawbone products now with Conrad Connect and give your fitness data completely new possibilities: https://dashboard.conradconnect.de/devices/jawbone
