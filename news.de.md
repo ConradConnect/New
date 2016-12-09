@@ -3,7 +3,7 @@
 Nun können auch in den Verlaufsdiagrammen die Grenzwerte individuell eingestellt werden.
 Hierzu auf das Zahnrad oben rechts klicken, den Button konfigurieren wählen und den Bereich festlegen.
 
-![diagramm](https://conradconnect.de/svg/logo.svg)
+![diagramm](https://static.waylay.io/banners/widget-graph.png)
 
 ———————————————————————————
 ### 02.12.2016
