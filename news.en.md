@@ -3,7 +3,7 @@
 Now upper and lower limits for your data visualizations can be set individually in the diagrams.
 To change the limits, click on the options icon in the upper right corner of the chart, select the Configure button and then set the desired range.
 
-![diagramm](https://conradconnect.de/svg/logo.svg)
+![diagramm](https://static.waylay.io/banners/widget-graph.png)
 
 ———————————————————————————
 ### 02.12.2016
