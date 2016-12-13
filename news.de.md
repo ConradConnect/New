@@ -1,3 +1,10 @@
+### 12.12.2016
+## Einfache Regeln
+Die Erstellung von einfachen Regeln wurde komplett überarbeitet. Der Aufbau ist einfach, schnell und intuitiv verständlich. Direkt auf dem Dashboard an einem Widget auf „Regel erstellen“ klicken und das Template nach dem WENN-DANN Prinzip ausfüllen.
+
+![diagramm](https://static.waylay.io/banners/widget-graph.png)
+
+———————————————————————————
 ### 06.12.2016
 ## Verlaufsdiagramm
 Nun können auch in den Verlaufsdiagrammen die Grenzwerte individuell eingestellt werden.
