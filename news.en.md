@@ -1,3 +1,10 @@
+### 12.12.2016
+## Simple Recipes
+The creation of simple recipes has been completely revised. The structure is simple, fast and intuitive. Click “create recipe” directly at a widget on the dashboard and fill out the template according to the IF-THEN principle.
+
+![diagramm](https://static.waylay.io/banners/widget-graph.png)
+
+———————————————————————————
 ### 06.12.2016
 ## Diagrams
 Now upper and lower limits for your data visualizations can be set individually in the diagrams.
