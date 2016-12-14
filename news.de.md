@@ -1,9 +1,8 @@
 ### 14.12.2016
 ## System Status
-Nun wird der Verbindungsstatus von Conrad Connect zu den einzelnen Systemen angezeigt. Sobald wir ein Problem feststellen, werden wir es hier anzeigen.
+Den Status aller integrierten Systeme auf einen Blick haben. Sobald wir ein Problem feststellen, werden wir es hier anzeigen: https://conradconnect.de/de/status
 
-
-![status](https://conradconnect.de/de/status)
+![status](https://static.waylay.io/banners/widget-graph.png)
 
 ———————————————————————————
 ### 12.12.2016
