@@ -1,3 +1,10 @@
+### 14.12.2016
+## System Status
+Now you are able to see the status of integrated systems at one page. As soon as we recognize a problem, we will report it here: https://conradconnect.de/de/status
+
+![status](https://static.waylay.io/banners/widget-graph.png)
+
+———————————————————————————
 ### 12.12.2016
 ## Simple Recipes
 The creation of simple recipes has been completely revised. The structure is simple, fast and intuitive. Click “create recipe” directly at a widget on the dashboard and fill out the template according to the IF-THEN principle.
