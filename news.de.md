@@ -1,3 +1,11 @@
+### 14.12.2016
+## System Status
+Nun wird der Verbindungsstatus von Conrad Connect zu den einzelnen Systemen angezeigt. Sobald wir ein Problem feststellen, werden wir es hier anzeigen.
+
+
+![status](https://conradconnect.de/de/status)
+
+———————————————————————————
 ### 12.12.2016
 ## Einfache Regeln
 Die Erstellung von einfachen Regeln wurde komplett überarbeitet. Der Aufbau ist einfach, schnell und intuitiv verständlich. Direkt auf dem Dashboard an einem Widget auf „Regel erstellen“ klicken und das Template nach dem WENN-DANN Prinzip ausfüllen.
