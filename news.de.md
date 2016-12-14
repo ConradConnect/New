@@ -2,7 +2,7 @@
 ## System Status
 Den Status aller integrierten Systeme auf einen Blick haben. Sobald wir ein Problem feststellen, werden wir es hier anzeigen: https://conradconnect.de/de/status
 
-![status](https://static.waylay.io/banners/widget-graph.png)
+![status](https://s3.eu-central-1.amazonaws.com/static.waylay.io/banners/SystemStatus.png)
 
 ———————————————————————————
 ### 12.12.2016
