@@ -1,3 +1,13 @@
+### 26.12.2016
+## What problems are you solving with Conrad Connect?
+We are looking for the most creative ideas! Participate from 26.12. until 08.01. in our Conrad Community and win one of five 500 € Conrad vouchers: https://community.conrad.de/
+
+———————————————————————————
+### 22.12.2016
+## Default Recipes
+Are you getting lost in the blank canvas of Conrad Connect’s endless possibilities? We have created example recipes for the welcome dashboard for our new users to give you somewhere to start from, and show you some of what’s possible. Get inspired, and create your own recipes!
+
+———————————————————————————
 ### 20.12.2016
 ## Tell us your wish!
 We’re very thankful for you - our strong Conrad Connect Beta tester community for helping us grow our platform, improve our features, and find our bugs - keep those suggestions coming! For Christmas we want you to tell us your wishes for Conrad Connect. What new features do you want to see? Please help us make our New Year’s resolutions via the short survey below: https://www.surveymonkey.de/r/XLB2QDJ
