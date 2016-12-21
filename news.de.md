@@ -1,3 +1,14 @@
+### 26.12.2016
+## Welches Problem lösen Sie mit Conrad Connect?
+Wir sind auf der Suche nach den kreativsten Ideen. Mitmachen von 26.12. bis 08.01. auf unserer Conrad Community und einen von fünf 500 € Einkaufsgutscheinen bei Conrad Electronic SE gewinnen: https://community.conrad.de/
+
+———————————————————————————
+
+### 22.12.2016
+## Beispielregeln
+Um die Möglichkeiten von Conrad Connect noch besser kennenzulernen haben wir für alle neuen User Beispielregeln für das Welcome- Dashboard erstellt. Lassen Sie sich davon inspirieren und erstellen Sie eigene Regeln.
+
+———————————————————————————
 ### 20.12.2016
 ## Teilen Sie uns Ihre Wünsche mit!
 Jeden Tag arbeiten wir an neuen Funktionen, integrieren mehr Produkte und Services auf Conrad Connect. Ihr Feedback hilft uns dabei, genau die Funktionen zu realisieren, die Sie wirklich brauchen. Nehmen Sie sich kurz Zeit, uns Ihre Wünsche mitzuteilen damit Sie zukünftig noch mehr Freude mit unserer Plattform haben: https://www.surveymonkey.de/r/XQLPYNJ
