@@ -1,6 +1,6 @@
 ### 26.12.2016
 ## Welches Problem lösen Sie mit Conrad Connect?
-Wir sind auf der Suche nach den kreativsten Ideen. Mitmachen von 26.12. bis 08.01. auf unserer Conrad Community und einen von fünf 500 € Einkaufsgutscheinen bei Conrad Electronic SE gewinnen: https://community.conrad.de/
+Wir sind auf der Suche nach den kreativsten Ideen. Mitmachen von 26.12. bis 08.01. auf unserer Conrad Community und einen von fünf 500 € Einkaufsgutscheinen bei Conrad Electronic SE gewinnen: https://community.conrad.de/contest/ConradConnect
 
 ———————————————————————————
 
