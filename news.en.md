@@ -1,6 +1,6 @@
 ### 26.12.2016
 ## What problems are you solving with Conrad Connect?
-We are looking for the most creative ideas! Participate from 26.12. until 08.01. in our Conrad Community and win one of five 500 € Conrad vouchers: https://community.conrad.de/
+We are looking for the most creative ideas! Participate from 26.12. until 08.01. in our Conrad Community and win one of five 500 € Conrad vouchers: https://community.conrad.de/contest/ConradConnect
 
 ———————————————————————————
 ### 22.12.2016
