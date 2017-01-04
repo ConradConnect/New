@@ -1,6 +1,6 @@
 ### 26.12.2016
 ## What problems are you solving with Conrad Connect?
-We are looking for the most creative ideas! Participate from 26.12. until 08.01. in our Conrad Community and win one of five 500 € Conrad vouchers: <a href="https://community.conrad.de/contest/ConradConnect" target="blank">Link</a>
+We are looking for the most creative ideas! Participate from 26.12. until 08.01. in our Conrad Community and win one of five 500 € Conrad vouchers: <a href="https://community.conrad.de/contest/ConradConnect" target="_blank">Link</a>
 
 ———————————————————————————
 ### 22.12.2016
@@ -10,14 +10,14 @@ Are you getting lost in the blank canvas of Conrad Connect’s endless possibili
 ———————————————————————————
 ### 20.12.2016
 ## Tell us your wish!
-We’re very thankful for you - our strong Conrad Connect Beta tester community for helping us grow our platform, improve our features, and find our bugs - keep those suggestions coming! For Christmas we want you to tell us your wishes for Conrad Connect. What new features do you want to see? Please help us make our New Year’s resolutions via the short survey below: <a href="https://www.surveymonkey.de/r/XLB2QDJ" target="blank">survey</a>
+We’re very thankful for you - our strong Conrad Connect Beta tester community for helping us grow our platform, improve our features, and find our bugs - keep those suggestions coming! For Christmas we want you to tell us your wishes for Conrad Connect. What new features do you want to see? Please help us make our New Year’s resolutions via the short survey below: <a href="https://www.surveymonkey.de/r/XLB2QDJ" target="_blank">survey</a>
 
 ![survey](https://ci4.googleusercontent.com/proxy/7Bo49zY3hcqZmECHgjHnR5c73m_xT4Dbm5EGo6g_hp8nHq2ssAap-LxX8_mxW-h1wATBi5qjMzJCr9up2R-zeSaZ6D6Qqxw-POiiT0jAxgNhOKrdVZDGYraPTD3Jj9EEfWzKnvdMY3vsPfLRQUQosu48AK3ecRdpUA=s0-d-e1-ft#http://img.srv2.de/bm/img/7a/b/7ab593c4b5d0f9239542bc91145a56d29be8471a10e5f42f1fe929fb5ec813df.png)
 
 ———————————————————————————
 ### 14.12.2016
 ## System Status
-Now you are able to see the status of integrated systems at one page. As soon as we recognize a problem, we will report it here: <a href="https://conradconnect.de/en/status" target="blank">Link</a>
+Now you are able to see the status of integrated systems at one page. As soon as we recognize a problem, we will report it here: <a href="https://conradconnect.de/en/status" target="_blank">Link</a>
 
 ![status](https://s3.eu-central-1.amazonaws.com/static.waylay.io/banners/SystemStatus.png)
 
