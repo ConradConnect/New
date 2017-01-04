@@ -1,9 +1,8 @@
 ### 26.12.2016
 ## Welches Problem lösen Sie mit Conrad Connect?
-Wir sind auf der Suche nach den kreativsten Ideen. Mitmachen von 26.12. bis 08.01. auf unserer Conrad Community und einen von fünf 500 € Einkaufsgutscheinen bei Conrad Electronic SE gewinnen: [Link](https://community.conrad.de/contest/ConradConnect)
+Wir sind auf der Suche nach den kreativsten Ideen. Mitmachen von 26.12. bis 08.01. auf unserer Conrad Community und einen von fünf 500 € Einkaufsgutscheinen bei Conrad Electronic SE gewinnen: <a href="https://community.conrad.de/contest/ConradConnect" target="blank">Link</a>
 
 ———————————————————————————
-
 ### 22.12.2016
 ## Beispielregeln
 Um die Möglichkeiten von Conrad Connect noch besser kennenzulernen haben wir für alle neuen User Beispielregeln für das Welcome- Dashboard erstellt. Lassen Sie sich davon inspirieren und erstellen Sie eigene Regeln.
@@ -11,14 +10,15 @@ Um die Möglichkeiten von Conrad Connect noch besser kennenzulernen haben wir f�
 ———————————————————————————
 ### 20.12.2016
 ## Teilen Sie uns Ihre Wünsche mit!
-Jeden Tag arbeiten wir an neuen Funktionen, integrieren mehr Produkte und Services auf Conrad Connect. Ihr Feedback hilft uns dabei, genau die Funktionen zu realisieren, die Sie wirklich brauchen. Nehmen Sie sich kurz Zeit, uns Ihre Wünsche mitzuteilen damit Sie zukünftig noch mehr Freude mit unserer Plattform haben: [Umfrage](https://www.surveymonkey.de/r/XQLPYNJ)
+Jeden Tag arbeiten wir an neuen Funktionen, integrieren mehr Produkte und Services auf Conrad Connect. Ihr Feedback hilft uns dabei, genau die Funktionen zu realisieren, die Sie wirklich brauchen. Nehmen Sie sich kurz Zeit, uns Ihre Wünsche mitzuteilen damit Sie zukünftig noch mehr Freude mit unserer Plattform haben: <a href="https://www.surveymonkey.de/r/XQLPYNJ" target="blank">Umfrage</a>
+
 
 ![Umfrage](https://ci4.googleusercontent.com/proxy/7Bo49zY3hcqZmECHgjHnR5c73m_xT4Dbm5EGo6g_hp8nHq2ssAap-LxX8_mxW-h1wATBi5qjMzJCr9up2R-zeSaZ6D6Qqxw-POiiT0jAxgNhOKrdVZDGYraPTD3Jj9EEfWzKnvdMY3vsPfLRQUQosu48AK3ecRdpUA=s0-d-e1-ft#http://img.srv2.de/bm/img/7a/b/7ab593c4b5d0f9239542bc91145a56d29be8471a10e5f42f1fe929fb5ec813df.png)
 
 ———————————————————————————
 ### 14.12.2016
 ## System Status
-Den Status aller integrierten Systeme auf einen Blick haben. Sobald wir ein Problem feststellen, werden wir es hier anzeigen: https://conradconnect.de/de/status
+Den Status aller integrierten Systeme auf einen Blick haben. Sobald wir ein Problem feststellen, werden wir es hier anzeigen: <a href="https://conradconnect.de/de/status" target="blank">Link</a>
 
 ![status](https://s3.eu-central-1.amazonaws.com/static.waylay.io/banners/SystemStatus.png)
 
