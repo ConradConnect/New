@@ -1,6 +1,6 @@
 ### 04.01.2017
 ## Devolo Home Control
-Connect your Devolo products immediately via our Maker Channel to Conrad Connect. This allows you to use your Devolo Home Control products as actuator within a recipe: <a href="https://conradconnect.de/en/faq/#how-can-i-use-devolo-home-control-at-conrad-connect" target="_blank">Link<a>
+Connect your Devolo products immediately via our Maker Channel to Conrad Connect. This allows you to use your Devolo Home Control products as actuator within a recipe: <a href="https://conradconnect.de/en/faq/#how-can-i-use-devolo-home-control-at-conrad-connect" target="_blank">Link</a>
 
 ![Devolo](https://dashboard.conradconnect.de/img/providers/devolo/product.png)
 
