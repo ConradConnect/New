@@ -1,3 +1,10 @@
+### 12.01.2017
+## Tado
+Connect your Tado products and control your heating with Conrad Connect: <a href="https://dashboard.conradconnect.de/devices/tado" target="_blank">Link</a>
+
+![Tado](https://dashboard.conradconnect.de/img/providers/tado/product.jpg)
+
+———————————————————————————
 ### 04.01.2017
 ## Devolo Home Control
 Connect your Devolo products immediately via our Maker Channel to Conrad Connect. This allows you to use your Devolo Home Control products as actuator within a recipe: <a href="https://conradconnect.de/en/faq/#how-can-i-use-devolo-home-control-at-conrad-connect" target="_blank">Link</a>
