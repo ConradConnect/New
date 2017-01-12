@@ -1,6 +1,6 @@
 ### 04.01.2017
 ## Devolo Home Control
-Verbinden Sie ab sofort Ihre Devolo Produkte über unseren Maker- Channel mit Conrad Connect. Somit können Sie Ihre Devolo Home Control Produkte als Aktor innerhalb einer Regel verwenden: <a href="https://conradconnect.de/faq/#wie-verwende-ich-die-devolo-home-control-produkte-bei-conrad-connect" target="_blank">Link<a>
+Verbinden Sie ab sofort Ihre Devolo Produkte über unseren Maker- Channel mit Conrad Connect. Somit können Sie Ihre Devolo Home Control Produkte als Aktor innerhalb einer Regel verwenden: <a href="https://conradconnect.de/faq/#wie-verwende-ich-die-devolo-home-control-produkte-bei-conrad-connect" target="_blank">Link</a>
 
 ![Devolo](https://dashboard.conradconnect.de/img/providers/devolo/product.png)
 
