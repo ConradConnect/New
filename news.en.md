@@ -1,6 +1,6 @@
 ### 12.01.2017
 ## Tado
-Connect your Tado products and control your heating with Conrad Connect: <a href="https://dashboard.conradconnect.de/devices/tado" target="_blank">Link</a>
+Connect your Tado products and control your heating with Conrad Connect: <a href="https://dashboard.conradconnect.de/devices/tado">Link</a>
 
 ![Tado](https://dashboard.conradconnect.de/img/providers/tado/product.jpg)
 
