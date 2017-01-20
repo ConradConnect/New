@@ -1,5 +1,5 @@
 ### 19.01.2017
-## Aktualisierung der Produkte
+## Automatische Aktualisierung Ihrer Systeme
 Ab sofort wird alle 12 Stunden die Authorisierung ihrer Produkte aktualisiert. Falls Sie ein neues Gerät z.B. bei innogy anmelden dann erscheint dieses Gerät nach Ablauf der Zeit automatisch bei Conrad Connect und kann dann verwendet werden.
 
 ———————————————————————————
@@ -9,6 +9,7 @@ Verbinden Sie Ihre Tado Produkte und steuern Sie Ihre Heizung mit Conrad Connect
 
 ![Tado](https://dashboard.conradconnect.de/img/providers/tado/product.jpg)
 
+———————————————————————————
 ### 04.01.2017
 ## Devolo Home Control
 Verbinden Sie ab sofort Ihre Devolo Produkte über unseren Maker- Channel mit Conrad Connect. Somit können Sie Ihre Devolo Home Control Produkte als Aktor innerhalb einer Regel verwenden: <a href="https://conradconnect.de/faq/#wie-verwende-ich-die-devolo-home-control-produkte-bei-conrad-connect" target="_blank">Link</a>
