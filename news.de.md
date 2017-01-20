@@ -1,3 +1,8 @@
+### 19.01.2017
+## Aktualisierung der Produkte
+Ab sofort wird alle 12 Stunden die Authorisierung ihrer Produkte aktualisiert. Falls Sie ein neues Gerät z.B. bei innogy anmelden dann erscheint dieses Gerät nach Ablauf der Zeit automatisch bei Conrad Connect und kann dann verwendet werden.
+
+———————————————————————————
 ### 12.01.2017
 ## Tado
 Verbinden Sie Ihre Tado Produkte und steuern Sie Ihre Heizung mit Conrad Connect: <a href="https://dashboard.conradconnect.de/devices/tado">Link</a>
