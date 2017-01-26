@@ -1,3 +1,8 @@
+### 26.01.2017
+## Coming soon
+At menu Devices and Services, we now show all products that we are already working on: <a href="https://dashboard.conradconnect.de/devices#comingSoon">Link</a>
+
+———————————————————————————
 ### 19.01.2017
 ## Automatically update of your systems
 From now on, the authorization of your systems is refreshed every 12 hours. If you are connecting e.g. a new device to your innogy account then this device automatically appears and can be used at Conrad Connect after this refresh period.
