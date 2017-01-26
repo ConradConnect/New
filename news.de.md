@@ -1,3 +1,8 @@
+### 26.01.2017
+## Zukünftige Systeme
+Im Menü Produkte und Services zeigen wir nun alle Produkte, an deren Integration wir bereits arbeiten: <a href="https://dashboard.conradconnect.de/devices#comingSoon">Link</a>
+
+———————————————————————————
 ### 19.01.2017
 ## Automatische Aktualisierung Ihrer Systeme
 Ab sofort wird alle 12 Stunden die Authorisierung ihrer Produkte aktualisiert. Falls Sie ein neues Gerät z.B. bei innogy anmelden dann erscheint dieses Gerät nach Ablauf der Zeit automatisch bei Conrad Connect und kann dann verwendet werden.
