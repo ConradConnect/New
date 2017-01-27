@@ -1,3 +1,10 @@
+### 27.01.2017
+## Luftverschmutzung
+Ab sofort können Sie beim Erstellen von Regeln unter den Wetterdaten die Luftqualität mit berücksichtigen.
+
+![AirVisual](https://dashboard.conradconnect.de/img/providers/airvisual/product.jpg)
+
+———————————————————————————
 ### 26.01.2017
 ## Zukünftige Systeme
 Im Menü Produkte und Services zeigen wir nun alle Produkte, an deren Integration wir bereits arbeiten: <a href="https://dashboard.conradconnect.de/devices#comingSoon">Link</a>
