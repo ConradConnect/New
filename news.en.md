@@ -1,3 +1,10 @@
+### 27.01.2017
+## Air pollution
+From now on, when you create recipes you can take the air quality into account at folder weather data.
+
+![AirVisual](https://dashboard.conradconnect.de/img/providers/airvisual/product.jpg)
+
+———————————————————————————
 ### 26.01.2017
 ## Coming soon
 At menu Devices and Services, we now show all products that we are already working on: <a href="https://dashboard.conradconnect.de/devices#comingSoon">Link</a>
