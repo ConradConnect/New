@@ -1,3 +1,10 @@
+### 02.02.2017
+## GreenIQ Smart Garden Hub
+Connect your GreenIQ Smart Garden Hub to Conrad Connect and take advantage of the ecosystem to control your garden irrigation.
+
+![GrennIQ](https://dashboard.conradconnect.de/img/providers/greeniq/greeniq-smart-garden-hub-5.jpg)
+
+———————————————————————————
 ### 27.01.2017
 ## Air pollution
 From now on, when you create recipes you can take the air quality into account at folder weather data.
