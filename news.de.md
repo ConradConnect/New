@@ -7,7 +7,7 @@ Verbinden Sie Ihren GreenIQ Smart Garden Hub mit Conrad Connect und nutzen Sie d
 ———————————————————————————
 ### 27.01.2017
 ## Luftverschmutzung
-Ab sofort können Sie beim Erstellen von Regeln unter den Wetterdaten die Luftqualität mit berücksichtigen.
+Ab sofort können Sie beim Erstellen von Regeln unter den Wetterdaten die Luftqualität mit berücksichtigen: <a href="https://dashboard.conradconnect.de/devices/airvisual">Link</a>
 
 ![AirVisual](https://dashboard.conradconnect.de/img/providers/airvisual/product.jpg)
 
