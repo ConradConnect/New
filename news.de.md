@@ -1,3 +1,10 @@
+### 02.02.2017
+## GreenIQ Smart Garden Hub
+Verbinden Sie Ihren GreenIQ Smart Garden Hub mit Conrad Connect und nutzen Sie die Vorteile des Ökosystems bei der Steuerung Ihrer Gartenbewässerung.
+
+![GrennIQ](https://dashboard.conradconnect.de/img/providers/greeniq/greeniq-smart-garden-hub-5.jpg)
+
+———————————————————————————
 ### 27.01.2017
 ## Luftverschmutzung
 Ab sofort können Sie beim Erstellen von Regeln unter den Wetterdaten die Luftqualität mit berücksichtigen.
