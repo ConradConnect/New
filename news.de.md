@@ -1,6 +1,6 @@
 ### 02.02.2017
 ## GreenIQ Smart Garden Hub
-Verbinden Sie Ihren GreenIQ Smart Garden Hub mit Conrad Connect und nutzen Sie die Vorteile des Ökosystems bei der Steuerung Ihrer Gartenbewässerung: <a href="https://dashboard.conradconnect.de/devices/greeniq">Link</a>
+Verbinden Sie Ihren GreenIQ Smart Garden Hub mit Conrad Connect und nutzen Sie die Vorteile des Ökosystems bei der Steuerung Ihrer Gartenbewässerung: <a href="https://dashboard.conradconnect.de/devices/greeniq">sofort ausprobieren</a>
 
 ![GrennIQ](https://dashboard.conradconnect.de/img/providers/greeniq/greeniq-smart-garden-hub-5.jpg)
 
