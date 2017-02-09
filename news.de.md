@@ -1,3 +1,10 @@
+### 09.02.2017
+## Amazon Echo
+Mit Amazon Echo "Alexa" können Sie nun durch Spracheingabe ihre Do-Regeln ausführen lassen: <a href="https://dashboard.conradconnect.de/devices/alexa">starten Sie hier</a>
+
+![Alexa](https://dashboard.conradconnect.de/img/providers/alexa/product.jpg)
+
+———————————————————————————
 ### 02.02.2017
 ## GreenIQ Smart Garden Hub
 Verbinden Sie Ihren GreenIQ Smart Garden Hub mit Conrad Connect und nutzen Sie die Vorteile des Ökosystems bei der Steuerung Ihrer Gartenbewässerung: <a href="https://dashboard.conradconnect.de/devices/greeniq">sofort ausprobieren</a>
