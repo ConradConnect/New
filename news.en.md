@@ -1,3 +1,10 @@
+### 09.02.2017
+## Amazon Echo
+With Amazon Echo "Alexa" you can now have your Do-Recipes executed by voice input: <a href="https://dashboard.conradconnect.de/devices/alexa">try here</a>
+
+![Alexa](https://dashboard.conradconnect.de/img/providers/alexa/product.jpg)
+
+———————————————————————————
 ### 02.02.2017
 ## GreenIQ Smart Garden Hub
 Connect your GreenIQ Smart Garden Hub to Conrad Connect and take advantage of the ecosystem to control your garden irrigation: <a href="https://dashboard.conradconnect.de/devices/greeniq">try here</a>
