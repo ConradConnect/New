@@ -1,3 +1,10 @@
+### 17.02.2017
+## Google Kalender
+Nun können Sie mit Conrad Connect eine Regel erstellen, die direkt einen Termin in Ihren Kalender einträgt. Damit kann Ihnen z.B. der Fitness Tracker abends noch einen Termin am Sportplatz eintragen: <a href="https://dashboard.conradconnect.de/devices/googlecalendar">hier ausprobieren</a>
+
+![Kalender](https://dashboard.conradconnect.de/img/providers/googlecalendar/product.jpg)
+
+———————————————————————————
 ### 09.02.2017
 ## Amazon Echo
 Mit Amazon Echo "Alexa" können Sie nun durch Spracheingabe ihre Do-Regeln ausführen lassen: <a href="https://dashboard.conradconnect.de/devices/alexa">starten Sie hier</a>
