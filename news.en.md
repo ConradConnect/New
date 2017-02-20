@@ -1,3 +1,11 @@
+### 17.02.2017
+## Google Calendar
+Now you can use Conrad Connect to create a recipe that directly enters an appointment into your calendar. 
+Thus your fitness tracker can enter e.g. an appointment in the evening at the sports field: <a href="https://dashboard.conradconnect.de/devices/googlecalendar">try here</a>
+
+![Calendar](https://dashboard.conradconnect.de/img/providers/googlecalendar/product.jpg)
+
+———————————————————————————
 ### 09.02.2017
 ## Amazon Echo
 With Amazon Echo "Alexa" you can now have your Do-Recipes executed by voice input: <a href="https://dashboard.conradconnect.de/devices/alexa">try here</a>
