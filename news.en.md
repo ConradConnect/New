@@ -1,3 +1,10 @@
+### 21.02.2017
+## Widget for weather data
+With our new widget you now can view the weather data from any location on your dashboard.
+
+![weather](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/0c5e4322-555e-413e-924d-79f0eb81e95e.jpg)
+
+———————————————————————————
 ### 17.02.2017
 ## Google Calendar
 Now you can use Conrad Connect to create a recipe that directly enters an appointment into your calendar. 
