@@ -1,3 +1,10 @@
+### 21.02.2017
+## Anzeige der Wetterdaten
+Mit unserem neuen Widget können Sie sich jetzt am Dashboard die Wetterdaten von jedem beliebigen Ort anzeigen lassen.
+
+![Wetterdaten](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/39fc6ac4-5695-4def-8cf2-dbbfddaaa624.jpg)
+
+———————————————————————————
 ### 17.02.2017
 ## Google Kalender
 Nun können Sie mit Conrad Connect eine Regel erstellen, die direkt einen Termin in Ihren Kalender einträgt. Damit kann Ihnen z.B. der Fitness Tracker abends noch einen Termin am Sportplatz eintragen: <a href="https://dashboard.conradconnect.de/devices/googlecalendar">hier ausprobieren</a>
