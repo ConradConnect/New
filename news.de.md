@@ -1,4 +1,13 @@
 ### 21.02.2017
+## Hinweis zu Amazon Echo
+Bitte führen Sie die Anbindung des Skills nicht mit der iOS- App aus! Diese ist noch nicht freigegeben. 
+
+Gehen Sie mit einem PC o.ä. auf die Alexa Seite unter: http://alexa.amazon.de und melden Sie sich an. Suchen Sie in den Alexa Skills unter 'Smart Home' nach dem Skill 'Conrad Connect'. Drücken Sie auf 'Skill aktivieren' und gewähren Sie den Zugang bei Conrad Connect.
+
+![Alexa](https://dashboard.conradconnect.de/img/providers/alexa/product.jpg)
+
+———————————————————————————
+### 21.02.2017
 ## Anzeige der Wetterdaten
 Mit unserem neuen Widget können Sie sich jetzt am Dashboard die Wetterdaten von jedem beliebigen Ort anzeigen lassen.
 
