@@ -1,3 +1,19 @@
+### 23.02.2017
+## Widget for air quality
+From now on you can display air quality from any location on your dashboard. 
+Simply add the widget "Airquality" and enter the desired location in the settings at the widget.
+
+![airquality](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/4e1eb92d-8559-4fbf-afce-4aa03de18d1d.jpg)
+
+———————————————————————————
+### 21.02.2017
+## Note for Amazon Echo
+Please do not connect the skill with the iOS app! The app is not yet released.
+Please use a computer or similar.
+
+![Alexa](https://dashboard.conradconnect.de/img/providers/alexa/product.jpg)
+
+———————————————————————————
 ### 21.02.2017
 ## Widget for weather data
 With our new widget you now can view the weather data from any location on your dashboard.
