@@ -1,3 +1,11 @@
+### 23.02.2017
+## Anzeige  der Luftqualität
+Ab sofort können Sie sich die Luftqualität von einem beliebigen Ort am Dasboard anzeigen lassen.
+Einfach das Widget Wetterkarte unter "Luftqualität" wählen und den gewünschten Ort bei den Einstellungen am Widget eingeben.
+
+![Luftqualität](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/5062d7e6-75f3-4b87-a78a-5d25e8f3f066.jpg)
+
+———————————————————————————
 ### 21.02.2017
 ## Hinweis zu Amazon Echo
 Bitte führen Sie die Anbindung des Skills nicht mit der iOS- App aus! Diese ist noch nicht freigegeben. 
