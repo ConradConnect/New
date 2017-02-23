@@ -7,9 +7,18 @@ Simply add the widget "Airquality" and enter the desired location in the setting
 
 ———————————————————————————
 ### 21.02.2017
-## Note for Amazon Echo
-Please do not connect the skill with the iOS app! The app is not yet released.
-Please use a computer or similar.
+## Important note for Amazon Echo
+<b>Please do not use the native iOS app of Amazon Alexa to install Conrad Connect skill, 
+as this method is not yet supported. </b>
+The best way to perform the installation is to do it via Amazon Alexa web app.
+<br>1. Open the following link in a browser and log in to your Amazon Alexa account:  http://alexa.amazon.de
+<br>2. Go to the "Skills" menu and search for "Conrad Connect".
+<br>3. Press "Enable" button and provide the credentials to your Conrad Connect account. 
+
+Note:
+<br>Amazon Alexa allows you to start Do Recipes with your voice. The service cannot be used directly in the graphical rule (Recipe) editor as sensor or actuator.
+
+To have a Do Recipe executed by Alexa (e.g. a Do Recipe named "Light"), just say "Alexa, connect to Conrad Connect", then " Please, execute Light". You can also say "Alexa, please tell Conrad Connect to start Light". 
 
 ![Alexa](https://dashboard.conradconnect.de/img/providers/alexa/product.jpg)
 
