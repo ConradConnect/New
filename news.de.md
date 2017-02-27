@@ -1,6 +1,6 @@
 ### 23.02.2017
 ## Anzeige  der Luftqualität
-Ab sofort können Sie sich die Luftqualität von einem beliebigen Ort am Dasboard anzeigen lassen.
+Ab sofort können Sie sich die Luftqualität von einem beliebigen Ort am Dashboard anzeigen lassen.
 Einfach das Widget Wetterkarte unter "Luftqualität" wählen und den gewünschten Ort bei den Einstellungen am Widget eingeben.
 
 ![Luftqualität](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/5062d7e6-75f3-4b87-a78a-5d25e8f3f066.jpg)
@@ -40,7 +40,7 @@ Mit Amazon Echo "Alexa" können Sie nun durch Spracheingabe ihre Do-Regeln ausf�
 ## GreenIQ Smart Garden Hub
 Verbinden Sie Ihren GreenIQ Smart Garden Hub mit Conrad Connect und nutzen Sie die Vorteile des Ökosystems bei der Steuerung Ihrer Gartenbewässerung: <a href="https://dashboard.conradconnect.de/devices/greeniq">sofort ausprobieren</a>
 
-![GrennIQ](https://dashboard.conradconnect.de/img/providers/greeniq/greeniq-smart-garden-hub-5.jpg)
+![GreenIQ](https://dashboard.conradconnect.de/img/providers/greeniq/greeniq-smart-garden-hub-5.jpg)
 
 ———————————————————————————
 ### 27.01.2017
@@ -57,7 +57,7 @@ Im Menü Produkte und Services zeigen wir nun alle Produkte, an deren Integratio
 ———————————————————————————
 ### 19.01.2017
 ## Automatische Aktualisierung Ihrer Systeme
-Ab sofort wird alle 12 Stunden die Authorisierung ihrer Produkte aktualisiert. Falls Sie ein neues Gerät z.B. bei innogy anmelden dann erscheint dieses Gerät nach Ablauf der Zeit automatisch bei Conrad Connect und kann dann verwendet werden.
+Ab sofort wird alle 12 Stunden die Autorisierung ihrer Produkte aktualisiert. Falls Sie ein neues Gerät z.B. bei innogy anmelden dann erscheint dieses Gerät nach Ablauf der Zeit automatisch bei Conrad Connect und kann dann verwendet werden.
 
 ———————————————————————————
 ### 12.01.2017
@@ -123,9 +123,9 @@ Verbinden Sie ab sofort Ihre Jawbone Produkte mit Conrad Connect und geben Sie I
 ———————————————————————————
 ### 01.12.2016
 ## Internet Probleme
-Wie Sie den den Medienberichten der vergangenen Tage entnehmen konnten, kam es durch Hackerangriffe teils zu erheblichen Störungen. Wir möchten Sie vorsorglich darauf hinweisen, dass es in diesem Zusammenhang auch zu Beeinträchtigungen im Verbindungsaufbau zwischen Conrad Connect und den von Ihnen verknüpften Artikeln und Services kommen kann. 
+Wie Sie den Medienberichten der vergangenen Tage entnehmen konnten, kam es durch Hackerangriffe teils zu erheblichen Störungen. Wir möchten Sie vorsorglich darauf hinweisen, dass es in diesem Zusammenhang auch zu Beeinträchtigungen im Verbindungsaufbau zwischen Conrad Connect und den von Ihnen verknüpften Artikeln und Services kommen kann. 
 
-Wir sind in stetigem Austausch mit den Kooperationspartnern und dadurch in der Lage, diese Beeinträchtigungen schnellst möglich zu beheben!
+Wir sind in stetigem Austausch mit den Kooperationspartnern und dadurch in der Lage, diese Beeinträchtigungen schnellstmöglich zu beheben!
 
 ———————————————————————————
 ### 24.11.2016
@@ -143,14 +143,14 @@ Ab sofort wird das Dashboard automatisch aktualisiert. Damit kann das Dashboard 
 ### 17.11.2016
 ## Geräte teilen
 Nun können Sie Ihre Geräte anderen Usern von Conrad Connect freigeben. Diese können die Werte Ihrer Sensoren am Dashboard anzeigen lassen und damit auch eigene Regeln erstellen. 
-Ebenso können Sie damit ein zweites Sytem vom gleichen Hersteller einbinden, das z.B. in Ihrem Gartenhäuschen steht.
+Ebenso können Sie damit ein zweites System vom gleichen Hersteller einbinden, das z.B. in Ihrem Gartenhäuschen steht.
 
 ———————————————————————————
 ### 10.11.2016
 ## Do Regeln
 Bei den Regeln gibt es jetzt Do- Regeln, mit denen Ihre Geräte über das entsprechende Widget direkt am Dashboard ein- und ausgeschaltet werden können!
 
-![do recipe](http://img.srv2.de/bm/img/ef/3/ef333de9f53c0d120f93cd97bad3dc01d57282c851afa650190bbb6d09d41838.png)
+![DoRecipe](http://img.srv2.de/bm/img/ef/3/ef333de9f53c0d120f93cd97bad3dc01d57282c851afa650190bbb6d09d41838.png)
 
 ———————————————————————————
 ### 07.11.2016
