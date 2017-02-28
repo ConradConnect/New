@@ -2,7 +2,7 @@
 ## Tukuoro
 Nun kann man unter Android alle DoRegeln ganz einfach durch Spracheingabe ausführen.
 Jetzt die App installieren und einrichten:
-<a href="https://play.google.com/store/apps/details?id=com.tukuoro.tukuoroclientV101_conradconnect"> 
+<a href="https://play.google.com/store/apps/details?id=com.tukuoro.tukuoroclientV101_conradconnect" target="_blank"> 
 Download Link</a>
 
 ![Tukuoro](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/7265d4c0-d3ab-4f1b-bb81-bedebe0f55c9.jpg)
