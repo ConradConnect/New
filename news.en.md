@@ -1,3 +1,14 @@
+### 28.02.2017
+## Tukuoro
+With Android now you can execute all DoRecipes simply by voice entry.
+Install now and set up the app:
+<a href="https://play.google.com/store/apps/details?id=com.tukuoro.tukuoroclientV101_conradconnect" target="_blank"> 
+Download Link</a>
+
+![Tukuoro](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/7265d4c0-d3ab-4f1b-bb81-bedebe0f55c9.jpg)
+
+
+———————————————————————————
 ### 23.02.2017
 ## Widget for air quality
 From now on you can display air quality from any location on your dashboard. 
