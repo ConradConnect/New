@@ -29,7 +29,7 @@ The best way to perform the installation is to do it via Amazon Alexa web app.
 Note:
 <br>Amazon Alexa allows you to start Do Recipes with your voice. The service cannot be used directly in the graphical rule (Recipe) editor as sensor or actuator.
 
-To have a Do Recipe executed by Alexa (e.g. a Do Recipe named "Light"), just say "Alexa, connect to Conrad Connect", then " Please, execute Light". You can also say "Alexa, please tell Conrad Connect to start Light". 
+To have a Do Recipe executed by Alexa (e.g. a Do Recipe named "Light"), just say "Alexa, connect to Conrad Connect", then "Please, execute Light". You can also say "Alexa, please tell Conrad Connect to start Light". 
 
 ![Alexa](https://dashboard.conradconnect.de/img/providers/alexa/product.jpg)
 
