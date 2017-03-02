@@ -1,3 +1,11 @@
+### 02.03.2017
+## Weatherhub
+Weatherhub bietet verschiedene Sensoren zur Erfassung von Wetterdaten. Erweitern Sie die Funktionalität der Sensoren indem Sie diese in Conrad Connect integrieren und mit anderen Produkten und Services verknüpfen:
+<a href="https://dashboard.conradconnect.de/devices/weatherhub">hier ausprobieren</a>
+
+![Weatherhub](https://dashboard.conradconnect.de/img/providers/weatherhub/product.jpg)
+
+———————————————————————————
 ### 28.02.2017
 ## Tukuoro
 Nun kann man unter Android alle DoRegeln ganz einfach durch Spracheingabe ausführen.
