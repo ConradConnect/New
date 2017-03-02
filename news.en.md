@@ -1,3 +1,11 @@
+### 02.03.2017
+## Weatherhub
+Weatherhub offers various sensors for recording weather data. Extend the functionality of the sensors by integrating them into Conrad Connect and linking them to other products and services:
+<a href="https://dashboard.conradconnect.de/devices/weatherhub">try here</a>
+
+![Weatherhub](https://dashboard.conradconnect.de/img/providers/weatherhub/product.jpg)
+
+———————————————————————————
 ### 28.02.2017
 ## Tukuoro
 With Android now you can execute all DoRecipes simply by voice entry.
