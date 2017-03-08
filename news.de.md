@@ -1,3 +1,10 @@
+### 08.03.2017
+## Ihre drei Lieblingsorte in einem Widget
+Jetzt können Sie sich die Wetterdaten und die Luftqualität von bis zu drei Orten auf Ihrem Dashboard anzeigen lassen.
+
+![widgets](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/fef5900d-8d10-40c1-a05a-185e8bf48edc.png)
+
+———————————————————————————
 ### 02.03.2017
 ## Weatherhub
 Weatherhub bietet verschiedene Sensoren zur Erfassung von Wetterdaten. Erweitern Sie die Funktionalität der Sensoren indem Sie diese in Conrad Connect integrieren und mit anderen Produkten und Services verknüpfen:
