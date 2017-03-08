@@ -1,3 +1,10 @@
+### 08.03.2017
+## Your three favorite places in one widget
+Now you can view the weather data and the air quality of up to three locations on your dashboard.
+
+![widgets](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/fef5900d-8d10-40c1-a05a-185e8bf48edc.png)
+
+———————————————————————————
 ### 02.03.2017
 ## Weatherhub
 Weatherhub offers various sensors for recording weather data. Extend the functionality of the sensors by integrating them into Conrad Connect and linking them to other products and services:
