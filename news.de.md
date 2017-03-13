@@ -226,13 +226,16 @@ Nun können Regeln ganz einfach ein- und wieder ausgeschaltet werden.
 ### 25.09.2016
 ## innogy SmartHome integriert
 innogy (ehemals RWE) bietet eine Vielzahl an schaltbaren Steckdosen, Schalter, PIR Bewegungsmelder und Rauchmelder. Nun können alle Geräte von innogy und RWE bei Conrad Connect integriert werden.
+
 ![innogy](https://static.waylay.io/banners/innogy-product.jpg) 
 
 ———————————————————————————
 ### 20.09.2016
-## Google Drive integriert
-Mit Google Sheets können Sie Tabellen erzeugen. In diese Tabelle wird automatisch der neueste Messwert eingetragen und kann jederzeit z.B. als Excel Datei abgespeichert oder in eine PDF Datei exportiert werden.
-![googledrive](https://static.waylay.io/banners/google-drive-intro.png)
+## Google Sheets integriert
+Mit Google Sheets können Sie Tabellen erzeugen. In diese Tabelle wird automatisch der neueste Messwert eingetragen und kann jederzeit z.B. als Excel Datei abgespeichert oder in eine PDF Datei exportiert werden:
+<a href="https://dashboard.conradconnect.de/devices/googledrive">hier ausprobieren</a>
+
+![googledrive](https://dashboard.conradconnect.de/img/providers/googledrive/product_new.png)
 
 ———————————————————————————
 ### 19.09.2016
