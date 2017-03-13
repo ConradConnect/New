@@ -1,3 +1,11 @@
+### 13.03.2017
+## LineMetrics
+Nun können auch die drahtlosen robusten Sensoren von LineMetrics eingebunden werden:
+<a href="https://dashboard.conradconnect.de/devices/linemetrics">hier ausprobieren</a>
+
+![LineMetrics](https://dashboard.conradconnect.de/img/providers/linemetrics/product.jpg)
+
+———————————————————————————
 ### 08.03.2017
 ## Ihre drei Lieblingsorte in einem Widget
 Jetzt können Sie sich die Wetterdaten und die Luftqualität von bis zu drei Orten auf Ihrem Dashboard anzeigen lassen.
