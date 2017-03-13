@@ -1,3 +1,11 @@
+### 13.03.2017
+## LineMetrics
+Now the wireless and robust sensors from LineMetrics can be integrated:
+<a href="https://dashboard.conradconnect.de/devices/linemetrics">try here</a>
+
+![LineMetrics](https://dashboard.conradconnect.de/img/providers/linemetrics/product.jpg)
+
+———————————————————————————
 ### 08.03.2017
 ## Your three favorite places in one widget
 Now you can view the weather data and the air quality of up to three locations on your dashboard.
