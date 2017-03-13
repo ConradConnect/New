@@ -240,9 +240,11 @@ Innogy (formerly RWE) offers a variety of switchable sockets, switches, PIR moti
 
 ———————————————————————————
 ### 20.09.2016
-## Integration of Google Drive
-Google Sheets allows you to create tables. The measured values are inserted automatically and data can be saved for example as Excel file or exported as PDF.
-![googledrive](https://static.waylay.io/banners/google-drive-intro.png)
+## Integration of Google Sheets
+Google Sheets allows you to create tables. The measured values are inserted automatically and data can be saved for example as Excel file or exported as PDF:
+<a href="https://dashboard.conradconnect.de/devices/googledrive">try here</a>
+
+![GoogleSheets](https://dashboard.conradconnect.de/img/providers/googledrive/product_new.png)
 
 ———————————————————————————
 ### 19.09.2016
