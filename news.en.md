@@ -1,3 +1,12 @@
+### 21.03.2017
+## Nest
+New at Conrad Connect - the intelligent smoke detector from Nest, which can even speak.
+The perfect protection against smoke and carbon monoxide:
+<a href="https://dashboard.conradconnect.de/devices/nest">try here</a>
+
+![Nest](https://dashboard.conradconnect.de/img/providers/nest/product_protect.jpg)
+
+———————————————————————————
 ### 13.03.2017
 ## LineMetrics
 Now the wireless and robust sensors from LineMetrics can be integrated:
