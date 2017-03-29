@@ -1,3 +1,11 @@
+### 28.03.2017
+## C-Control
+Now you can easily install the C-Control IoT Box 100 with its associated C-Control sensors:
+<a href="https://dashboard.conradconnect.de/devices/ccontrol">try here</a>
+
+![C-Control](https://dashboard.conradconnect.de/img/providers/ccontrol/device.jpg)
+
+———————————————————————————
 ### 21.03.2017
 ## Nest
 New at Conrad Connect - the intelligent smoke detector from Nest, which can even speak.
