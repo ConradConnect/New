@@ -1,3 +1,12 @@
+### 31.03.2017
+## Google Calendar
+From now on you can use the Google Calendar even as an input: 
+so before each appointment Conrad Connect can turn on a lamp to remind you of that appointment:
+<a href="https://dashboard.conradconnect.de/devices/googlecalendar">try here</a>
+
+![Calendar](https://dashboard.conradconnect.de/img/providers/googlecalendar/product.jpg)
+
+———————————————————————————
 ### 28.03.2017
 ## C-Control
 Now you can easily install the C-Control IoT Box 100 with its associated C-Control sensors:
