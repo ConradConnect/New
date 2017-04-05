@@ -1,3 +1,11 @@
+### 04.04.2017
+## Telldus
+Nun bei Conrad Connect - die Smart-Home-Technologie von Telldus. Die Firma Telldus ist einer der führenden Anbieter für Hausautomation in Schweden:
+<a href="https://dashboard.conradconnect.de/devices/telldus">sofort ausprobieren</a>
+
+![Telldus](https://dashboard.conradconnect.de/img/providers/telldus/product.jpg)
+
+———————————————————————————
 ### 31.03.2017
 ## Google Kalender
 Ab sofort können Sie den Google Kalender auch als Eingang benutzen: so kann Ihnen Conrad Connect vor jedem Termin eine Lampe einschalten die Sie an den Termin erinnert:
