@@ -1,3 +1,12 @@
+### 04.04.2017
+## Telldus
+Now at Conrad Connect - the smart home technology from Telldus. Telldus is one of the leading providers of home automation in Sweden:
+<a href="https://dashboard.conradconnect.de/devices/telldus">try here</a>
+
+![Telldus](https://dashboard.conradconnect.de/img/providers/telldus/product.jpg)
+
+———————————————————————————
+
 ### 31.03.2017
 ## Google Calendar
 From now on you can use the Google Calendar even as an input: 
