@@ -1,3 +1,11 @@
+### 07.04.2017
+## Delay Sensor
+In the Recipe editor there is now a possibility to trigger switching operations time delayed.
+So in case of an event e.g. you can turn on a lamp which automatically turns off after a few minutes.
+
+![Delay](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/c5718dd2-7c8f-412f-823c-16382caa9d29.png)
+
+———————————————————————————
 ### 04.04.2017
 ## Telldus
 Now at Conrad Connect - the smart home technology from Telldus. Telldus is one of the leading providers of home automation in Sweden:
@@ -6,7 +14,6 @@ Now at Conrad Connect - the smart home technology from Telldus. Telldus is one o
 ![Telldus](https://dashboard.conradconnect.de/img/providers/telldus/product.jpg)
 
 ———————————————————————————
-
 ### 31.03.2017
 ## Google Calendar
 From now on you can use the Google Calendar even as an input: 
