@@ -1,3 +1,11 @@
+### 07.04.2017
+## Delay Sensor - Zeitverzögerung
+Im Regeleditor gibt es nun eine Möglichkeit Schaltvorgänge zeitverzögert auszulösen.
+So kann man z.B. bei einem Ereignis eine Lampe einschalten, die sich nach ein paar Minuten automatisch wieder ausschaltet.
+
+![Delay](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/c5718dd2-7c8f-412f-823c-16382caa9d29.png)
+
+———————————————————————————
 ### 04.04.2017
 ## Telldus
 Nun bei Conrad Connect - die Smart-Home-Technologie von Telldus. Die Firma Telldus ist einer der führenden Anbieter für Hausautomation in Schweden:
