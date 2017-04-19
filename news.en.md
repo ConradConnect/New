@@ -1,3 +1,11 @@
+### 18.04.2017
+## Honeywell
+completely new - the Honeywell evohome system at Conrad Connect:
+<a href="https://dashboard.conradconnect.de/devices/honeywell">try here</a>
+
+![Honeywell](https://dashboard.conradconnect.de/img/providers/honeywell/product.png)
+
+———————————————————————————
 ### 07.04.2017
 ## Delay Sensor
 In the Recipe editor there is now a possibility to trigger switching operations time delayed.
