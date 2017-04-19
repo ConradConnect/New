@@ -1,3 +1,11 @@
+### 18.04.2017
+## Honeywell
+Ganz neu ist jetzt das Honeywell evohome System bei Conrad Connect:
+<a href="https://dashboard.conradconnect.de/devices/honeywell">gleich ausprobieren</a>
+
+![Honeywell](https://dashboard.conradconnect.de/img/providers/honeywell/product.png)
+
+———————————————————————————
 ### 07.04.2017
 ## Delay Sensor - Zeitverzögerung
 Im Regeleditor gibt es nun eine Möglichkeit Schaltvorgänge zeitverzögert auszulösen.
