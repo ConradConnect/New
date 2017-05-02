@@ -1,3 +1,11 @@
+### 02.05.2017
+## Google Home
+Nun konnten wir auch Google Home bei Conrad Connect integrieren - das nächste Gerät um DoRegeln einfach durch Spracheingabe auszuführen, neben dem Amazom Echo (Alexa) und der App von Tukuoro:
+<a href="https://dashboard.conradconnect.de/devices/googleHome">gleich ausprobieren</a>
+
+![Google Home](https://dashboard.conradconnect.de/img/providers/googlehome/product.jpg)
+
+———————————————————————————
 ### 18.04.2017
 ## Honeywell
 Ganz neu ist jetzt das Honeywell evohome System bei Conrad Connect:
