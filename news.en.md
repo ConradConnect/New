@@ -1,3 +1,11 @@
+### 02.05.2017
+## Google Home
+Now we could also integrate Google Home with Conrad Connect - the next device to execute DoRecipes simply by voice input, next to the Amazon Echo (Alexa) and the app of Tukuoro:
+<a href="https://dashboard.conradconnect.de/devices/googleHome">try here</a>
+
+![Google Home](https://dashboard.conradconnect.de/img/providers/googlehome/product.jpg)
+
+———————————————————————————
 ### 18.04.2017
 ## Honeywell
 completely new - the Honeywell evohome system at Conrad Connect:
