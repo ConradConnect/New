@@ -1,3 +1,11 @@
+### 05.05.2017
+## Home Connect
+Home Connect ist unsere neueste Integration. Damit können Sie Ihre Haushaltsgeräte von ausgewählten europäischen Marken wie Bosch und Siemens steuern:
+<a href="https://dashboard.conradconnect.de/devices/boschhome">gleich ausprobieren</a>
+
+![Home Connect](https://dashboard.conradconnect.de/img/providers/boschhome/product.png)
+
+———————————————————————————
 ### 02.05.2017
 ## Google Home
 Nun konnten wir auch Google Home bei Conrad Connect integrieren - das nächste Gerät um DoRegeln einfach durch Spracheingabe auszuführen, neben dem Amazom Echo (Alexa) und der App von Tukuoro:
