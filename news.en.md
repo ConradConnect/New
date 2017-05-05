@@ -1,3 +1,11 @@
+### 05.05.2017
+## Home Connect
+HomeConnect is our latest integration. This allows you to control your household appliances from selected European brands such as Bosch and Siemens:
+<a href="https://dashboard.conradconnect.de/devices/boschhome">try here</a>
+
+![Home Connect](https://dashboard.conradconnect.de/img/providers/boschhome/product.png)
+
+———————————————————————————
 ### 02.05.2017
 ## Google Home
 Now we could also integrate Google Home with Conrad Connect - the next device to execute DoRecipes simply by voice input, next to the Amazon Echo (Alexa) and the app of Tukuoro:
