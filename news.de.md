@@ -1,3 +1,8 @@
+### 29.05.2017
+## Polar Wartungsarbeiten
+Lieber Polar Geräte-Nutzer! Wegen Wartungsarbeiten auf der Polarseite kann es am 30. Mai zwischen 3:00 Uhr und 7:00 Uhr (CEST) zu einigen Unterbrechungen im Datenfluss kommen. Bitte beachten Sie, dass dies auch Auswirkungen auf Ihre vorhandenen Regeln mit Polar haben kann. Danke für Ihr Verständnis!
+
+———————————————————————————
 ### 05.05.2017
 ## Home Connect
 Home Connect ist unsere neueste Integration. Damit können Sie Ihre Haushaltsgeräte von ausgewählten europäischen Marken wie Bosch und Siemens steuern:
