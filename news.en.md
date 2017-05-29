@@ -1,3 +1,8 @@
+### 29.05.2017
+## Polar maintenance
+Dear Polar devices user! Due to maintenance works on Polar side, you may experience some interruptions in the data flow between 3am and 7am on 30th May (CEST). Please note, that this can have an effect on your existing Recipes with Polar as well. Thank you for your understanding!
+
+———————————————————————————
 ### 05.05.2017
 ## Home Connect
 HomeConnect is our latest integration. This allows you to control your household appliances from selected European brands such as Bosch and Siemens:
