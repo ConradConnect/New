@@ -1,6 +1,6 @@
 ### 29.05.2017
 ## Polar Wartungsarbeiten
-Lieber Polar Geräte-Nutzer! Wegen Wartungsarbeiten seitens Polar kann es am 30. Mai zwischen 3:00 Uhr und 7:00 Uhr (CEST) zu einigen Unterbrechungen im Datenfluss kommen. Bitte beachten Sie, dass dies auch Auswirkungen auf Ihre vorhandenen Regeln mit Polar haben kann. Danke für Ihr Verständnis!
+Lieber Polar Geräte-Nutzer! Wegen Wartungsarbeiten seitens Polar kann es am 30. Mai zwischen 3:00 Uhr und 7:00 Uhr (CEST) zu einigen Unterbrechungen im Datenfluss kommen. Bitte beachten Sie, dass dies auch Auswirkungen auf Ihre vorhandenen Regeln mit Polar haben kann. Danke für Ihr Verständnis!   
 
 ———————————————————————————
 ### 05.05.2017
