@@ -2,7 +2,7 @@
 ## Locative gibt es nicht mehr
 Lieber Nutzer des Locative Services,
 Leider wurde der Locative Service vom Anbieter gestoppt. Aus diesem Grund können Sie diese Anwendung über Conrad Connect künftig nicht mehr nutzen. Bitte beachten Sie, dass bereits erstellt Regeln, die den Locative Service enthalten, von nun an nicht mehr funktionieren.
-Danke für Ihr Verständnis!
+Danke für Ihr Verständnis!  
 
 ———————————————————————————
 ### 29.05.2017
