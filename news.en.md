@@ -2,7 +2,7 @@
 ## Locative has been closed
 Dear Locative user,
 Unfortunately, Locative service has been shut down by the service provider. For this reason you will not be able to use this application via Conrad Connect in the future. Please note, that your Recipes which include Locative will not work from now on. 
-Thank you for your understanding!   
+Thank you for your understanding!     
 
 ———————————————————————————
 ### 29.05.2017
