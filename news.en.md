@@ -1,6 +1,6 @@
 ### 12.06.2017
 ## Google Assistant maintenance
-Dear Google Assistant user! Due to maintenance works on Google side, you may experience some interruptions in the usage of your Google Home device or Google Assistant service between June, 14th 6:30pm and June, 15th 2:30am (CEST). Please note, that this can have an effect on executing Do Recipes via Google Home or Assistant as well. Thank you for your understanding! 
+Dear Google Assistant user! Due to maintenance works on Google side, you may experience some interruptions in the usage of your Google Home device or Google Assistant service between June, 14th 6:30pm and June, 15th 2:30am (CEST). Please note, that this can have an effect on executing Do Recipes via Google Home or Assistant as well. Thank you for your understanding!    
 
 ———————————————————————————
 ### 31.05.2017
