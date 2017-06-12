@@ -1,4 +1,14 @@
 ### 12.06.2017
+## New integration - myStrom
+Mystrom is our latest integration. Save energy, set mood and automate your smart home even better with Conrad Connect:
+<a href="https://dashboard.conradconnect.de/devices/mystrom">try here</a>
+
+![MyStrom](https://dashboard.conradconnect.de/img/providers/mystrom/product.jpg)    
+
+———————————————————————————
+
+
+### 12.06.2017
 ## Google Assistant maintenance
 Dear Google Assistant user! Due to maintenance works on Google side, you may experience some interruptions in the usage of your Google Home device or Google Assistant service between June, 14th 6:30pm and June, 15th 2:30am (CEST). Please note, that this can have an effect on executing Do Recipes via Google Home or Assistant as well. 
 Thank you for your understanding!    
