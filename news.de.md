@@ -1,4 +1,13 @@
 ### 12.06.2017
+## Neue Integration - myStrom
+Die bekannte Marke aus der Schweiz ist nun mit unserer Plattform kompatibel.
+<a href="https://dashboard.conradconnect.de/devices/mystrom">gleich ausprobieren</a>
+
+![MyStrom](https://dashboard.conradconnect.de/img/providers/mystrom/product.jpg)
+———————————————————————————
+
+
+### 12.06.2017
 ## Google Assistant Wartung
 Sehr geehrter Google Assistant Nutzer, wegen Wartungsarbeiten auf Google-Seite kann es sein, dass Sie zwischen dem 14. Juni, 18:30 Uhr und dem 15. Juni, 2:30 Uhr (CEST) Ihr Google-Home-Gerät oder die Google Assistant-Dienste nur eingeschränkt nutzen können. Bitte beachten Sie, dass dies auch Auswirkungen auf die Ausführung von Regeln, die Google Home oder den Google Assistant beinhalten, haben kann. Danke für Ihr Verständnis!
 
