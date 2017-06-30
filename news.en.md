@@ -1,3 +1,13 @@
+### 30.06.2017
+## New supported product - Starter kit 10 (ELCO board)
+Small but a powerful ELCO board enables you to quickly join the world of IoT:
+<a href="https://dashboard.conradconnect.de/devices/conradWrapper">try here</a>
+
+![ELCO](https://dashboard.conradconnect.de/img/providers/elco/device.png)    
+
+———————————————————————————
+
+
 ### 12.06.2017
 ## New integration - myStrom
 Mystrom is our latest integration. Save energy, set mood and automate your smart home even better with Conrad Connect:
