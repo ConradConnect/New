@@ -1,9 +1,8 @@
 ### 12.06.2017
-## Neue Integration - myStrom
-Die bekannte Marke aus der Schweiz ist nun mit unserer Plattform kompatibel.
+## Jetzt kompatibel - IoT-Starter Kit 10
 <a href="https://dashboard.conradconnect.de/devices/mystrom">gleich ausprobieren</a>
 
-![MyStrom](https://dashboard.conradconnect.de/img/providers/mystrom/product.jpg)
+![ELCO](https://dashboard.conradconnect.de/img/providers/elco/device.png)
 ———————————————————————————
 
 
