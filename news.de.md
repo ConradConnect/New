@@ -1,6 +1,6 @@
 ### 30.06.2017
 ## Das smarte Badezimmer
-<a href="https://conradconnect.de/blog/2017/01/smartbathroom.html">Hier der Link </a>zu unserem Newsletter, der Ihnen in wenigen Schritten erklärt, wir Ihr Badezimmer smart wird.
+<a href="https://conradconnect.de/blog/2017/01/smartbathroom.html" target="_blank">Hier der Link </a>zu unserem Newsletter, der Ihnen in wenigen Schritten erklärt, wir Ihr Badezimmer smart wird.
 
 ![Badezimmer](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/5ac61b85-0b8f-4345-95a7-bca216b76a38.jpg)
 
