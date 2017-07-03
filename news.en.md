@@ -1,6 +1,6 @@
 ### 30.06.2017
 ## smart bathroom
-<a href="https://conradconnect.de/en/blog/2017/01/smartbathroom.html">Here the Link </a>to our newsletter which tells you in a few steps how to make your bathroom smart.
+<a href="https://conradconnect.de/en/blog/2017/01/smartbathroom.html" target="_blank">Here the Link </a>to our newsletter which tells you in a few steps how to make your bathroom smart.
 ![smart bathroom](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/047679d0-da0b-4e19-b8c1-343f8b3f01d6.jpg)
 
 ———————————————————————————
