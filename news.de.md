@@ -1,11 +1,17 @@
+### 27.06.2017
+## Das smarte Badezimmer
+<a href="https://conradconnect.de/blog/2017/01/smartbathroom.html">Hier der Link </a>zu unserem Newsletter, der Ihnen in wenigen Schritten erklärt, wir Ihr Badezimmer smart wird.
+
+![Badezimmer](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/5ac61b85-0b8f-4345-95a7-bca216b76a38.jpg)
+
+———————————————————————————
 ### 12.06.2017
 ## Jetzt kompatibel - IoT-Starter Kit 10
 <a href="https://dashboard.conradconnect.de/devices/mystrom">gleich ausprobieren</a>
 
 ![ELCO](https://dashboard.conradconnect.de/img/providers/elco/device.png)
+
 ———————————————————————————
-
-
 ### 12.06.2017
 ## Google Assistant Wartung
 Sehr geehrter Google Assistant Nutzer, wegen Wartungsarbeiten auf Google-Seite kann es sein, dass Sie zwischen dem 14. Juni, 18:30 Uhr und dem 15. Juni, 2:30 Uhr (CEST) Ihr Google-Home-Gerät oder die Google Assistant-Dienste nur eingeschränkt nutzen können. Bitte beachten Sie, dass dies auch Auswirkungen auf die Ausführung von Regeln, die Google Home oder den Google Assistant beinhalten, haben kann. Danke für Ihr Verständnis!
