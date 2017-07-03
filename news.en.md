@@ -1,4 +1,10 @@
 ### 30.06.2017
+## smart bathroom
+<a href="https://conradconnect.de/en/blog/2017/01/smartbathroom.html">Here the Link </a>to our newsletter which tells you in a few steps how to make your bathroom smart.
+![smart bathroom](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/047679d0-da0b-4e19-b8c1-343f8b3f01d6.jpg)
+
+———————————————————————————
+### 30.06.2017
 ## New supported product - Starter kit 10 (ELCO board)
 Small but a powerful ELCO board enables you to quickly join the world of IoT:
 <a href="https://dashboard.conradconnect.de/devices/conradWrapper">try here</a>
@@ -6,8 +12,6 @@ Small but a powerful ELCO board enables you to quickly join the world of IoT:
 ![ELCO](https://dashboard.conradconnect.de/img/providers/elco/device.png)    
 
 ———————————————————————————
-
-
 ### 12.06.2017
 ## New integration - myStrom
 Mystrom is our latest integration. Save energy, set mood and automate your smart home even better with Conrad Connect:
@@ -16,8 +20,6 @@ Mystrom is our latest integration. Save energy, set mood and automate your smart
 ![MyStrom](https://dashboard.conradconnect.de/img/providers/mystrom/product.jpg)    
 
 ———————————————————————————
-
-
 ### 12.06.2017
 ## Google Assistant maintenance
 Dear Google Assistant user! Due to maintenance works on Google side, you may experience some interruptions in the usage of your Google Home device or Google Assistant service between June, 14th 6:30pm and June, 15th 2:30am (CEST). Please note, that this can have an effect on executing Do Recipes via Google Home or Assistant as well. 
