@@ -1,3 +1,11 @@
+### 16.07.2017
+## New supported product - Zipato
+Bring your smart home to the next level:
+<a href="https://dashboard.conradconnect.de/devices/zipato">try here</a>
+
+![Zipato](https://dashboard.conradconnect.de/img/providers/zipato/product.jpg)  
+
+
 ### 30.06.2017
 ## smart bathroom
 <a href="https://conradconnect.de/en/blog/2017/01/smartbathroom.html" target="_blank">Here the Link </a>to our newsletter which tells you in a few steps how to make your bathroom smart.
