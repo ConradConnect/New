@@ -1,3 +1,11 @@
+### 02.08.2017
+## Start your first project without smart devices
+<a href="https://www.youtube.com/watch?v=K-bksC_eOac">Watch the video</a>
+
+![Conrad Connect](https://conradconnect.de/webfiles/1496144064524/icons/logo-text.svg)  
+
+
+
 ### 16.07.2017
 ## New supported product - Zipato
 Bring your smart home to the next level:
