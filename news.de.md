@@ -1,8 +1,10 @@
-### 16.07.2017
-## Jetzt kompatibel - Zipato
-<a href="https://dashboard.conradconnect.de/devices/zipato">gleich ausprobieren</a>
 
-![Zipato](https://dashboard.conradconnect.de/img/providers/zipato/product.jpg)  
+
+### 02.08.2017
+## Erstes Projekt ohne Geräte anlegen
+<a href="https://www.youtube.com/watch?v=WGC3ANNQTsM">gleich ausprobieren</a>
+
+![Zipato](https://conradconnect.de/webfiles/1496144064524/icons/logo-text.svg)  
 
 
 ### 30.06.2017
