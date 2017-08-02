@@ -2,7 +2,7 @@
 
 ### 02.08.2017
 ## Erstes Projekt ohne Geräte anlegen
-<a href="https://www.youtube.com/watch?v=WGC3ANNQTsM">gleich ausprobieren</a>
+<a href="https://www.youtube.com/watch?v=WGC3ANNQTsM">Gleich ausprobieren</a>
 
 ![Zipato](https://conradconnect.de/webfiles/1496144064524/icons/logo-text.svg)  
 
