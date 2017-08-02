@@ -1,5 +1,5 @@
 ### 02.08.2017
-## Start your first project without smart devices
+## Start a project without smart devices
 Check the video <a href="https://www.youtube.com/watch?v=K-bksC_eOac">here</a>
 
 ![Conrad Connect](https://conradconnect.de/webfiles/1496144064524/icons/logo-text.svg)  
