@@ -168,7 +168,7 @@ Simply add the widget "Airquality" and enter the desired location in the setting
 <b>Please do not use the native iOS app of Amazon Alexa to install Conrad Connect skill, 
 as this method is not yet supported. </b>
 The best way to perform the installation is to do it via Amazon Alexa web app.
-<br>1. Open the following link in a browser and log in to your Amazon Alexa account:  http://alexa.amazon.de
+<br>1. Open the following link in a browser and log in to your Amazon Alexa account:  https://alexa.amazon.de
 <br>2. Go to the "Skills" menu and search for "Conrad Connect".
 <br>3. Press "Enable" button and provide the credentials to your Conrad Connect account. 
 
@@ -254,7 +254,7 @@ Are you getting lost in the blank canvas of Conrad Connect’s endless possibili
 ## Tell us your wish!
 We’re very thankful for you - our strong Conrad Connect Beta tester community for helping us grow our platform, improve our features, and find our bugs - keep those suggestions coming! For Christmas we want you to tell us your wishes for Conrad Connect. What new features do you want to see? Please help us make our New Year’s resolutions via the short survey below: <a href="https://www.surveymonkey.de/r/XLB2QDJ" target="_blank">survey</a>
 
-![survey](https://ci4.googleusercontent.com/proxy/7Bo49zY3hcqZmECHgjHnR5c73m_xT4Dbm5EGo6g_hp8nHq2ssAap-LxX8_mxW-h1wATBi5qjMzJCr9up2R-zeSaZ6D6Qqxw-POiiT0jAxgNhOKrdVZDGYraPTD3Jj9EEfWzKnvdMY3vsPfLRQUQosu48AK3ecRdpUA=s0-d-e1-ft#http://img.srv2.de/bm/img/7a/b/7ab593c4b5d0f9239542bc91145a56d29be8471a10e5f42f1fe929fb5ec813df.png)
+![survey](https://ci4.googleusercontent.com/proxy/7Bo49zY3hcqZmECHgjHnR5c73m_xT4Dbm5EGo6g_hp8nHq2ssAap-LxX8_mxW-h1wATBi5qjMzJCr9up2R-zeSaZ6D6Qqxw-POiiT0jAxgNhOKrdVZDGYraPTD3Jj9EEfWzKnvdMY3vsPfLRQUQosu48AK3ecRdpUA=s0-d-e1-ft#https://img.srv2.de/bm/img/7a/b/7ab593c4b5d0f9239542bc91145a56d29be8471a10e5f42f1fe929fb5ec813df.png)
 
 ———————————————————————————
 ### 14.12.2016
@@ -297,7 +297,7 @@ We are currently working with our partners in order to remedy this issue and get
 ## Recipe Logs
 On the dashboard now you can display in a new widget the rules that were executed at last.
 
-![recipe logs](http://static.waylay.io/banners/recipe-logs-en.png)
+![recipe logs](https://static.waylay.io/banners/recipe-logs-en.png)
 
 ———————————————————————————
 ### 24.11.2016
@@ -316,7 +316,7 @@ Similarly you can include a second system from the same vendor which is e.g. at 
 ## Do Recipes
 Now at recipes we have Do- recipes that allow your devices to be turned on and off directly from the dashboard using the corresponding widget.
 
-![do recipe](http://img.srv2.de/bm/img/ef/3/ef333de9f53c0d120f93cd97bad3dc01d57282c851afa650190bbb6d09d41838.png)
+![do recipe](https://img.srv2.de/bm/img/ef/3/ef333de9f53c0d120f93cd97bad3dc01d57282c851afa650190bbb6d09d41838.png)
 
 ———————————————————————————
 ### 07.11.2016
