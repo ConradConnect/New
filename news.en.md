@@ -1,6 +1,6 @@
 ### 11.08.2017
 ## Feature update - recipes are now projects!
-we've updated the recipes. Now they are called projects. You can create your projects, share them with others or import the ones created by other users. Your existing recipes were automatically transferred to projects. Check out and give us your feedback at feedback@conradconnect.de or by sending us a message via the help center widget on the right site of mthe page.
+We've updated the recipes. Now they are called projects. You can create your projects, share them with others or import the ones created by other users. Your existing recipes were automatically transferred to projects. Check out and give us your feedback at feedback@conradconnect.de or by sending us a message via the help center widget on the right site of mthe page.
 
 
 
