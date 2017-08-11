@@ -1,3 +1,12 @@
+### 02.08.2017
+## Plattform Update - Projekte
+
+Wir haben die 'Regeln' aktualisiert. Jetzt werden diese als „Projekte“ bezeichnet. Sie können Projekte anlegen, mit anderen Nutzern teilen oder Projekte importieren, die andere Benutzer erstellt haben. Ihre bestehenden „Regeln“ wurden automatisch in „Projekte“ umgewandelt.
+
+Testen Sie selbst! Wir freuen uns auf Ihr Feedback!
+
+feedback@conradconnect.de 
+
 
 
 ### 02.08.2017
