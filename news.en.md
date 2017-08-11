@@ -6,7 +6,7 @@ We've updated the recipes. Now they are called projects. You can create projects
 
 ### 02.08.2017
 ## Start a project without smart devices
-Check the video <a href="https://www.youtube.com/watch?v=K-bksC_eOac">here</a>
+Check the video <a href="https://www.youtube.com/watch?v=K-bksC_eOac" target="_blank">here</a>
 
 ![Conrad Connect](https://conradconnect.de/webfiles/1496144064524/icons/logo-text.svg)  
 
