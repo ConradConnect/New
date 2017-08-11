@@ -1,6 +1,6 @@
 ### 11.08.2017
 ## Feature update - recipes are now projects!
-We've updated the recipes. Now they are called projects. You can create projects, share them with others or import the ones created by other users. Your existing recipes were automatically transferred to projects. Check out and give us your feedback at feedback@conradconnect.de or by sending us a message via the help center widget on the right site of the page.
+We've updated the recipes. Now they are called projects. You can create projects, share them with others or import the ones created by other users. Your existing recipes were automatically transferred to projects. And please don't forget to click on your email address in the top right of the screen to set your username the first time you log in. Make sure other's know who's project they are liking. Check out and give us your feedback at feedback@conradconnect.de or by sending us a message via the help center widget on the right site of the page.
 
 
 
