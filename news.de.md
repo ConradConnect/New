@@ -1,7 +1,7 @@
 ### 02.08.2017
 ## Plattform Update - Projekte
 
-Wir haben die 'Regeln' aktualisiert. Jetzt werden diese als „Projekte“ bezeichnet. Sie können Projekte anlegen, mit anderen Nutzern teilen oder Projekte importieren, die andere Benutzer erstellt haben. Ihre bestehenden „Regeln“ wurden automatisch in „Projekte“ umgewandelt.
+Wir haben die 'Regeln' aktualisiert. Jetzt werden diese als „Projekte“ bezeichnet. Sie können Projekte anlegen, mit anderen Nutzern teilen oder Projekte importieren, die andere Benutzer erstellt haben. Bitte klicken Sie nach dem ersten Login auf Ihre E-Mail Adresse oben rechts auf dem Bildschirm und tragen Sie in den Konto-Einstellungen Ihren Benutzernamen ein. Wenn Sie Projekte veröffentlichen, wissen andere Nutzer, wessen Projekt sie liken. Ihre bestehenden „Regeln“ wurden automatisch in „Projekte“ umgewandelt.
 
 Testen Sie selbst! Wir freuen uns auf Ihr Feedback!
 
