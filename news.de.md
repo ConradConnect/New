@@ -1,4 +1,4 @@
-### 02.08.2017
+### 11.08.2017
 ## Plattform Update - Projekte
 
 Wir haben die 'Regeln' aktualisiert. Jetzt werden diese als „Projekte“ bezeichnet. Sie können Projekte anlegen, mit anderen Nutzern teilen oder Projekte importieren, die andere Benutzer erstellt haben. Bitte klicken Sie nach dem ersten Login auf Ihre E-Mail Adresse oben rechts auf dem Bildschirm und tragen Sie in den Konto-Einstellungen Ihren Benutzernamen ein. Wenn Sie Projekte veröffentlichen, wissen andere Nutzer, wessen Projekt sie liken. Ihre bestehenden „Regeln“ wurden automatisch in „Projekte“ umgewandelt.
@@ -7,15 +7,14 @@ Testen Sie selbst! Wir freuen uns auf Ihr Feedback!
 
 feedback@conradconnect.de 
 
-
-
+———————————————————————————
 ### 02.08.2017
 ## Erstes Projekt ohne Geräte anlegen
 <a href="https://www.youtube.com/watch?v=WGC3ANNQTsM" target="_blank">Gleich ausprobieren</a>
 
 ![ConradConnect](https://conradconnect.de/webfiles/1496144064524/icons/logo-text.svg)  
 
-
+———————————————————————————
 ### 30.06.2017
 ## Das smarte Badezimmer
 <a href="https://conradconnect.de/blog/2017/01/smartbathroom.html" target="_blank">Hier der Link </a>zu unserem Newsletter, der Ihnen in wenigen Schritten erklärt, wir Ihr Badezimmer smart wird.
