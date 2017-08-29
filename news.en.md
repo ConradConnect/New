@@ -4,16 +4,14 @@ We've updated the recipes. Now they are called projects. You can create projects
 
 Check out and give us your feedback at feedback@conradconnect.de or by sending us a message via the help center widget on the right site of the page.
 
-
-
+———————————————————————————
 ### 02.08.2017
 ## Start a project without smart devices
 Check the video <a href="https://www.youtube.com/watch?v=K-bksC_eOac" target="_blank">here</a>
 
 ![Conrad Connect](https://conradconnect.de/webfiles/1496144064524/icons/logo-text.svg)  
 
-
-
+———————————————————————————
 ### 16.07.2017
 ## New supported product - Zipato
 Bring your smart home to the next level:
@@ -21,7 +19,7 @@ Bring your smart home to the next level:
 
 ![Zipato](https://dashboard.conradconnect.de/img/providers/zipato/product.jpg)  
 
-
+———————————————————————————
 ### 30.06.2017
 ## smart bathroom
 <a href="https://conradconnect.de/en/blog/2017/01/smartbathroom.html" target="_blank">Here the Link </a>to our newsletter which tells you in a few steps how to make your bathroom smart.
