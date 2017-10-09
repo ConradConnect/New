@@ -1,3 +1,11 @@
+### 06.09.2017
+## New supported product - Tapkey
+The virtual set of keys for your smartphone:
+<a href="https://dashboard.conradconnect.de/devices/tapkey">try here</a>
+
+![Tapkey](https://dashboard.conradconnect.de/img/providers/tapkey/device.jpg)
+
+———————————————————————————
 ### 11.08.2017
 ## Feature update - recipes are now projects!
 We've updated the recipes. Now they are called projects. You can create projects, share them with others or import the ones created by other users. Your existing recipes were automatically transferred to projects. And please don't forget to click on your email address in the top right of the screen to set your username the first time you log in. Make sure other's know who's project they are liking. 
