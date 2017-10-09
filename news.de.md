@@ -1,3 +1,11 @@
+### 06.09.2017
+## Jetzt kompatibel - Tapkey
+Der virtueller Schlüsselbund für Ihr Smartphone:
+<a href="https://dashboard.conradconnect.de/devices/tapkey">gleich ausprobieren</a>
+
+![Tapkey](https://dashboard.conradconnect.de/img/providers/tapkey/device.jpg)
+
+———————————————————————————
 ### 11.08.2017
 ## Plattform Update - Projekte
 
