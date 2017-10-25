@@ -1,3 +1,10 @@
+### 25.10.2017
+## Ready for Halloween?
+<a href="https://dashboard.conradconnect.de/projects/public/59ef364797ff625d5f28aa19">Import project</a>
+
+![Read more](http://conradconnect.de/binaries/content/gallery/conradconnect/banners-and-generic-images/blog/october/slider-project6.jpg/slider-project6.jpg/conradconnect%3Acover)
+
+———————————————————————————
 ### 06.09.2017
 ## New supported product - Tapkey
 The virtual set of keys for your smartphone:
