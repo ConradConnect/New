@@ -2,7 +2,7 @@
 ## Bereit für Halloween?
 <a href="https://conradconnect.de/blog/2017/01/halloween-de.html">Mehr erfahren</a>
 
-![Halloween](https://http://conradconnect.de/binaries/content/gallery/conradconnect/banners-and-generic-images/blog/october/slider-project6.jpg/slider-project6.jpg/conradconnect%3Acover)
+![Halloween](https://http://www.conradconnect.de/binaries/content/gallery/conradconnect/banners-and-generic-images/blog/october/slider-project6.jpg/slider-project6.jpg/conradconnect%3Acover)
 
 ———————————————————————————
 
