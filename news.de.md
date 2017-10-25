@@ -1,8 +1,8 @@
 ### 25.10.2017
 ## Bereit für Halloween?
-<a href="https://conradconnect.de/blog/2017/01/halloween-de.html">Mehr erfahren</a>
+<a href="https://conradconnect.de/blog/2017/01/halloween-de.html">Zum Projekt</a>
 
-![Halloween](https://http://www.conradconnect.de/binaries/content/gallery/conradconnect/banners-and-generic-images/blog/october/slider-project6.jpg/slider-project6.jpg)
+![Halloween](https://http://www.conradconnect.de/binaries/content/gallery/conradconnect/banners-and-generic-images/blog/october/slider-project6.jpg)
 
 ———————————————————————————
 
