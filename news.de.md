@@ -1,3 +1,11 @@
+### 25.10.2017
+## Bereit für Halloween?
+<a href="https://conradconnect.de/blog/2017/01/halloween-de.html">Mehr erfahren</a>
+
+![Halloween](https://http://conradconnect.de/binaries/content/gallery/conradconnect/banners-and-generic-images/blog/october/slider-project6.jpg/slider-project6.jpg/conradconnect%3Acover)
+
+———————————————————————————
+
 ### 06.09.2017
 ## Jetzt kompatibel - Tapkey
 Der virtueller Schlüsselbund für Ihr Smartphone:
