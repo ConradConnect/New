@@ -1,3 +1,8 @@
+### 27.10.2017
+## CC Demo sensor update
+Please notice that from now on CC Demo sensors show the data from Berlin and not Hirschau.
+
+
 ### 25.10.2017
 ## Ready for Halloween?
 <a href="https://dashboard.conradconnect.de/projects/public/59ef364797ff625d5f28aa19">Import project</a>
