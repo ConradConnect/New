@@ -1,8 +1,6 @@
 ### 25.10.2017
-## Bereit für Halloween?
-<a href="https://dashboard.conradconnect.de/projects/public/59ef364797ff625d5f28aa19">Zum Projekt</a>
-
-![Halloween](http://conradconnect.de/binaries/content/gallery/conradconnect/banners-and-generic-images/blog/october/slider-project6.jpg/slider-project6.jpg/conradconnect%3Acover)
+## CC Demo-Sensoren Update
+Bitte beachten Sie, dass die CC Demo Sensoren von jetzt an Daten aus Berlin liefern und nicht mehr aus Hirschau.
 
 ———————————————————————————
 
