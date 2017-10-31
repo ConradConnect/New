@@ -1,6 +1,6 @@
 ### 31.10.2017
 ## New supported product - LaMetric Time
-The virtual set of keys for your smartphone:
+Enable your smart home with a clock:
 <a href="https://dashboard.conradconnect.de/devices/lametric">try here</a>
 
 ![LaMetric](https://dashboard.conradconnect.de/img/providers/lametric/product.jpg)
