@@ -1,3 +1,11 @@
+### 31.10.2017
+## Jetzt kompatibel - LaMetric Time
+Erweitern Sie Ihr Smart Home mit einer Uhr:
+<a href="https://dashboard.conradconnect.de/devices/lametric">gleich ausprobieren</a>
+
+![LaMetric](https://dashboard.conradconnect.de/img/providers/lametric/product.jpg)
+
+
 ### 25.10.2017
 ## CC Demo-Sensoren Update
 Bitte beachten Sie, dass die CC Demo Sensoren von jetzt an Daten aus Berlin liefern und nicht mehr aus Hirschau.
