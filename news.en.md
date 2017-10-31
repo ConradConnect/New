@@ -1,3 +1,13 @@
+### 31.10.2017
+## New supported product - LaMetric Time
+The virtual set of keys for your smartphone:
+<a href="https://dashboard.conradconnect.de/devices/lametric">try here</a>
+
+![LaMetric](https://dashboard.conradconnect.de/img/providers/lametric/product.jpg)
+
+———————————————————————————
+
+
 ### 27.10.2017
 ## CC Demo sensor update
 Please notice that from now on CC Demo sensors show the data from Berlin and not Hirschau.
