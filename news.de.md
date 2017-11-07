@@ -1,3 +1,12 @@
+### 07.11.2017
+## Jetzt kompatibel - Homematic über Cloudmatic
+Gleich ausprobieren:
+<a href="https://dashboard.conradconnect.de/devices/easysmarthome">gleich ausprobieren</a>
+
+![easysmarthome](https://conradconnect.de/binaries/content/gallery/conradconnect/product-and-brand-images/product/easysmarthome/680x330device2.jpg)
+
+———————————————————————————
+
 ### 31.10.2017
 ## Jetzt kompatibel - LaMetric Time
 Erweitern Sie Ihr Smart Home mit einer Uhr:
@@ -5,6 +14,7 @@ Erweitern Sie Ihr Smart Home mit einer Uhr:
 
 ![LaMetric](https://dashboard.conradconnect.de/img/providers/lametric/product.jpg)
 
+———————————————————————————
 
 ### 25.10.2017
 ## CC Demo-Sensoren Update
