@@ -1,6 +1,6 @@
 ### 07.11.2017
 ## Jetzt kompatibel - Homematic über Cloudmatic
-Gleich ausprobieren:
+Homematic Geräte auf Conrad Connect steuern:
 <a href="https://dashboard.conradconnect.de/devices/easysmarthome">gleich ausprobieren</a>
 
 ![easysmarthome](https://conradconnect.de/binaries/content/gallery/conradconnect/product-and-brand-images/product/easysmarthome/680x330device2.jpg)
