@@ -1,3 +1,12 @@
+### 07.11.2017
+## New supported brand - Homematic
+You can now control Homematic devices via Cloudmatic service on Conrad Connect:
+<a href="https://dashboard.conradconnect.de/devices/easysmarthome">try here</a>
+
+![easysmarthome](https://conradconnect.de/binaries/content/gallery/conradconnect/product-and-brand-images/product/easysmarthome/680x330device2.jpg)
+
+———————————————————————————
+
 ### 31.10.2017
 ## New supported product - LaMetric Time
 Enable your smart home with a clock:
