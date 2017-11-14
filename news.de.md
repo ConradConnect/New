@@ -1,3 +1,13 @@
+### 14.11.2017
+## Jetzt kompatibel - Sygonix
+Sygonix Steckdose auf Conrad Connect steuern:
+<a href="https://dashboard.conradconnect.de/devices/sygonix">gleich ausprobieren</a>
+
+![Sygonix](https://dashboard.conradconnect.de/img/providers/sygonix/product.jpg)
+
+———————————————————————————
+
+
 ### 07.11.2017
 ## Jetzt kompatibel - Homematic über Cloudmatic
 Homematic Geräte auf Conrad Connect steuern:
