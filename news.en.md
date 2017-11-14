@@ -1,3 +1,13 @@
+### 14.11.2017
+## New supported brand - Sygonix
+You can now control Sygonix smart plug on Conrad Connect:
+<a href="https://dashboard.conradconnect.de/devices/sygonix">try here</a>
+
+![Sygonix](https://dashboard.conradconnect.de/img/providers/sygonix/product.jpg)
+
+———————————————————————————
+
+
 ### 07.11.2017
 ## New supported brand - Homematic
 You can now control Homematic devices via Cloudmatic service on Conrad Connect:
