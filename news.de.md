@@ -4,7 +4,7 @@
 
 ![Netatmo](https://conradconnect.de/binaries/content/gallery/conradconnect/banners-and-generic-images/blog/november-2017/blog_main_slider_netatmo.jpg/blog_main_slider_netatmo.jpg/conradconnect%3Acover)
 
-
+———————————————————————————
 
 ### 14.11.2017
 ## Jetzt kompatibel - Sygonix
