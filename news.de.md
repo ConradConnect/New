@@ -1,6 +1,5 @@
 ### 18.11.2017
 ## Erstellen Sie Projekte mit Netatmo Geräten und gewinnen Sie tolle Preise!
-Sygonix Steckdose auf Conrad Connect steuern:
 <a href="https://conradconnect.de/blog/2017/02/netatmo-kampagne.html">Mehr erfahren</a>
 
 ![Netatmo](https://conradconnect.de/binaries/content/gallery/conradconnect/banners-and-generic-images/blog/november-2017/blog_main_slider_netatmo.jpg/blog_main_slider_netatmo.jpg/conradconnect%3Acover)
