@@ -1,5 +1,14 @@
 ### 14.11.2017
 ## New supported brand - Sygonix
+<a href="https://conradconnect.de/en/blog/2017/02/netatmo-kampagne.html">Read more</a>
+
+![Netatmo](https://conradconnect.de/binaries/content/gallery/conradconnect/banners-and-generic-images/blog/november-2017/blog_main_slider_netatmo.jpg/blog_main_slider_netatmo.jpg/conradconnect%3Acover)
+
+———————————————————————————
+
+
+### 14.11.2017
+## New supported brand - Sygonix
 You can now control Sygonix smart plug on Conrad Connect:
 <a href="https://dashboard.conradconnect.de/devices/sygonix">try here</a>
 
