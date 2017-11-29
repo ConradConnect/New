@@ -1,3 +1,11 @@
+### 29.11.2017
+## Now compatible - WiZ
+<a href="https://dashboard.conradconnect.de/devices/wiz">Try now</a>
+
+![WiZ](https://conradconnect.de/binaries/content/gallery/conradconnect/product-and-brand-images/product/wiz/device.png)
+
+———————————————————————————
+
 ### 28.11.2017
 ## Win amazing prizes.
 <a href="https://conradconnect.de/en/blog/2017/02/netatmo-kampagne.html">Read more</a>
