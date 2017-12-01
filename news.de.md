@@ -1,3 +1,9 @@
+### 01.12.2017
+## Die Verbindung zu den innogy Produkten ist derzeit gestört. Analyse und nachhaltige Beseitigung der Störungsursache wird voraussichtlich bis Dienstag 05.12. abgeschlossen werden können.
+
+———————————————————————————
+
+
 ### 29.11.2017
 ## Jetzt kompatibel - WiZ
 <a href="https://dashboard.conradconnect.de/devices/wiz">Mehr erfahren</a>
