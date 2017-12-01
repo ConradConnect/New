@@ -1,5 +1,5 @@
 ### 01.12.2017
-## Innogy Problem
+## Innogy Fehler
 Die Verbindung zu den innogy Produkten ist derzeit gestört. Analyse und nachhaltige Beseitigung der Störungsursache wird voraussichtlich bis Dienstag 05.12. abgeschlossen werden können.
 
 
