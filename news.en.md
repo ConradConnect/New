@@ -1,6 +1,6 @@
 ### 01.12.2017
-## The connection to innogy products is currently disrupted. We are working on it and expect the problem to be solved by 05.12. We apologize for the inconvenience.
-
+## Innogy issue
+The connection to innogy products is currently disrupted. We are working on it and expect the problem to be solved by 05.12. We apologize for the inconvenience.
 ———————————————————————————
 
 ### 29.11.2017
