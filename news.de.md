@@ -1,3 +1,14 @@
+### 10.12.2017
+## Neue Funktion - Action Button
+<a href="https://conradconnect.de/blog/2017/01/action-button-de.html">Mehr erfahren</a>
+
+![WiZ](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/65fd4c6f-a105-42ab-a3b8-c5fb78674d95.jpg)
+
+
+———————————————————————————
+
+
+
 ### 01.12.2017
 ## Innogy Fehler
 Die Verbindung zu den innogy Produkten ist derzeit gestört. Analyse und nachhaltige Beseitigung der Störungsursache wird voraussichtlich bis Dienstag 05.12. abgeschlossen werden können.
