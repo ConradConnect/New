@@ -1,3 +1,13 @@
+
+### 10.12.2017
+## New function - Action button
+<a href="https://conradconnect.de/en/blog/2017/01/action-button-en.html">Read more</a>
+
+![WiZ](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/65fd4c6f-a105-42ab-a3b8-c5fb78674d95.jpg)
+———————————————————————————
+
+
+
 ### 01.12.2017
 ## Innogy issue
 The connection to innogy products is currently disrupted. We are working on it and expect the problem to be solved by 05.12. We apologize for the inconvenience.
