@@ -1,4 +1,9 @@
 
+### 01.12.2017
+## Garmin authentication issue
+The authentication of Garmin products is currently disrupted. We are working on it and expect the problem to be solved as soon as possible. We apologize for the inconvenience.
+
+———————————————————————————
 ### 10.12.2017
 ## New function - Action button
 <a href="https://conradconnect.de/en/blog/2017/01/action-button-en.html">Read more</a>
