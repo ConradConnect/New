@@ -6,6 +6,15 @@
 
 ———————————————————————————
 
+### 24.12.2017
+## New supported system - Sygonix Smart Home
+You can now control Sygonix Smart Home System on Conrad Connect:
+<a href="https://dashboard.conradconnect.de/devices/sygonix">try here</a>
+
+![Sygonix](https://dashboard.conradconnect.de/img/providers/sygonix/product.jpg)
+
+———————————————————————————
+
 ### 01.12.2017
 ## Garmin authentication issue
 The authentication of Garmin products is currently disrupted. We are working on it and expect the problem to be solved as soon as possible. We apologize for the inconvenience.
