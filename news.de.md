@@ -6,6 +6,15 @@
 
 ———————————————————————————
 
+### 24.12.2017
+## Jetzt kompatibel - Sygonix Smart Home
+Sichern Sie Ihr Zuhause mit dem Sygonix Smart Home System und verbinden Sie es mit Conrad Connect:
+<a href="https://dashboard.conradconnect.de/devices/sygonix">gleich ausprobieren</a>
+
+![Sygonix](https://dashboard.conradconnect.de/img/providers/sygonix/product.jpg)
+
+———————————————————————————
+
 ### 11.12.2017
 ## Garmin
 Die Authentifizierung von Garmin-Produkten ist derzeit gestört. Die Analyse und nachhaltige Beseitigung der Störungsursache wird so schnell wie möglich erfolgen.
