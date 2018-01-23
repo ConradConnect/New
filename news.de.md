@@ -15,13 +15,6 @@ Sichern Sie Ihr Zuhause mit dem Sygonix Smart Home System und verbinden Sie es m
 
 ———————————————————————————
 
-### 11.12.2017
-## Garmin
-Die Authentifizierung von Garmin-Produkten ist derzeit gestört. Die Analyse und nachhaltige Beseitigung der Störungsursache wird so schnell wie möglich erfolgen.
-
-
-———————————————————————————
-
 ### 10.12.2017
 ## Neue Funktion - Action Button
 <a href="https://conradconnect.de/blog/2017/01/action-button-de.html">Mehr erfahren</a>
