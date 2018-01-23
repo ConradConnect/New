@@ -1,3 +1,10 @@
+### 23.01.2018
+## Now compatible - Foobot
+<a href="https://dashboard.conradconnect.de/devices/foobot">Try now</a>
+
+![Foobot](https://conradconnect.de/binaries/content/gallery/conradconnect/product-and-brand-images/product/foobot/foobot_1main-image.jpg)
+
+———————————————————————————
 
 ### 01.12.2017
 ## Garmin authentication issue
