@@ -55,7 +55,7 @@ Update: Der Fehler wurde am 05.12. behoben.
 Sygonix Steckdose auf Conrad Connect steuern:
 <a href="https://dashboard.conradconnect.de/devices/sygonix">gleich ausprobieren</a>
 
-![Sygonix](https://dashboard.conradconnect.de/img/providers/sygonix/product.jpg)
+![Sygonix](https://conradconnect.de/binaries/content/gallery/conradconnect/product-and-brand-images/product/sygonix/sygonix-leiste-gr.jpg)
 
 ———————————————————————————
 
