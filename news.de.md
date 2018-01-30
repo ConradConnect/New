@@ -1,3 +1,11 @@
+### 30.01.2018
+## Neue Funktion - Veröffentlichte Projekte können ab jetzt kommentiert werden
+<a href="https://conradconnect.de/blog/2017/01/vorstellung-unserer-neuen-funktion-kommentare-zu-offentlichen-projekten.html">Read More</a>
+
+![Comments](https://conradconnect.de/binaries/content/gallery/conradconnect/banners-and-generic-images/blog/002-comments-featured18_173021.gif)
+
+———————————————————————————
+
 ### 23.01.2018
 ## Jetzt kompatibel - Foobot
 <a href="https://dashboard.conradconnect.de/devices/foobot">Mehr erfahren</a>
