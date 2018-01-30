@@ -1,3 +1,11 @@
+### 30.01.2018
+## New function - Comments on Public Projects
+<a href="https://conradconnect.de/en/blog/2017/01/introducing-our-new-feature-public-projects-comments.html">Read More</a>
+
+![Comments](https://conradconnect.de/binaries/content/gallery/conradconnect/banners-and-generic-images/blog/002-comments-featured18_173021.gif)
+
+———————————————————————————
+
 ### 23.01.2018
 ## Now compatible - Foobot
 <a href="https://dashboard.conradconnect.de/devices/foobot">Try now</a>
