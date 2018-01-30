@@ -1,4 +1,12 @@
 ### 30.01.2018
+## Jetzt kompatibel - SpotCam
+<a href="https://dashboard.conradconnect.de/devices/spotcam">Mehr erfahren</a>
+
+![SpotCam](https://dashboard.conradconnect.de/img/providers/spotcam/product.jpg)
+
+———————————————————————————
+
+### 30.01.2018
 ## Neue Funktion - Veröffentlichte Projekte können ab jetzt kommentiert werden
 <a href="https://conradconnect.de/blog/2017/01/vorstellung-unserer-neuen-funktion-kommentare-zu-offentlichen-projekten.html">Read More</a>
 
