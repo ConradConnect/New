@@ -53,7 +53,7 @@ The connection to innogy products is currently disrupted. We are working on it a
 You can now control Sygonix smart plug on Conrad Connect:
 <a href="https://dashboard.conradconnect.de/devices/sygonix">try here</a>
 
-![Sygonix](https://dashboard.conradconnect.de/img/providers/sygonix/product.jpg)
+![Sygonix](https://conradconnect.de/binaries/content/gallery/conradconnect/product-and-brand-images/product/sygonix/sygonix-leiste-gr.jpg)
 
 ———————————————————————————
 
