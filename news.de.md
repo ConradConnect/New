@@ -1,3 +1,14 @@
+### 23.02.2018
+## Teilen Sie Ihre Dashboard-Daten live mit anderen
+<a href="https://conradconnect.de/blog/2018/dashboards-sharing-de.html">Mehr erfahren</a>
+
+![Dashboardsharing](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/1f3f93b8-c8e0-44a6-9e5d-7528fa7abd01.jpg)
+
+———————————————————————————
+
+
+
+
 ### 30.01.2018
 ## Jetzt kompatibel - SpotCam
 <a href="https://dashboard.conradconnect.de/devices/spotcam">Mehr erfahren</a>
