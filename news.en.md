@@ -1,10 +1,3 @@
-### 28.02.2018
-## Join ConnHack 2018 with Conrad Connect
-<a href="https://conradconnect.de/en/blog/2018/connhack-en-new.html">Learn more</a>
-
-![connhack](https://conradconnect.de/binaries/content/gallery/conradconnect/banners-and-generic-images/blog/2018/february/prizes.png)
-
-———————————————————————————
 ### 23.02.2018
 ## Tukuoro now available on iOS
 <a href="https://conradconnect.de/en/blog/2018/tukuoro-en.html">Learn more</a>
