@@ -1,3 +1,9 @@
+### 16.03.2018
+## Be up to date with Conrad Connect new integrations!
+You can receive weekly updates about our new devices integrations and new features by signing up for our Newsletter! 
+<a href="http://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30">Subscribe</a>
+
+———————————————————————————
 ### 23.02.2018
 ## Tukuoro now available on iOS
 <a href="https://conradconnect.de/en/blog/2018/tukuoro-en.html">Learn more</a>
