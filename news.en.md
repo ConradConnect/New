@@ -1,3 +1,11 @@
+### 28.03.2018
+## New Feature Release!
+Introducing weather forecast sensors - be prepared in any weather
+<a href="https://mailchi.mp/conradconnect/weather-en-644139?e=[UNIQID]">Mehr erfahren</a>
+
+![ConradConnectNews12](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/6187728e-20c5-4adb-b2b5-cf7c26ee587e.jpg)
+
+———————————————————————————
 ### 16.03.2018
 ## Be up to date with Conrad Connect new integrations!
 You can receive weekly updates about our new devices integrations and new features by signing up for our Newsletter! 
