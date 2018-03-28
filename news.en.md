@@ -1,10 +1,3 @@
-### 27.03.2018
-## Spotcam issue!
-We are facing technical difficulties for Spotcam devices. Please be aware that projects containing Spotcam devices won't work. We are working on resolving the issue.
-
-———————————————————————————
-
-
 ### 16.03.2018
 ## Be up to date with Conrad Connect new integrations!
 You can receive weekly updates about our new devices integrations and new features by signing up for our Newsletter! 
