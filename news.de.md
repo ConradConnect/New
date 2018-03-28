@@ -1,11 +1,3 @@
-### 27.03.2018
-## Spotcam ist außer Betrieb!
-Wir arbeiten daran das Problem so schnell wie möglich zu lösen.
-
-———————————————————————————
-
-
-
 ### 16.03.2018
 ## Abonnieren Sie unseren Newsletter!
 Abonnieren Sie unseren Newsletter, um immer über unsere neuesten Produktupdates informiert zu bleiben. 
