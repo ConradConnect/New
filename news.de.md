@@ -1,3 +1,11 @@
+### 28.03.2018
+## Neue Funktion!
+Einführung des Wettervorhersage-Sensor - seien Sie bei jedem Wetter vorbereitet
+<a href="https://mailchi.mp/conradconnect/wetter-de-649331?e=[UNIQID]"> Mehr erfahren</a>
+
+![ConradConnectNews12](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/6187728e-20c5-4adb-b2b5-cf7c26ee587e.jpg)
+
+———————————————————————————
 ### 16.03.2018
 ## Abonnieren Sie unseren Newsletter!
 Abonnieren Sie unseren Newsletter, um immer über unsere neuesten Produktupdates informiert zu bleiben. 
