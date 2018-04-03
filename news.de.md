@@ -1,3 +1,10 @@
+### 03.04.2018
+## Haben Sie alle Ihre Produkte verbunden?
+<a href="https://mailchi.mp/conradconnect/marken-de-652139?e=[UNIQID]"> Mehr erfahren</a>
+
+![ConradConnectNews12](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/26c078a0-1bc0-4bc5-a8c2-c7fcf6152fb6.png)
+
+———————————————————————————
 ### 28.03.2018
 ## Neue Funktion!
 Einführung des Wettervorhersage-Sensor - seien Sie bei jedem Wetter vorbereitet
