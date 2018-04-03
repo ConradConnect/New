@@ -1,3 +1,10 @@
+### 03.02.2018
+## Have you connected all your devices?
+<a href="https://mailchi.mp/conradconnect/devices-en-647051?e=067a955c96">Mehr erfahren</a>
+
+![ConradConnectNews12](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/26c078a0-1bc0-4bc5-a8c2-c7fcf6152fb6.png)
+
+———————————————————————————
 ### 28.03.2018
 ## New Feature Release!
 Introducing weather forecast sensors - be prepared in any weather
