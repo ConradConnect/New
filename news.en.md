@@ -1,3 +1,11 @@
+### 10.04.2018
+## Now compatible - Nuki
+<a href="https://dashboard.conradconnect.de/devices/nuki">Try now</a>
+
+![Nuki](https://dashboard.conradconnect.de/img/providers/nuki/product.png)
+
+———————————————————————————
+
 ### 03.02.2018
 ## Have you connected all your devices?
 <a href="https://mailchi.mp/conradconnect/devices-en-647051?e=067a955c96">Read More</a>
