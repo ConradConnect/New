@@ -1,3 +1,9 @@
+### 16.04.2018
+## Osram Fehler
+Die Verbindung zu den Osram-Produkten ist derzeit gestört. Wir arbeiten momentan daran, dies zu beheben. Vielen Dank für Ihr Verständnis.
+
+———————————————————————————
+
 ### 10.04.2018
 ## Jetzt kompatibel - Nuki
 <a href="https://dashboard.conradconnect.de/devices/nuki">Mehr erfahren</a>
