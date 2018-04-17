@@ -1,3 +1,12 @@
+### 17.04.2018
+## Jetzt kompatibel - Google Home auf Deutsch
+<a href="https://conradconnect.de/de/blog/projekte-mit-google-home-aktivieren">Mehr erfahren</a>
+
+![Google home](https://conradconnect.de/sites/default/files/2018-04/blog-slider-NL-de.png)
+
+———————————————————————————
+
+
 ### 16.04.2018
 ## Osram Fehler
 Die Verbindung zu den Osram-Produkten ist derzeit gestört. Wir arbeiten momentan daran, dies zu beheben. Vielen Dank für Ihr Verständnis.
