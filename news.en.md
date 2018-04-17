@@ -1,8 +1,8 @@
 ### 17.04.2018
 ## Start projects with voice
-<a href="https://conradconnect.de/en/blog/activating-projects-google-home">Mehr erfahren</a>
+<a href="https://conradconnect.de/en/blog/activating-projects-google-home">learn more</a>
 
-![Google home](https://conradconnect.de/sites/default/files/2018-04/blog-slider-NL-de.png)
+![Google home](https://conradconnect.de/sites/default/files/2018-04/blog-slider-NL-googlehome-eng_0.png)
 ———————————————————————————
 
 
