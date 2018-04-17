@@ -1,3 +1,11 @@
+### 17.04.2018
+## Start projects with voice
+<a href="https://conradconnect.de/en/blog/activating-projects-google-home">Mehr erfahren</a>
+
+![Google home](https://conradconnect.de/sites/default/files/2018-04/blog-slider-NL-de.png)
+———————————————————————————
+
+
 ### 16.04.2018
 ## Osram Issue
 The connection to the Osram products is lost at the moment. We are working to fix the issue as soon as possible. Thank you for your understanding.
