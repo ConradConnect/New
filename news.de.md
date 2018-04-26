@@ -4,7 +4,7 @@
 
 ![DiO](https://dashboard.conradconnect.de/img/providers/dio/dio.jpg)
 
-Jetzt für News <a href="https://dashboard.conradconnect.de/devices/dio">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
 
 ———————————————————————————
 
