@@ -1,5 +1,15 @@
+### 26.04.2018
+## Jetzt kompatibel - DiO
+<a href="https://dashboard.conradconnect.de/devices/dio">Mehr erfahren</a>
+
+![DiO](https://dashboard.conradconnect.de/img/providers/dio/dio.jpg)
+
+Jetzt für News anmelden <a href="https://dashboard.conradconnect.de/devices/dio">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+
+———————————————————————————
+
 ### 17.04.2018
-## Jetzt kompatibel - Google Home auf Deutsch
+## Jetzt kompatibel - DiO
 <a href="https://conradconnect.de/de/blog/projekte-mit-google-home-aktivieren">Mehr erfahren</a>
 
 ![Google home](https://conradconnect.de/sites/default/files/2018-04/blog-slider-NL-de.png)
