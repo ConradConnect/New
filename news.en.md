@@ -1,3 +1,14 @@
+### 10.04.2018
+## Now compatible - Nuki
+<a href="https://dashboard.conradconnect.de/devices/dio">Try now</a>
+
+![DiO](https://dashboard.conradconnect.de/img/providers/dio/dio.jpg)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30">Subscribe</a> now and never miss the latest news from Conrad Connect!
+———————————————————————————
+
+
+
 ### 17.04.2018
 ## Start projects with voice
 <a href="https://conradconnect.de/en/blog/activating-projects-google-home">learn more</a>
