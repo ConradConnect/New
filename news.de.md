@@ -9,7 +9,7 @@ Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=
 ———————————————————————————
 
 ### 17.04.2018
-## Jetzt kompatibel - DiO
+## Jetzt kompatibel - Google Home auf Deutsch
 <a href="https://conradconnect.de/de/blog/projekte-mit-google-home-aktivieren">Mehr erfahren</a>
 
 ![Google home](https://conradconnect.de/sites/default/files/2018-04/blog-slider-NL-de.png)
