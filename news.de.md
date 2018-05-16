@@ -1,3 +1,17 @@
+### 16.05.2018
+## Projekte erstellen und Preise gewinnen
+<a href="https://conradconnect.de/de/osram-competition">Mehr erfahren</a>
+
+![Osram](https://conradconnect.de/sites/default/files/2018-05/01_Coverimage_OsramCCcompetition.png)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+
+———————————————————————————
+
+
+
+
+
 ### 26.04.2018
 ## Jetzt kompatibel - DiO
 <a href="https://dashboard.conradconnect.de/devices/dio">Mehr erfahren</a>
