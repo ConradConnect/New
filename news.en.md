@@ -1,6 +1,6 @@
 ### 16.05.2018
 ## Publish projects and win prizes
-<a href="https://conradconnect.de/en/blog/build-project-and-win-fantastic-prizes">Learn more</a>
+<a href="https://conradconnect.de/en/osram-competition">Learn more</a>
 
 ![Osram](https://conradconnect.de/sites/default/files/2018-05/01_Coverimage_OsramCCcompetition.png)
 
