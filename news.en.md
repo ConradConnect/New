@@ -1,3 +1,14 @@
+### 16.05.2018
+## Publish projects and win prizes
+<a href="https://conradconnect.de/en/blog/build-project-and-win-fantastic-prizes">Learn more</a>
+
+![Osram](https://conradconnect.de/sites/default/files/2018-05/01_Coverimage_OsramCCcompetition.png)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30">Subscribe</a> now and never miss the latest news from Conrad Connect!
+———————————————————————————
+
+
+
 ### 10.04.2018
 ## Now compatible - Nuki
 <a href="https://dashboard.conradconnect.de/devices/dio">Try now</a>
