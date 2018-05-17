@@ -3,7 +3,7 @@
 This year Conrad Connect team will be present at the Maker Fair Berlin.
 The event takes place at FEZ Berlin on May 26-27. Don't miss the chance to meet Conrad Connect team and learn more about smart living.
 
-<a href="https://goo.gl/forms/QiY4LHmIASJPo5N23">Ticket gewinnen</a>
+<a href="https://goo.gl/forms/QiY4LHmIASJPo5N23">Win the ticket</a>
 
 ![Maker Fair](https://i2.wp.com/en.maker-faire.de/wp-content/uploads/2016/02/MakerFaire_Berlin.png?resize=768%2C317&ssl=1)
 
