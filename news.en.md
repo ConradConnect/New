@@ -1,3 +1,14 @@
+### 17.05.2018
+## Submit feedback and win a free day ticket for the Maker fair.
+This year Conrad Connect team will be present at the Maker Fair Berlin.
+The event takes place at FEZ Berlin on May 26-27. Don't miss the chance to meet Conrad Connect team and learn more about smart living.
+<a href="https://goo.gl/forms/IADv1W01nMgLlV9r1">Learn more</a>
+
+![Maker Fair](https://i2.wp.com/en.maker-faire.de/wp-content/uploads/2016/02/MakerFaire_Berlin.png?resize=768%2C317&ssl=1)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30">Subscribe</a> now and never miss the latest news from Conrad Connect!
+———————————————————————————
+
 ### 16.05.2018
 ## Publish projects and win prizes
 <a href="https://conradconnect.de/en/osram-competition">Learn more</a>
