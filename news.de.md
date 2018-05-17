@@ -1,3 +1,13 @@
+### 17.05.2018
+## Feedback einreichen und Tagesticket gewinnen!
+<a href="https://conradconnect.de/de/osram-competition">Mehr erfahren</a>
+
+![Maker Fair](https://i2.wp.com/en.maker-faire.de/wp-content/uploads/2016/02/MakerFaire_Berlin.png?resize=768%2C317&ssl=1)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+
+———————————————————————————
+
 ### 16.05.2018
 ## Projekte erstellen und Preise gewinnen
 <a href="https://conradconnect.de/de/osram-competition">Mehr erfahren</a>
@@ -7,9 +17,6 @@
 Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
 
 ———————————————————————————
-
-
-
 
 
 ### 26.04.2018
