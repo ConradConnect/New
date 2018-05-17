@@ -1,6 +1,5 @@
 ### 17.05.2018
-## Projekte erstellen und Preise gewinnen
-## Feedback einreichen und Tagesticket gewinnen!
+## Feedback einreichen und Ticket gewinnen!
 <a href="https://goo.gl/forms/QiY4LHmIASJPo5N23">Mehr erfahren</a>
 
 ![Maker Fair](https://i2.wp.com/en.maker-faire.de/wp-content/uploads/2016/02/MakerFaire_Berlin.png?resize=768%2C317&ssl=1)
