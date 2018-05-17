@@ -1,5 +1,5 @@
 ### 17.05.2018
-## Submit feedback and win a free day ticket for the Maker fair.
+## Submit feedback and win a free one-day ticket for the Maker fair.
 This year Conrad Connect team will be present at the Maker Fair Berlin.
 The event takes place at FEZ Berlin on May 26-27. Don't miss the chance to meet Conrad Connect team and learn more about smart living.
 
