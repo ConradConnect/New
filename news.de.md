@@ -1,3 +1,15 @@
+### 27.06.2018
+## Neue Premium Services sind jetzt verfügbar!
+<a href="https://conradconnect.de/de/blog/neue-premium-services" target="_blank">Mehr erfahren</a>
+
+![Services](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/2e053bcf-7d2e-4366-aa76-322145037882.png)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+
+———————————————————————————
+
+
+
 ### 17.05.2018
 ## Feedback einreichen und Ticket gewinnen!
 <a href="https://goo.gl/forms/QiY4LHmIASJPo5N23" target="_blank">Mehr erfahren</a>
