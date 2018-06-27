@@ -1,3 +1,18 @@
+### 27.06.2018
+## New premium services are available!
+Get more out of your projects by purchasing the premium services.
+
+<a href="https://conradconnect.de/en/blog/new-premium-services" target="_blank">Learn more</a>
+
+![Services](https://camo.githubusercontent.com/eae42fb4b6003d96651ff5631b1732df6eeccbba/68747470733a2f2f67616c6c6572792e6d61696c6368696d702e636f6d2f303062326534336630643437633862396365393730353466302f696d616765732f32653035336263662d376432652d343336362d616137362d3332323134353033373838322e706e67)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
+
+
+
+
 ### 17.05.2018
 ## Submit feedback and win a free one-day ticket for the Maker fair.
 This year Conrad Connect team will be present at the Maker Fair Berlin.
