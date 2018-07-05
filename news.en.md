@@ -1,3 +1,15 @@
+### 05.07.2018
+## Join the community!
+
+<a href="https://community.conradconnect.de/" target="_blank">Learn more</a>
+
+![Community](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/ab38a382-d1db-4ba7-92ec-afac22a852e8.gif)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
+
+
 ### 27.06.2018
 ## New premium services are available!
 Get more out of your projects by purchasing the premium services.
