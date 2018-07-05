@@ -1,3 +1,14 @@
+### 05.07.2018
+## Conrad Connect Community!
+<a href="https://community.conradconnect.de/" target="_blank">Mehr erfahren</a>
+
+![Community](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/ab38a382-d1db-4ba7-92ec-afac22a852e8.gif)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+
+———————————————————————————
+
+
 ### 27.06.2018
 ## Neue Premium Services sind jetzt verfügbar!
 <a href="https://conradconnect.de/de/blog/neue-premium-services" target="_blank">Mehr erfahren</a>
