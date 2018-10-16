@@ -1,3 +1,14 @@
+### 16.10.2018
+## Homematic IP ist jetzt kompatibel!
+
+<a href="https://dashboard.conradconnect.de/devices/homematic" target="_blank">Jetzt Geräte verbinden</a>
+
+![Homematicip](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/106cb092-e5f1-41ed-8512-facbce19102c.gif)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
+
 ### 05.07.2018
 ## Conrad Connect Community!
 <a href="https://community.conradconnect.de/" target="_blank">Mehr erfahren</a>
