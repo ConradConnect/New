@@ -1,3 +1,14 @@
+### 13.11.2018
+## Smartwares is now compatible!
+
+<a href="https://dashboard.conradconnect.de/devices/smartwares" target="_blank">Connect devices now</a>
+
+![Smartwares](https://dashboard.conradconnect.de/img/providers/smartwares/product.jpg)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
+
 ### 16.10.2018
 ## Homematic IP is now compatible!
 
