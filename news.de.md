@@ -1,3 +1,13 @@
+### 20.11.2018
+## Sonos ist jetzt kompatibel!
+
+<a href="https://dashboard.conradconnect.de/devices/sonos" target="_blank">Jetzt Geräte verbinden</a>
+
+![Sonos](https://dashboard.conradconnect.de/img/providers/sonos/product.jpg)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
 ### 13.11.2018
 ## Smartwares ist jetzt kompatibel!
 
