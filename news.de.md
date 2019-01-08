@@ -1,3 +1,13 @@
+### 08.01.2019
+## CarConnect von der Telekom Deutschland GmbH ist jetzt kompatibel!
+
+<a href="https://dashboard.conradconnect.de/devices/mojio" target="_blank">Jetzt Geräte verbinden</a>
+
+![CarConnect](https://dashboard.conradconnect.de/img/providers/mojio/product.png)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
 ### 20.11.2018
 ## Sonos ist jetzt kompatibel!
 
