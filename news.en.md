@@ -1,4 +1,4 @@
-### 20.11.2018
+### 08.01.2019
 ## CarConnectfrom Telekom Deutschland GmbH is now compatible!
 
 <a href="https://dashboard.conradconnect.de/devices/mojio" target="_blank">Connect devices now</a>
