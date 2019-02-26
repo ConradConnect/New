@@ -1,3 +1,13 @@
+### 26.02.2019
+## Verischerungs Kammer Bayern ist jetzt kompatibel!
+
+<a href="https://conradconnect.de/de/vkb" target="_blank">Jetzt abbonieren</a>
+
+![vkb](https://conradconnect.de/sites/default/files/VKB-gif_1.gif)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
 ### 08.01.2019
 ## CarConnect von der Telekom Deutschland GmbH ist jetzt kompatibel!
 
