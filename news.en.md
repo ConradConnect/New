@@ -1,5 +1,5 @@
 ### 26.02.2019
-## Versicherungs Kammer Bayern security assistant service is now available!
+## Versicherungskammer Bayern security assistant service is now available!
 
 <a href="https://dashboard.conradconnect.de/marketplace/service/CC-PRT-VKB-1" target="_blank">Book the service now</a>
 
