@@ -1,5 +1,5 @@
 ### 26.02.2019
-## Verischerungs Kammer Bayern 
+## Verischerungskammer Bayern 
 Sicherheits-Assistenzservice ist jetzt verfügbar!
 
 <a href="https://dashboard.conradconnect.de/marketplace/service/CC-PRT-VKB-1" target="_blank">Jetzt abbonieren</a>
