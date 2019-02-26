@@ -2,7 +2,7 @@
 ## Verischerungs Kammer Bayern 
 Sicherheits-Assistenzservice ist jetzt verfügbar!
 
-<a href="https://conradconnect.de/de/vkb" target="_blank">Jetzt abbonieren</a>
+<a href="https://dashboard.conradconnect.de/marketplace/service/CC-PRT-VKB-1" target="_blank">Jetzt abbonieren</a>
 
 ![vkb](https://conradconnect.de/sites/default/files/VKB-gif_1.gif)
 
