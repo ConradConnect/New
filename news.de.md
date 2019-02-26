@@ -1,6 +1,6 @@
 ### 26.02.2019
 ## Verischerungs Kammer Bayern 
-Sicherheits-Assistenzservice ist jetzt verfügbar!
+## Sicherheits-Assistenzservice ist jetzt verfügbar!
 
 <a href="https://conradconnect.de/de/vkb" target="_blank">Jetzt abbonieren</a>
 
