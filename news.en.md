@@ -1,3 +1,13 @@
+### 26.02.2019
+## Versicherungs Kammer Bayern security assistant service is now available!
+
+<a href="https://dashboard.conradconnect.de/marketplace/service/CC-PRT-VKB-1" target="_blank">Bok the service now</a>
+
+![CarConnect](https://dashboard.conradconnect.de/img/providers/mojio/product.png)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
 ### 08.01.2019
 ## CarConnectfrom Telekom Deutschland GmbH is now compatible!
 
