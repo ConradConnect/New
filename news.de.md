@@ -1,4 +1,16 @@
 ### 26.02.2019
+## Einfach und kostenlos IoT-Serviceideen zum Leben bringen 
+Jeder, der über Codierkenntnisse (Node.js, HTML) verfügt, kann ab jetzt neue smarte Services erstellen, testen und validieren: Das Developer Portal von Conrad Connect wurde heute gelauncht, es stellt die Entwicklertools und Infrastruktur bereit und beseitigen HW-Kompatibilitätsbarrieren.
+Gehören Sie zu den ersten Pionieren, die den "App Store" des IoT erobern. Entwickeln Sie jetzt Ihre erste Idee: Das Developer Portal ermöglicht, einmalige IoT-Services zu entwickeln und für rund 300.000 IoT-Liebhaber in Europa und den USA auszurollen. 
+
+<a href="https://conradconnect.de/de/erwecken-sie-ihre-iot-serviceideen-einfach-und-kostenlos-zum-leben" target="_blank">Mehr erfahren</a>
+
+![DevPortal](https://conradconnect.de/sites/default/files/styles/large/public/Dev%20portal%20graphics2-01_0.png?itok=iWnkufvi)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
+### 26.02.2019
 ## Verischerungskammer Bayern 
 Sicherheits-Assistenzservice ist jetzt verfügbar!
 
