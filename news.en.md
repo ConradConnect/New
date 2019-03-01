@@ -1,6 +1,16 @@
 ### 26.02.2019
 ## Versicherungskammer Bayern security assistant service is now available!
 
+<a href="https://conradconnect.de/en/developer-portal-bring-your-iot-service-ideas-life-easily-and-free-charge" target="_blank">Learn more</a>
+
+![Devportal](https://conradconnect.de/sites/default/files/styles/large/public/Dev%20portal%20graphics2-01%20%281%29.png?itok=vwnx-g-i)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
+### 26.02.2019
+## Versicherungskammer Bayern security assistant service is now available!
+
 <a href="https://dashboard.conradconnect.de/marketplace/service/CC-PRT-VKB-1" target="_blank">Book the service now</a>
 
 ![vkb](https://conradconnect.de/sites/default/files/VKB-gif_1.gif)
