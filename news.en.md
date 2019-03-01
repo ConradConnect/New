@@ -1,5 +1,7 @@
-### 26.02.2019
-## Versicherungskammer Bayern security assistant service is now available!
+### 01.03.2019
+## Developer Portal is live now!
+
+Our Developer Portal enables you to build amazing IoT services and roll-out them for over 280.000 IoT lovers throughout Europe and the USA. We provide the developer tools and infrastructure and eliminate HW compatibility barriers, so you can realize your ideas without worry.
 
 <a href="https://conradconnect.de/en/developer-portal-bring-your-iot-service-ideas-life-easily-and-free-charge" target="_blank">Learn more</a>
 
@@ -9,7 +11,9 @@
 ———————————————————————————
 
 ### 26.02.2019
-## Versicherungskammer Bayern security assistant service is now available!
+## New service is now available!
+
+Versicherungskammer Bayern security assistant service has been launched on the Service Marketplace.
 
 <a href="https://dashboard.conradconnect.de/marketplace/service/CC-PRT-VKB-1" target="_blank">Book the service now</a>
 
