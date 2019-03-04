@@ -1,6 +1,6 @@
 ### 01.03.2019
 ## Developer Portal ist Live! 
-Jeder, der über Codierkenntnisse (Node.js, HTML) verfügt, kann ab jetzt neue smarte Services erstellen, testen und validieren: Das Developer Portal von Conrad Connect wurde heute gelauncht, es stellt die Entwicklertools und Infrastruktur bereit und beseitigen HW-Kompatibilitätsbarrieren.
+Jeder, der über Codierkenntnisse (Node.js, HTML) verfügt, kann ab jetzt neue smarte Services erstellen, testen und validieren: Das Developer Portal von Conrad Connect wurde heute gelauncht, es stellt die Entwicklertools und Infrastruktur bereit und beseitigt HW-Kompatibilitätsbarrieren.
 Gehören Sie zu den ersten Pionieren, die den "App Store" des IoT erobern. Entwickeln Sie jetzt Ihre erste Idee: Das Developer Portal ermöglicht, einmalige IoT-Services zu entwickeln und für rund 300.000 IoT-Liebhaber in Europa und den USA auszurollen. 
 
 <a href="https://conradconnect.de/de/erwecken-sie-ihre-iot-serviceideen-einfach-und-kostenlos-zum-leben" target="_blank">Mehr erfahren</a>
