@@ -1,3 +1,14 @@
+### 10.04.2019
+## Smart Ordering ist Live! 
+Wir freuen uns sehr, dass ab sofort bei Conrad Connect ein völlig neuer smarter Service zur Verfügung steht. Dabei handelt es sich um einen intelligenten Bestellservice, mit dem Sie mit Ihren smarten Geräten in einem Online-Shop eine vordefinierte Bestellung aufgeben können. 
+
+<a href="https://conradconnect.de/de/blog/der-conrad-smart-ordering-service" target="_blank">Mehr erfahren</a>
+
+![smartordering](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/d243bbc8-d770-4869-8c27-10c3c1bebf02.gif)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
 ### 01.03.2019
 ## Developer Portal ist Live! 
 Jeder, der über Codierkenntnisse (Node.js, HTML) verfügt, kann ab jetzt neue smarte Services erstellen, testen und validieren: Das Developer Portal von Conrad Connect wurde heute gelauncht, es stellt die Entwicklertools und Infrastruktur bereit und beseitigt HW-Kompatibilitätsbarrieren.
