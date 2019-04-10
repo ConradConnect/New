@@ -1,3 +1,15 @@
+### 10.04.2019
+## Smart Ordering service is now live!
+
+We are excited to announce that a completely new type of service is available on Conrad Connect. This is a smart Order Service, which enables you and your devices to initiate a predefined order in an online shop. 
+
+<a href="https://conradconnect.de/en/blog/conrad-smart-ordering-service" target="_blank">Learn more</a>
+
+![smartorderingl](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/d243bbc8-d770-4869-8c27-10c3c1bebf02.gif)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
 ### 01.03.2019
 ## Developer Portal is live now!
 
@@ -5,7 +17,7 @@ Our Developer Portal enables you to build amazing IoT services and roll-out them
 
 <a href="https://conradconnect.de/en/developer-portal-bring-your-iot-service-ideas-life-easily-and-free-charge" target="_blank">Learn more</a>
 
-![Devportal](https://conradconnect.de/sites/default/files/styles/large/public/Dev%20portal%20graphics2-01%20%281%29.png?itok=vwnx-g-i)
+![Devportal](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/d21faa20-b4fb-41f9-a714-78a1f1b0ff99.png)
 
 <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
 ———————————————————————————
