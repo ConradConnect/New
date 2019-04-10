@@ -16,7 +16,7 @@ Gehören Sie zu den ersten Pionieren, die den "App Store" des IoT erobern. Entwi
 
 <a href="https://conradconnect.de/de/erwecken-sie-ihre-iot-serviceideen-einfach-und-kostenlos-zum-leben" target="_blank">Mehr erfahren</a>
 
-![DevPortal](https://conradconnect.de/sites/default/files/styles/large/public/Dev%20portal%20graphics2-01_0.png?itok=iWnkufvi)
+![DevPortal](https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/d21faa20-b4fb-41f9-a714-78a1f1b0ff99.png)
 
 Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
 ———————————————————————————
