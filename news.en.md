@@ -1,4 +1,16 @@
 ### 10.04.2019
+## TP-Link is now compatible!
+
+Integrate a new brand into your Smart Home - and use products from TP-Link on Conrad Connect from now on without additional hubs. 
+
+<a href="https://dashboard.conradconnect.de/devices/tplink" target="_blank">Learn more</a>
+
+![smartorderingl](https://dashboard.conradconnect.de/img/providers/tplink/product.png)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
+### 10.04.2019
 ## Smart Ordering service is now live!
 
 We are excited to announce that a completely new type of service is available on Conrad Connect. This is a smart Order Service, which enables you and your devices to initiate a predefined order in an online shop. 
