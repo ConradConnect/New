@@ -1,4 +1,4 @@
-### 10.04.2019
+### 13.05.2019
 ## TP-Link is now compatible!
 
 Integrate a new brand into your Smart Home - and use products from TP-Link on Conrad Connect from now on without additional hubs. 
