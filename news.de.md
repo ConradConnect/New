@@ -1,3 +1,14 @@
+### 15.05.2019
+## Die Event-Saison 2019 ist eröffnet 
+Die Event-Saison 2019 ist eröffnet und für uns steht im Mai einiges an! 
+
+<a href="https://conradconnect.de/de/blog/die-event-saison-2019-ist-eroeffnet" target="_blank">Learn more</a>
+
+![eventsmay](https://conradconnect.de/sites/default/files/2019-05/Events1280x260.jpg)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
 ### 13.05.2019
 ## TP-Link ist jetzt kompatibel! 
 Jetzt neue Marke in Ihr Smart Home integrieren - und Produkte von TP-Link ab sofort (und ohne zusätzliche Hubs) bei Conrad Connect nutzen. 
