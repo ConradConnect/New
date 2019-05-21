@@ -1,3 +1,14 @@
+### 21.05.2019
+## NAND?! 🤨 Logikgatter und Wahrheitswerte verstehen!
+IoT Automatisierungs-Ketten exakt gestalten 😎 und Werkzeuge wie Programmierer und Mathematiker nutzen!
+
+<a href="https://conradconnect.de/de/blog/logikgatter-so-oeffnen-sie-das-tor-zu-ihrem-perfekten-smart-home" target="_blank">Artikel lesen</a>
+
+![logikgatter](https://conradconnect.de/sites/default/files/2019-05/gates_blog.jpg)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
 ### 15.05.2019
 ## Die Event-Saison 2019 ist eröffnet 
 Die Event-Saison 2019 ist eröffnet und für uns steht im Mai einiges an! 
