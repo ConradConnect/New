@@ -1,3 +1,15 @@
+### 21.05.2019
+## NAND?! 🤨 Using logic gates and logic values right
+
+Design exact IoT automation chains 😎 and use tools like programmers and mathematicians!
+
+<a href="https://conradconnect.de/en/blog/logic-gates-doorway-smart-home-perfection">Read more</a>
+
+![logicgates](https://conradconnect.de/sites/default/files/2019-05/gates_blog.jpg)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
 ### 15.05.2019
 ## Opening the event season 2019
 
