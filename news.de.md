@@ -1,3 +1,14 @@
+### 28.05.2019
+## Donnerstag wird smart!
+Nicht nur am Herrentag draußen sein, sondern smarte Outdoor-Projekte und -Produkte für alle Tage nutzen!
+
+<a href="https://www.conradconnect.de/de/blog/iot-loesungen-im-aussenbereich-mein-garten-mein-grundstueck-mein-auto-alles-smart" target="_blank">Artikel lesen</a>
+
+![vatertag](https://www.conradconnect.de/sites/default/files/2019-05/himmelstag_banner_1280x260_0.jpg)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
 ### 21.05.2019
 ## NAND?! 🤨 Logikgatter und Wahrheitswerte verstehen!
 IoT Automatisierungs-Ketten exakt gestalten 😎 und Werkzeuge wie Programmierer und Mathematiker nutzen!
