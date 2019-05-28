@@ -1,3 +1,15 @@
+### 28.05.2019
+## Thursday will be a smart day
+
+Don't only spend Father's Day outside but find out all about smart outdoor projects and products for every day!
+
+<a href="https://www.conradconnect.de/en/blog/iot-outdoor-solutions-smart-garden-smart-premises-smart-car">Read more</a>
+
+![logicgates](https://www.conradconnect.de/sites/default/files/2019-05/himmelstag_banner_1280x260_0.jpg)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
 ### 21.05.2019
 ## NAND?! 🤨 Using logic gates and logic values right
 
