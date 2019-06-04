@@ -1,3 +1,14 @@
+### 04.06.2019
+## IoT muss nicht immer ernste Themen behandeln
+Unsere neue "Smarte-Würfel"-Funktion wählt zufällig eine von sechs Möglichkeiten und macht viele lustige IoT-Projekt möglich.
+
+<a href="https://conradconnect.de/de/blog/smarter-zufallsgenerator" target="_blank">Projekt-Ideen hier</a>
+
+![dicetag](https://conradconnect.de/sites/default/files/2019-05/Wheel1280x260.jpg)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
 ### 28.05.2019
 ## Donnerstag wird smart!
 Nicht nur am Herrentag draußen sein, sondern smarte Outdoor-Projekte und -Produkte für alle Tage nutzen!
