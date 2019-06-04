@@ -1,7 +1,7 @@
 ### 04.06.2019
 ## IoT does not always have to deal with serious topics
 
-Our new "smart dice" function randomly chooses one of six options and makes many smart #IoT-projects possible, that are funny.
+Our new "smart dice" function randomly chooses one of six options and makes many funny IoT-projects possible.
 
 <a href="https://conradconnect.de/en/blog/smart-random-generator">Get project ideas</a>
 
