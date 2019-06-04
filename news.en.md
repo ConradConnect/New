@@ -1,3 +1,15 @@
+### 04.06.2019
+## IoT does not always have to deal with serious topics
+
+Our new "smart dice" function randomly chooses one of six options and makes many smart #IoT-projects possible, that are funny.
+
+<a href="https://conradconnect.de/en/blog/smart-random-generator">Get project ideas</a>
+
+![dice](https://conradconnect.de/sites/default/files/2019-05/Wheel1280x260.jpg)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
 ### 28.05.2019
 ## Thursday will be a smart day
 
