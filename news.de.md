@@ -1,3 +1,14 @@
+### 11.06.2019
+## Conrad Connect Business Solutions
+Conrad Connect ✦ Professional ✦ Partnerships ✦ As-a-Service ✦ auf der IoT TECH EXPO vom 19. - 20. Juni entdecken!
+
+<a href="https://conradconnect.de/de/blog/conrad-connect-business-solutions" target="_blank">Hier mehr lesen!</a>
+
+![businesssolutions](https://conradconnect.de/sites/default/files/2019-06/cc-business_solutions_1280x260.jpg)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
 ### 04.06.2019
 ## IoT muss nicht immer ernste Themen behandeln
 Unsere neue "Smarte-Würfel"-Funktion wählt zufällig eine von sechs Möglichkeiten und macht viele lustige IoT-Projekt möglich.
