@@ -5,7 +5,7 @@ Get inspiration for the office 2.0:
 
 <a href="https://conradconnect.de/en/blog/putting-slack-charge-smart-solutions-office-automation">Read the blog post here!</a>
 
-![smartoffice](https://conradconnect.de/sites/default/files/2019-06/Smart-office-1280x260.jpg)
+![smartoffice](https://conradconnect.de/sites/default/files/inline-images/_X9A2758_vfin.jpg)
 
 <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
 ———————————————————————————
