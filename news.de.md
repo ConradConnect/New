@@ -1,3 +1,14 @@
+### 13.06.2019
+## Auf's Smart Office upgraden
+Hier Inspiration für's Büro 2.0 holen:
+
+<a href="https://conradconnect.de/de/blog/wenn-slack-ans-lueften-erinnert-clevere-loesungen-fuers-smart-office">Blog Post lesen!</a>
+
+![smartoffice](https://conradconnect.de/sites/default/files/2019-06/Smart-office-1280x260.jpg)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
 ### 11.06.2019
 ## Conrad Connect Business Solutions
 Conrad Connect ✦ Professional ✦ Partnerships ✦ As-a-Service ✦ auf der IoT TECH EXPO vom 19. - 20. Juni entdecken!
