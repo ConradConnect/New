@@ -1,14 +1,3 @@
-### 18.06.2019
-## Neue Business Solutions
-Diese Woche auf der IoT Tech EXPO u.a. zum Move My Stock Service mehr erfahren!
-
-<a href="https://conradconnect.de/de/blog/conrad-connect-business-solutions">Mehr zu den Business Solutions beim Event!</a>
-
-![movemystock](https://www.youtube.com/embed/JGP8AF8bvwE?autoplay=0&amp;start=0&amp;rel=0)
-
-Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
-———————————————————————————
-
 ### 13.06.2019
 ## Auf's Smart Office upgraden
 Hier Inspiration für's Büro 2.0 holen:
