@@ -1,3 +1,14 @@
+### 01.07.2019
+## Smart Living für kleines Geld!
+Smart Home muss nicht teuer sein. IKEA, Silvercrest, Smartwares... Das Angebot an preiswerten Marken in unseren Partnerangebot wächst kontinuierlich:
+
+<a href="https://conradconnect.de/de/blog/smart-home-ganz-guenstig-intelligenter-wohnen-fuer-kleines-geld">Blog Post lesen!</a>
+
+![AffordableHomeAutomation](https://conradconnect.de/sites//default/files/inline-images/By%20lovelyday12%20shutterstock_1074151403.jpg)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
 ### 13.06.2019
 ## Auf's Smart Office upgraden
 Hier Inspiration für's Büro 2.0 holen:
