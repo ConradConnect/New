@@ -1,9 +1,21 @@
+### 02.07.2019
+## How the Smart Home feels, smells, hears and sees?
+
+Find out in our new blog post about sensors:
+
+<a href="https://conradconnect.de/en/blog/how-use-sensors-automate-your-home">Read the blog post!</a>
+
+![Sensors](https://conradconnect.de/sites/default/files/2019-06/smart-sensors_BP%20%281%29.jpg)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
 ### 01.07.2019
 ## SmartLiving with a small budget!
 
 Smart Home doesn't have to be expensive. IKEA, Sillvercrest, Smartwares... The range of reasonably priced brands that you can connect with Conrad Connect is growing steadily:
 
-<a href="hhttps://conradconnect.de/en/blog/affordable-home-automation-smart-living-low-cost-set-ups">Read the blog post here!</a>
+<a href="https://conradconnect.de/en/blog/affordable-home-automation-smart-living-low-cost-set-ups">Read the blog post here!</a>
 
 ![Affordable](https://conradconnect.de/sites/default/files/2019-06/2019-06-20%20%284%29.jpg)
 
