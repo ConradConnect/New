@@ -1,3 +1,14 @@
+### 02.07.2019
+## Wie das Smart Home fühlt, riecht und hört?
+Im neuen Blog Post zum Thema Sensoren lesen:
+
+<a href="https://conradconnect.de/de/blog/mit-sensoren-das-smart-home-automatisieren-so-gehts">Hier geht's zum Blog Post!</a>
+
+![Sensors](https://conradconnect.de/sites/default/files/2019-06/smart-sensors_BP%20%281%29.jpg)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
 ### 01.07.2019
 ## Smart Living für kleines Geld!
 Smart Home muss nicht teuer sein. IKEA, Silvercrest, Smartwares... Das Angebot an preiswerten Marken in unseren Partnerangebot wächst kontinuierlich:
