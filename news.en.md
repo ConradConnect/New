@@ -1,3 +1,14 @@
+### 08.07.2019
+## INVENT. CODE. LAUNCH. WIN.
+
+Implement your IoT service idea on the Developer Portal and win Conrad voucher:
+<a href="https://conradconnect.de/en/blog/shaping-future-iot-developer-portal">Info here!</a>
+
+![DevPortalCompetition](https://conradconnect.de/sites/default/files/2019-07/dev-challenge_BP.jpg)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
 ### 02.07.2019
 ## How the Smart Home feels, smells, hears and sees?
 
