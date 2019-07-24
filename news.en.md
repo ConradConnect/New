@@ -2,7 +2,7 @@
 ## No more excuses! 💪
 
 Download the GoogleFit App and integrate your Smartphone into smart projects - with no additional equipment required:
-<a href="https://conradconnect.de/en/brand/google-fit"More info here!</a>
+<a href="https://conradconnect.de/en/brand/google-fit">More info here!</a>
 
 ![GoogleFit](https://conradconnect.de/sites/default/files/styles/max_650x650/public/google-fit-integration_still.jpg?itok=ul5l3pNK)
 
