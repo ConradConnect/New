@@ -1,3 +1,14 @@
+### 24.07.2019
+## Keine Ausreden mehr! 💪
+Google Fit App herunterladen und Smartphone direkt in smarte Alltags-Projekte einbinden – ganz ohne zusätzliche Geräte:
+
+<a href="https://conradconnect.de/de/brand/google-fit">Mehr Infos hier!</a>
+
+![GoogleFit](https://conradconnect.de/sites/default/files/styles/max_650x650/public/google-fit-integration_still.jpg?itok=ul5l3pNK)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
 ### 08.07.2019
 ## INVENT. CODE. LAUNCH. WIN.
 Auf dem Developer Portal IoT Service-Idee umsetzen und Conrad-Gutschein gewinnen:
