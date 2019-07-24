@@ -1,3 +1,14 @@
+### 24.07.2019
+## No more excuses! 💪
+
+Download the GoogleFit App and integrate your Smartphone into smart projects - with no additional equipment required:
+<a href="https://conradconnect.de/en/brand/google-fit"More info here!</a>
+
+![GoogleFit](https://conradconnect.de/sites/default/files/styles/max_650x650/public/google-fit-integration_still.jpg?itok=ul5l3pNK)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
 ### 08.07.2019
 ## INVENT. CODE. LAUNCH. WIN.
 
