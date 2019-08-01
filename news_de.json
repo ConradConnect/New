@@ -34,11 +34,19 @@
         },
         {
             "title": "Auf's Smart Office upgraden",
-            "imageUrl": "https://conradconnect-dashboard-staging.waylay.io/img/providers/mystrom/product.jpg",
+            "imageUrl": "https://conradconnect.de/sites/default/files/inline-images/_X9A2758_vfin.jpg",
             "date": "13.06.2019",
             "htmlBody": "Hier Inspiration für's Büro 2.0 holen:",
             "link": "https://conradconnect.de/de/blog/wenn-slack-ans-lueften-erinnert-clevere-loesungen-fuers-smart-office",
-            "linkText": "Blog Post lesen! "
+            "linkText": "Blog Post lesen!"
+        },
+        {
+            "title": "Conrad Connect Business Solutions",
+            "imageUrl": "https://conradconnect.de/sites/default/files/inline-images/_X9A2758_vfin.jpg",
+            "date": "11.06.2019",
+            "htmlBody": "Hier Inspiration für's Büro 2.0 holen:",
+            "link": "https://conradconnect.de/de/blog/conrad-connect-business-solutions",
+            "linkText": "Blog Post lesen!"
         }
     ]
     
