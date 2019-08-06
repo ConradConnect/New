@@ -1,3 +1,14 @@
+### 06.08.2019
+## Telegram und Conrad Connect!
+Als Benachrichtigung oder zum Ein- und Ausschalten smarter Geräte Kurznachricht nutzen? 😎 Jetzt Telegram verbinden!
+
+<a href="http://bit.ly/2ZCXSlw">Hier mehr lesen!</a>
+
+![Telegram](https://conradconnect.de/sites/default/files/styles/max_650x650/public/NL_telegram-CC_1_0.jpg?itok=ZAKg8MKt)
+
+Jetzt für News <a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">anmelden</a> und keine Nachrichten mehr von Conrad Connect verpassen!
+———————————————————————————
+
 ### 24.07.2019
 ## Keine Ausreden mehr! 💪
 Google Fit App herunterladen und Smartphone direkt in smarte Alltags-Projekte einbinden – ganz ohne zusätzliche Geräte:
