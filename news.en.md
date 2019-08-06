@@ -1,3 +1,14 @@
+### 06.08.2019
+## Telegram and Conrad Connect
+
+Want to be notified or turn smart devices on/ off with a short message? 😎 Connect Telegram!
+<a href="http://bit.ly/2ZCXSlw">Read more here!</a>
+
+![Telegram](https://conradconnect.de/sites/default/files/styles/max_650x650/public/NL_telegram-CC_1_0.jpg?itok=ZAKg8MKt)
+
+<a href="https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30" target="_blank">Subscribe</a> now to our news and never miss the latest updates from Conrad Connect!
+———————————————————————————
+
 ### 24.07.2019
 ## No more excuses! 💪
 
