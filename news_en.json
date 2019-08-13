@@ -1,6 +1,14 @@
 {
     "news": [
          {
+            "title": "NEW: Simple Project Editor",
+            "imageUrl": "https://conradconnect.de/sites/default/files/2019-08/simple_prj_blog%20%281%29.jpg",
+            "date": "13.08.2019",
+            "htmlBody": "Want to quickly connect the weather forecast with your Spotify or your Google Fit with Telegram? This is even easier with the new simple project editor now:<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://conradconnect.de/en/blog/smart-living-made-easy-our-new-simplified-project-editor",
+            "linkText": "Find out more here!"
+        },
+        {
             "title": "Telegram and Conrad Connect",
             "imageUrl": "https://conradconnect.de/sites/default/files/styles/max_650x650/public/NL_telegram-CC_1_0.jpg?itok=ZAKg8MKt",
             "date": "06.08.2019",
