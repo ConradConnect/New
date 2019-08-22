@@ -2,7 +2,7 @@
     "projectPromotions": [
          {
             "title": "Control thermostat with MyStrom Button",
-            "titleColor": "#FFFFFF",
+            "titleColor": "#000000",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/simple_prj_newsletter%20(1).jpg",
             "heroImageUrl" : "",  
             "content": "myStrom Smart Home products make you save energy, set the lights to suit your mood and lets you keep an eye on your home. Simple and easy",
@@ -11,7 +11,7 @@
         },
         {
             "title": "Control thermostat with MyStrom Button",
-            "titleColor": "#FFFFFF",
+            "titleColor": "#000000",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/simple_prj_newsletter%20(1).jpg",
             "heroImageUrl" : "https://www.solidbackgrounds.com/images/2560x1440/2560x1440-yellow-solid-color-background.jpg",  
             "content": "myStrom Smart Home products make you save energy, set the lights to suit your mood and lets you keep an eye on your home. Simple and easy",
