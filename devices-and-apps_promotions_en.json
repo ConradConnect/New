@@ -1,0 +1,22 @@
+{
+  "devicesAndAppsPromotions": [
+    {
+      "title": "New Smart Services",
+      "titleColor": "#000000",
+      "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/devices-and-apps-img1.jpg",
+      "heroImageUrl" : "",
+      "content": "In addition to Conrad, you can now also integrate automatic orders with voelkner, SMDV, digitalo and müsli.de into your smart projects!",
+      "contentColor": "#FF0000",
+      "link": "https://dashboard.conradconnect.de/"
+    },
+    {
+        "title": "Conrad Connect at the IFA 2019",
+        "titleColor": "#000000",
+        "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/devices-and-apps-img2.jpg.jpg",
+        "heroImageUrl" : "",
+        "content": "At the Internationale Funkausstellung (IFA), Conrad Connect will once again take the opportunity to introduce the latest innovations to all technology enthusiasts and potential business partners. From September 6 to 11 2019, you will find us in Hall 25, Stand 333 and can experience Conrad Connect live.",
+        "contentColor": "#FF0000",
+        "link": "https://www.conradconnect.com/de/blog/conrad-connect-auf-der-ifa-2019"
+    }
+  ]
+}
