@@ -1,6 +1,14 @@
 {
     "news": [
-         {
+        {
+            "title": "Das IoT zum Sprechen bringen",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/CC_Dashboard_Laptop.jpg",
+            "date": "13.08.2019",
+            "htmlBody": "Alle smarten IoT Daten im Blick haben<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://www.conradconnect.com/de/blog/das-iot-zum-sprechen-bringen-datenvisualisierung-leicht-gemacht",
+            "linkText": "Mehr lesen!"
+        }, 
+        {
             "title": "NEU: Einfacher Projekt Editor",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/simple_prj_newsletter%20(1).jpg",
             "date": "13.08.2019",
