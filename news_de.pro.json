@@ -1,0 +1,85 @@
+{
+    "news": [
+        {
+            "title": "CCPRO FAKE NEWS ITEM",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/CC_Dashboard_Laptop.jpg",
+            "date": "13.08.2019",
+            "htmlBody": "Alle smarten IoT Daten im Blick haben<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://www.conradconnect.com/de/blog/das-iot-zum-sprechen-bringen-datenvisualisierung-leicht-gemacht",
+            "linkText": "Mehr lesen!"
+        }, 
+        {
+            "title": "Das IoT zum Sprechen bringen",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/CC_Dashboard_Laptop.jpg",
+            "date": "13.08.2019",
+            "htmlBody": "Alle smarten IoT Daten im Blick haben<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://www.conradconnect.com/de/blog/das-iot-zum-sprechen-bringen-datenvisualisierung-leicht-gemacht",
+            "linkText": "Mehr lesen!"
+        }, 
+        {
+            "title": "NEU: Einfacher Projekt Editor",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/simple_prj_newsletter%20(1).jpg",
+            "date": "13.08.2019",
+            "htmlBody": "Schnell den Wetterbericht mit Spotify oder Google Fit mit Telgram verbinden? Das wird mit dem neuen einfachen Projekt Editor jetzt noch leichter<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://conradconnect.de/de/blog/smarter-leben-leicht-gemacht-mit-dem-neuen-einfachen-projekt-editor",
+            "linkText": "Hier mehr erfahren!"
+        },
+        {
+            "title": "Telegram und Conrad Connect",
+            "imageUrl": "https://conradconnect.de/sites/default/files/styles/max_650x650/public/NL_telegram-CC_1_0.jpg?itok=ZAKg8MKt",
+            "date": "06.08.2019",
+            "htmlBody": "Als Benachrichtigung oder zum Ein- und Ausschalten smarter Geräte Kurznachricht nutzen? 😎 Jetzt Telegram verbinden!<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "http://bit.ly/2ZCXSlw",
+            "linkText": "Mehr Infos hier!"
+        },
+        {
+            "title": "Keine Ausreden mehr! 💪",
+            "imageUrl": "https://conradconnect.de/sites/default/files/styles/max_650x650/public/google-fit-integration_still.jpg?itok=ul5l3pNK",
+            "date": "24.07.2019",
+            "htmlBody": "Google Fit App herunterladen und Smartphone direkt in smarte Alltags-Projekte einbinden – ganz ohne zusätzliche Geräte.<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://mailchi.mp/conradconnect/googlefit-664409",
+            "linkText": "Mehr Infos hier!"
+        },
+        {
+            "title": "INVENT. CODE. LAUNCH. WIN.",
+            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/24247dbb-ecb8-4f25-a1ff-5d00ff1237ce.jpg",
+            "date": "08.07.2019",
+            "htmlBody": "Auf dem Developer Portal IoT Service-Idee umsetzen und Conrad-Gutschein gewinnen.<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://conradconnect.de/de/blog/mit-dem-developer-portal-die-iot-zukunft-gestalten",
+            "linkText": "Infos hier!"
+        },
+        {
+            "title": "Wie das Smart Home fühlt, riecht und hört?",
+            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/9a1d291a-2dce-44d5-8eab-1c734b6fa2c8.jpg",
+            "date": "02.07.2019",
+            "htmlBody": "Im neuen Blog Post zum Thema Sensoren lesen.<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://conradconnect.de/de/blog/mit-sensoren-das-smart-home-automatisieren-so-gehts",
+            "linkText": "Hier geht's zum Blog Post!"
+        },
+        {
+            "title": "Smart Living für kleines Geld!",
+            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/c0532335-00c0-448f-abad-dbbeec081f4a.jpg",
+            "date": "01.07.2019",
+            "htmlBody": "Smart Home muss nicht teuer sein. IKEA, Silvercrest, Smartwares... Das Angebot an preiswerten Marken in unseren Partnerangebot wächst kontinuierlich.<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",            
+            "link": "https://conradconnect.de/de/blog/smart-home-ganz-guenstig-intelligenter-wohnen-fuer-kleines-geld",
+            "linkText": "Blog Post lesen!"
+        },
+        {
+            "title": "Auf's Smart Office upgraden",
+            "imageUrl": "https://conradconnect.de/sites/default/files/inline-images/_X9A2758_vfin.jpg",
+            "date": "13.06.2019",
+            "htmlBody": "Hier Inspiration für's Büro 2.0 holen.<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://conradconnect.de/de/blog/wenn-slack-ans-lueften-erinnert-clevere-loesungen-fuers-smart-office",
+            "linkText": "Blog Post lesen!"
+        },
+        {
+            "title": "Conrad Connect Business Solutions",
+            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/67e7ab8b-d486-4bec-86ce-ddd407184797.jpg",
+            "date": "11.06.2019",
+            "htmlBody": "Conrad Connect Professional ✦ Ecosystem Partnerships ✦ Platform as a Service ✦ <br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://conradconnect.de/de/blog/conrad-connect-business-solutions",
+            "linkText": "Blog Post lesen!"
+        }
+    ]
+    
+}
