@@ -20,11 +20,11 @@
         },
         {
             "title": "Netatmo helps you keep the overview",
-            "titleColor": "#000000",
+            "titleColor": "#b62020",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea_mobile.jpg",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea.jpg",  
             "content": "Wether getting information about the temperatature, humidity or even the noise. Netatmo devices help you to give you the peace of mind",
-            "contentColor": "#000000",
+            "contentColor": "#ffffff",
             "link": "https://dashboard.conradconnect.de/devices/netatmo"
         }
     ]
