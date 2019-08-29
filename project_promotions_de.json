@@ -7,7 +7,7 @@
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea.jpg",  
             "content": "Lassen Sie Ihrer Kreativität freien Lauf und kreieren Sie das perfekt Ambiente für jeden Moment des Tages",
             "contentColor": "#FFFFFF",
-            "link": "https://conradconnect-dashboard-staging.waylay.io/devices/nanoleaf"
+            "link": "https://dashboard.conradconnect.de/devices/nanoleaf"
         },
         {
             "title": "Home Connect für einen intelligenteren Haushalt",
@@ -16,16 +16,16 @@
             "heroImageUrl" : "",  
             "content": "Kontrollieren Sie Ihre Haushaltsgeräte oder informieren Sie sich, sobald Ihre Spülmaschine bereit ist. Perfekt um den Überblick über Ihre Verbrauchsmittel zu behalten.",
             "contentColor": "#000000",
-            "link": "https://conradconnect.de/de/blog/smarter-leben-leicht-gemacht-mit-dem-neuen-einfachen-projekt-editor"
+            "link": "https://dashboard.conradconnect.de/devices/boschhome"
         },
         {
-            "title": "Control thermostat with MyStrom Button",
+            "title": "Netatmo helps you keep the overview",
             "titleColor": "#000000",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/simple_prj_newsletter%20(1).jpg",
-            "heroImageUrl" : "https://storage.cloud.google.com/conrad-connect-static-content/marketing/project-promotions/2560x1440-yellow-rose-free-website-background-image.jpg",  
-            "content": "myStrom Smart Home products make you save energy, set the lights to suit your mood and lets you keep an eye on your home. Simple and easy",
-            "contentColor": "#FF0000",
-            "link": "https://conradconnect.de/de/blog/smarter-leben-leicht-gemacht-mit-dem-neuen-einfachen-projekt-editor"
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea.jpg",  
+            "content": "Wether getting information about the temperatature, humidity or even the noise. Netatmo devices help you to give you the peace of mind",
+            "contentColor": "#000000",
+            "link": "https://dashboard.conradconnect.de/devices/netatmo"
         }
     ]
 }
