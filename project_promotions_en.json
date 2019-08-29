@@ -1,11 +1,11 @@
 {
     "projectPromotions": [
          {
-            "title": "Licht für jede Stimmung mit Nanoleaf",
+            "title": "Lights for every mood with Nanoleaf",
             "titleColor": "#FFFFFF",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea.jpg",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea.jpg",  
-            "content": "myStrom Smart Home products make you save energy, set the lights to suit your mood and lets you keep an eye on your home. Simple and easy",
+            "content": "Set the ideal mood for any occasion, wake up to the sunrise, entertain family and friends, and automate your lights throughout the day",
             "contentColor": "#FFFFFF",
             "link": "https://conradconnect-dashboard-staging.waylay.io/devices/nanoleaf"
         },
