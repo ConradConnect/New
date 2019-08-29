@@ -19,13 +19,13 @@
             "link": "https://conradconnect.de/de/blog/smarter-leben-leicht-gemacht-mit-dem-neuen-einfachen-projekt-editor"
         },
         {
-            "title": "Control thermostat with MyStrom Button",
+            "title": "Netatmo helps you keep the overview",
             "titleColor": "#000000",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/simple_prj_newsletter%20(1).jpg",
-            "heroImageUrl" : "https://storage.cloud.google.com/conrad-connect-static-content/marketing/project-promotions/2560x1440-yellow-rose-free-website-background-image.jpg",  
-            "content": "myStrom Smart Home products make you save energy, set the lights to suit your mood and lets you keep an eye on your home. Simple and easy",
-            "contentColor": "#FF0000",
-            "link": "https://conradconnect.de/de/blog/smarter-leben-leicht-gemacht-mit-dem-neuen-einfachen-projekt-editor"
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea.jpg",  
+            "content": "Wether getting information about the temperatature, humidity or even the noise. Netatmo devices help you to give you the peace of mind",
+            "contentColor": "#000000",
+            "link": "https://dashboard.conradconnect.de/devices/netatmo"
         }
     ]
 }
