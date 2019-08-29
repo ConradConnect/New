@@ -1,13 +1,13 @@
 {
     "projectPromotions": [
          {
-            "title": "Control thermostat with MyStrom Button",
-            "titleColor": "#000000",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/simple_prj_newsletter%20(1).jpg",
-            "heroImageUrl" : "",  
+            "title": "Licht für jede Stimmung mit Nanoleaf",
+            "titleColor": "#FFFFFF",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea.jpg",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea.jpg",  
             "content": "myStrom Smart Home products make you save energy, set the lights to suit your mood and lets you keep an eye on your home. Simple and easy",
-            "contentColor": "#FF0000",
-            "link": "https://conradconnect.de/de/blog/smarter-leben-leicht-gemacht-mit-dem-neuen-einfachen-projekt-editor"
+            "contentColor": "#FFFFFF",
+            "link": "https://conradconnect-dashboard-staging.waylay.io/devices/nanoleaf"
         },
         {
             "title": "Control thermostat with MyStrom Button",
