@@ -7,7 +7,7 @@
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea.jpg",  
             "content": "Set the ideal mood for any occasion, wake up to the sunrise, entertain family and friends, and automate your lights throughout the day",
             "contentColor": "#FFFFFF",
-            "link": "https://conradconnect-dashboard-staging.waylay.io/devices/nanoleaf"
+            "link": "https://dashboard.conradconnect.de/devices/nanoleaf"
         },
         {
             "title": "Home Connect for a smarter household",
@@ -16,7 +16,7 @@
             "heroImageUrl" : "",  
             "content": "Control your household appliances or get informed as soon as your dishwasher is ready. Perfect for keeping track of your consumables.",
             "contentColor": "#000000",
-            "link": "https://conradconnect.de/de/blog/smarter-leben-leicht-gemacht-mit-dem-neuen-einfachen-projekt-editor"
+            "link": "https://dashboard.conradconnect.de/devices/boschhome"
         },
         {
             "title": "Netatmo helps you keep the overview",
