@@ -1,6 +1,14 @@
 {
     "news": [
-         {
+        {
+            "title": "Conrad Connect at IFA in Berlin",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/ConradConnect_IFA2019.jpg",
+            "date": "30.08.2019",
+            "htmlBody": "Meet us at IFA to discover our latest innovations 🤩 and find the best Business Solution for you.<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://www.conradconnect.com/en/blog/conrad-connect-ifa-2019",
+            "linkText": "Find all info here!"
+        },
+        {
             "title": "Getting the IoT to Talk to You",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/CC_Dashboard_Laptop.jpg",
             "date": "13.08.2019",
