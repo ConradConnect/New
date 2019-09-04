@@ -20,11 +20,11 @@
         },
         {
             "title": "The smart way of ordering online",
-            "titleColor": "#000000",
+            "titleColor": "#ffffff",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/order_mobile_promoarea.png",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/order_promoarea.jpg",  
             "content": "Re-order your everyday products easily in various online shops per voice command or push of a button.",
-            "contentColor": "#000000",
+            "contentColor": "#ffffff",
             "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-COR-1"
         }
     ]
