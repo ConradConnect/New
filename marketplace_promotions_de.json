@@ -20,11 +20,11 @@
         },
         {
             "title": "Die clevere Art online zu bestellen",
-            "titleColor": "#000000",
+            "titleColor": "#ffffff",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/order_mobile_promoarea.png",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/order_promoarea.jpg",  
             "content": "Bestellen Sie Ihre Alltagsprodukte ganz einfach in verschiedenen Online-Shops per Sprachbefehl oder Knopfdruck nach.",
-            "contentColor": "#000000",
+            "contentColor": "#ffffff",
             "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-COR-1"
         }
     ]
