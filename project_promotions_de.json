@@ -22,7 +22,7 @@
             "title": "Einfach gesünder leben",
             "titleColor": "#ffee68",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea_mobile.jpg",
-            "heroImageUrl" : "",  
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/gesuender_leben_promoarea.jpg",  
             "content": "Lassen Sie sich automatisch von smarten Lampen benachrichtigen, um Ihr Fenster zu öffnen, wenn die Luftqualität im Raum sinkt.",
             "contentColor": "#ffffff",
             "link": "https://dashboard.conradconnect.de/devices/netatmo"
