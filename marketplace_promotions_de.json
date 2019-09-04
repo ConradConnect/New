@@ -1,31 +1,31 @@
 {
     "marketplacePromotions": [
          {
-            "title": "Markteing Dummy Licht für jede Stimmung mit Nanoleaf",
+            "title": "Schützen Sie Ihr Zuhause intelligent",
             "titleColor": "#e8b8ff",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea_mobile.jpg",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea.jpg",  
-            "content": "Lassen Sie Ihrer Kreativität freien Lauf und kreieren Sie das perfekt Ambiente für jeden Moment des Tages",
+            "content": "Nutzen Sie künstliche Intelligenz für eine überzeugende Anwesenheitssimulation, die Einbrecher und Diebe fernhält.",
             "contentColor": "#FFFFFF",
-            "link": "https://dashboard.conradconnect.de/devices/nanoleaf"
+            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-PRT-SC-1"
         },
         {
-            "title": "Home Connect für einen intelligenteren Haushalt",
+            "title": "Starten Sie Ihren Fitness-Wettbewerb",
             "titleColor": "#000000",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/homeconnect_promoarea.png",
             "heroImageUrl" : "",  
-            "content": "Kontrollieren Sie Ihre Haushaltsgeräte oder informieren Sie sich, sobald Ihre Spülmaschine bereit ist. Perfekt um den Überblick über Ihre Verbrauchsmittel zu behalten.",
+            "content": "Jetzt einen Fitness-Wettbewerb mit Freunden, Kollegen oder Familienmitgliedern starten und geräteunabhängig die Schrittzahl vergleichen.",
             "contentColor": "#000000",
-            "link": "https://dashboard.conradconnect.de/devices/boschhome"
+            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-MYD-ACT-4c8bf2a0-be72-11e9-a649-575c9101f1f1"
         },
         {
-            "title": "Mit Netatmo den Überblick behalten",
+            "title": "Die clevere Art online zu bestellen",
             "titleColor": "#ffee68",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea_mobile.jpg",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea.jpg",  
-            "content": "Ob Informationen über die Temperatur, Luftfeuchtigkeit oder sogar die aktuelle Lautstärke. Netatmo-Geräte geben Ihnen die Gewissheit, dass alles in Ordnung ist",
+            "content": "Bestellen Sie Ihre Alltagsprodukte ganz einfach in verschiedenen Online-Shops per Sprachbefehl oder Knopfdruck nach.",
             "contentColor": "#ffffff",
-            "link": "https://dashboard.conradconnect.de/devices/netatmo"
+            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-COR-1"
         }
     ]
 }
