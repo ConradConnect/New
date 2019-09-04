@@ -24,7 +24,7 @@
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/order_mobile_promoarea.png",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/order_promoarea.jpg",  
             "content": "Bestellen Sie Ihre Alltagsprodukte ganz einfach in verschiedenen Online-Shops per Sprachbefehl oder Knopfdruck nach.",
-            "contentColor": "#ffffff",
+            "contentColor": "#000000",
             "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-COR-1"
         }
     ]
