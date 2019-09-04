@@ -5,25 +5,25 @@
             "titleColor": "#e8b8ff",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea_mobile.jpg",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea.jpg",  
-            "content": "Lassen Sie Ihrer Kreativität freien Lauf und kreieren Sie das perfekt Ambiente für jeden Moment des Tages",
+            "content": "Schaffen Sie die ideale Stimmung für jeden Anlass: Wachen Sie mit einem Sonnenaufgang auf, unterhalten Sie Freunde und Familie oder automatisieren Sie Ihre Lichter den ganzen Tag über.",
             "contentColor": "#FFFFFF",
             "link": "https://dashboard.conradconnect.de/devices/nanoleaf"
         },
         {
-            "title": "Home Connect für einen intelligenteren Haushalt",
+            "title": "Home Connect für einen smarten Haushalt",
             "titleColor": "#000000",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/homeconnect_promoarea.png",
             "heroImageUrl" : "",  
-            "content": "Kontrollieren Sie Ihre Haushaltsgeräte oder informieren Sie sich, sobald Ihre Spülmaschine bereit ist. Perfekt um den Überblick über Ihre Verbrauchsmittel zu behalten.",
+            "content": "Kontrollieren Sie Ihre Haushaltsgeräte oder lassen Sie sich informieren, sobald Ihre Spülmaschine bereit ist. Perfekt für den gesamten Überblick im Haushalt.",
             "contentColor": "#000000",
             "link": "https://dashboard.conradconnect.de/devices/boschhome"
         },
         {
-            "title": "Mit Netatmo den Überblick behalten",
+            "title": "Mit Netatmo behalten Sie die Kontrolle",
             "titleColor": "#ffee68",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea_mobile.jpg",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea.jpg",  
-            "content": "Ob Informationen über die Temperatur, Luftfeuchtigkeit oder sogar die aktuelle Lautstärke. Netatmo-Geräte geben Ihnen die Gewissheit, dass alles in Ordnung ist",
+            "content": "Ob Informationen über die Temperatur, Luftfeuchtigkeit oder sogar Lärm: Netatmo-Geräte geben Ihnen die Gewissheit, dass Sie alles unter Kontrolle haben.",
             "contentColor": "#ffffff",
             "link": "https://dashboard.conradconnect.de/devices/netatmo"
         }
