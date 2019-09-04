@@ -2,7 +2,7 @@
     "marketplacePromotions": [
          {
             "title": "Protect your home the smart way",
-            "titleColor": "#e8b8ff",
+            "titleColor": "#ffca43",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/anwesenheit_mobile_promoarea.png",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/anwesenheit_promoarea.jpg",  
             "content": "Leverage artificial intelligence for a powerful presence simulation that keeps burglars and thieves away.",
@@ -11,11 +11,11 @@
         },
         {
             "title": "Start your fitness competition",
-            "titleColor": "#000000",
+            "titleColor": "#FFFFFF",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/fitness_mobile_promoarea.png",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/fitness_promoarea.jpg",  
             "content": "Start a fitness competition with friends, colleagues or family members and compare the number of steps device-independent.",
-            "contentColor": "#000000",
+            "contentColor": "#FFFFFF",
             "link": "https://dashboard.conradconnect.de/marketplace/service/CC-MYD-ACT-4c8bf2a0-be72-11e9-a649-575c9101f1f1"
         },
         {
