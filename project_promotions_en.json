@@ -2,7 +2,7 @@
     "projectPromotions": [
          {
             "title": "More motivation during training",
-            "titleColor": "#e8b8ff",
+            "titleColor": "#feb7ae",
             "imageUrl": "https://dashboard.conradconnect.de/img/projects/fitness.jpg",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/mehr_motivation_promoarea.jpg",  
             "content": "Motivate yourself and others by sharing your step count with a text message once you reach a certain goal.",
