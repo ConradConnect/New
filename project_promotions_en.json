@@ -1,31 +1,31 @@
 {
     "projectPromotions": [
          {
-            "title": "Lights for every mood with Nanoleaf",
+            "title": "More motivation during training",
             "titleColor": "#e8b8ff",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea_mobile.jpg",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/hero-test1.jpg",  
-            "content": "Set the ideal mood for any occasion, wake up to the sunrise, entertain family and friends, and automate your lights throughout the day",
+            "content": "Motivate yourself and others by sharing your step count with a text message once you reach a certain goal.",
             "contentColor": "#FFFFFF",
-            "link": "https://dashboard.conradconnect.de/devices/nanoleaf"
+            "link": "https://dashboard.conradconnect.de/projects/public/598dbf8b1981b52897b6f29a"
         },
         {
-            "title": "Home Connect for a smarter household",
+            "title": "The perfect start to the day",
             "titleColor": "#000000",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/homeconnect_promoarea.png",
             "heroImageUrl" : "",  
-            "content": "Control your household appliances or get informed as soon as your dishwasher is ready. Perfect for keeping track of your consumables.",
+            "content": "Automate your heating, music and lighting to easily wake up and start the day comfortably.",
             "contentColor": "#000000",
-            "link": "https://dashboard.conradconnect.de/devices/boschhome"
+            "link": "https://dashboard.conradconnect.de/projects/public/5c8a4d16327e2ecbdde3c22b"
         },
         {
-            "title": "Netatmo helps you keep the overview",
+            "title": "Simply live healthier",
             "titleColor": "#ffee68",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea_mobile.jpg",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea.jpg",  
-            "content": "Wether getting information about the temperatature, humidity or even the noise. Netatmo devices help you to give you the peace of mind",
+            "content": "Get notified automatically by smart lights to open your window when the air quality in the room drops.",
             "contentColor": "#ffffff",
-            "link": "https://dashboard.conradconnect.de/devices/netatmo"
+            "link": "https://dashboard.conradconnect.de/projects/public/59ce4a7b23ded67578391b38"
         }
     ]
 }
