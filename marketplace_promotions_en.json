@@ -1,0 +1,31 @@
+{
+    "marketplacePromotions": [
+         {
+            "title": "Lights for every mood with Nanoleaf",
+            "titleColor": "#e8b8ff",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea_mobile.jpg",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/hero-test1.jpg",  
+            "content": "Set the ideal mood for any occasion, wake up to the sunrise, entertain family and friends, and automate your lights throughout the day",
+            "contentColor": "#FFFFFF",
+            "link": "https://dashboard.conradconnect.de/devices/nanoleaf"
+        },
+        {
+            "title": "Home Connect for a smarter household",
+            "titleColor": "#000000",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/homeconnect_promoarea.png",
+            "heroImageUrl" : "",  
+            "content": "Control your household appliances or get informed as soon as your dishwasher is ready. Perfect for keeping track of your consumables.",
+            "contentColor": "#000000",
+            "link": "https://dashboard.conradconnect.de/devices/boschhome"
+        },
+        {
+            "title": "Netatmo helps you keep the overview",
+            "titleColor": "#ffee68",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea_mobile.jpg",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea.jpg",  
+            "content": "Wether getting information about the temperatature, humidity or even the noise. Netatmo devices help you to give you the peace of mind",
+            "contentColor": "#ffffff",
+            "link": "https://dashboard.conradconnect.de/devices/netatmo"
+        }
+    ]
+}
