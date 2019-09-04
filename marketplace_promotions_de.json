@@ -3,7 +3,7 @@
          {
             "title": "Schützen Sie Ihr Zuhause intelligent",
             "titleColor": "#e8b8ff",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea_mobile.jpg",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/anwesenheit_mobile_promoarea.png",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea.jpg",  
             "content": "Nutzen Sie künstliche Intelligenz für eine überzeugende Anwesenheitssimulation, die Einbrecher und Diebe fernhält.",
             "contentColor": "#FFFFFF",
@@ -12,7 +12,7 @@
         {
             "title": "Starten Sie Ihren Fitness-Wettbewerb",
             "titleColor": "#000000",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/homeconnect_promoarea.png",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/fitness_mobile_promoarea.png",
             "heroImageUrl" : "",  
             "content": "Jetzt einen Fitness-Wettbewerb mit Freunden, Kollegen oder Familienmitgliedern starten und geräteunabhängig die Schrittzahl vergleichen.",
             "contentColor": "#000000",
@@ -21,7 +21,7 @@
         {
             "title": "Die clevere Art online zu bestellen",
             "titleColor": "#ffee68",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea_mobile.jpg",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/order_mobile_promoarea.png",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea.jpg",  
             "content": "Bestellen Sie Ihre Alltagsprodukte ganz einfach in verschiedenen Online-Shops per Sprachbefehl oder Knopfdruck nach.",
             "contentColor": "#ffffff",
