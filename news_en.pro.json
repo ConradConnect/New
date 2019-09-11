@@ -1,14 +1,6 @@
 {
     "news": [
          {
-            "title": "Conrad Connect Pro is here!",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/pro/ccp_news_teaser.png",
-            "date": "06.09.2019",
-            "htmlBody": "Are you looking for an easy-to-use and result-driven IoT platform for your business? We have the right solution for you!<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
-            "link": "https://www.conradconnect.com/en/blog/conrad-connect-professional",
-            "linkText": "More info here!"
-         },
-         {
             "title": "Conrad Connect at IFA in Berlin",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/ConradConnect_IFA2019.jpg",
             "date": "30.08.2019",
