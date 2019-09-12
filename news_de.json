@@ -1,5 +1,13 @@
 {
     "news": [
+          {
+            "title": "We have a winner!",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/ifa%20competition.png",
+            "date": "12.09.2019",
+            "htmlBody": "Wer hätte gedacht, dass Dina, unsere IFA Organisatorin, die IFA Fitness Competition gewinnt?! Herzlichen Glückwunsch!<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://www.conradconnect.com/de/blog/smarter-fitness-wettbewerb-schritt-fuer-schritt-aufs-gold-treppchen",
+            "linkText": "Kostenlos eigenen Wettbewerb so starten!"
+         }, 
          {
             "title": "Conrad Connect auf der IFA in Berlin",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/ConradConnect_IFA2019.jpg",
