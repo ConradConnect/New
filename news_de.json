@@ -1,6 +1,14 @@
 {
     "news": [
-         {
+        {
+            "title": "Richtig Energie sparen im Smart Home",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Energy-saving_Newsletter.jpg",
+            "date": "25.09.2019",
+            "htmlBody": "Umwelt schonen 🌳 und Geld sparen, ohne auf Komfort zu verzichten!<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://conradconnect.com/de/blog/waerme-kuehle-licht-stand-richtig-energie-sparen-im-smart-home",
+            "linkText": "Smarte Tipps & fertige Projektvorlagen hier!"
+        }, 
+        {
             "title": "Die clevere Art online zu bestellen",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/SOS%20Video%20DE.png",
             "date": "17.09.2019",
