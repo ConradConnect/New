@@ -1,5 +1,14 @@
 {
   "devicesAndAppsPromotions": [
+          {
+            "title": "Mit Tuya mühelos das Smart Home gestalten",
+            "titleColor": "#FFFFFF",
+            "imageUrl": "https://dashboard.conradconnect.de/img/providers/tuya/product.png",
+            "heroImageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/shutterstock_1264041919%20_RESIZED.jpg",  
+            "content": "",
+            "contentColor": "#FFFFFF",
+            "link": "https://dashboard.conradconnect.de/devices/tuya"
+         },
          {
             "title": "Licht für jede Stimmung mit Nanoleaf",
             "titleColor": "#e8b8ff",
