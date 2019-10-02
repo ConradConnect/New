@@ -1,0 +1,31 @@
+{
+  "marketplacePromotions": [
+       {
+          "title": "Protect your home the smart way",
+          "titleColor": "#ffca43",
+          "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/anwesenheit_mobile_promoarea.png",
+          "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/anwesenheit_promoarea.jpg",
+          "content": "Leverage artificial intelligence for a powerful presence simulation that keeps burglars and thieves away.",
+          "contentColor": "#FFFFFF",
+          "link": "https://dashboard.conradconnect.de/marketplace/service/CC-PRT-SC-1"
+      },
+      {
+          "title": "Start your fitness competition",
+          "titleColor": "#FFFFFF",
+          "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/fitness_mobile_promoarea.png",
+          "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/fitness_promoarea.jpg",
+          "content": "Start a fitness competition with friends, colleagues or family members and compare the number of steps device-independent.",
+          "contentColor": "#FFFFFF",
+          "link": "https://dashboard.conradconnect.de/marketplace/service/CC-MYD-ACT-4c8bf2a0-be72-11e9-a649-575c9101f1f1"
+      },
+      {
+          "title": "The smart way of ordering online",
+          "titleColor": "#67e2e7",
+          "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/order_mobile_promoarea.png",
+          "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/order_promoarea.jpg",
+          "content": "Re-order your everyday products easily in various online shops per voice command or push of a button.",
+          "contentColor": "#ffffff",
+          "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-COR-1"
+      }
+  ]
+}

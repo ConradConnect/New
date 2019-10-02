@@ -1,0 +1,31 @@
+{
+  "projectPromotions": [
+       {
+          "title": "More motivation during training",
+          "titleColor": "#feb7ae",
+          "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/mehr_motivation_mobile_promoarea.png",
+          "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/mehr_motivation_promoarea.jpg",
+          "content": "Motivate yourself and others by sharing your step count with a text message once you reach a certain goal.",
+          "contentColor": "#FFFFFF",
+          "link": "https://dashboard.conradconnect.de/projects/public/598dbf8b1981b52897b6f29a"
+      },
+      {
+          "title": "The perfect start to the day",
+          "titleColor": "#000000",
+          "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/perfekter_start_mobile_promoarea.png",
+          "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/perfekter_start_promoarea.jpg",
+          "content": "Automate your heating, music and lighting to easily wake up and start the day comfortably.",
+          "contentColor": "#000000",
+          "link": "https://dashboard.conradconnect.de/projects/public/5c8a4d16327e2ecbdde3c22b"
+      },
+      {
+          "title": "Simply live healthier",
+          "titleColor": "#45434e",
+          "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/gesuender_leben_mobile_promoarea.png",
+          "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/gesuender_leben_promoarea.jpg",
+          "content": "Get notified automatically by smart lights to open your window when the air quality in the room drops.",
+          "contentColor": "#45434e",
+          "link": "https://dashboard.conradconnect.de/projects/public/59ce4a7b23ded67578391b38"
+      }
+  ]
+}
