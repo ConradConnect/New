@@ -1,38 +1,38 @@
 {
   "devicesAndAppsPromotions": [
          {
-            "title": "Lorem ipsum dolor sit amet, consectetur",
+            "title": "Design your smart home effortlessly with Tuya",
             "titleColor": "#FFFFFF",
             "imageUrl": "https://dashboard.conradconnect.de/img/providers/tuya/product.png",
-            "heroImageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/shutterstock_1264041919%20_RESIZED.jpg",
+            "heroImageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/shutterstock_1264041919%20_RESIZED.jpg",  
             "content": "",
             "contentColor": "#FFFFFF",
             "link": "https://dashboard.conradconnect.de/devices/tuya"
          },
          {
-            "title": "Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+            "title": "Lights for every mood with Nanoleaf",
             "titleColor": "#e8b8ff",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea_mobile.jpg",
-            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea.jpg",
-            "content": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/nanoleaf_promoarea.jpg",  
+            "content": "Set the ideal mood for any occasion: Wake up to a sunrise, entertain friends and family, and automate your lights throughout the day.",
             "contentColor": "#FFFFFF",
             "link": "https://dashboard.conradconnect.de/devices/nanoleaf"
         },
         {
-            "title": "Excepteur sint occaecat cupidatat non proident, sunt in culpa",
+            "title": "Home Connect for a smarter household",
             "titleColor": "#000000",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/homeconnect_promoarea.png",
-            "heroImageUrl" : "",
-            "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.",
+            "heroImageUrl" : "",  
+            "content": "Control your household appliances or get informed as soon as your dishwasher is ready. Perfect for the whole overview in the household.",
             "contentColor": "#000000",
             "link": "https://dashboard.conradconnect.de/devices/boschhome"
         },
         {
-            "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+            "title": "With Netatmo you stay in control",
             "titleColor": "#ffee68",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea_mobile.jpg",
-            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea.jpg",
-            "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea.jpg",  
+            "content": "Weather getting information about the temperature, humidity or even noise: Netatmo devices give you peace of mind that you have everything under control.",
             "contentColor": "#ffffff",
             "link": "https://dashboard.conradconnect.de/devices/netatmo"
         }
