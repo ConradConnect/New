@@ -1,29 +1,29 @@
 {
   "marketplacePromotions": [
        {
-          "title": "Schützen Sie Ihr Zuhause intelligent",
+          "title": "Lorem ipsum dolor sit amet, consectetur",
           "titleColor": "#ffca43",
           "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/anwesenheit_mobile_promoarea.png",
           "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/anwesenheit_promoarea.jpg",
-          "content": "Nutzen Sie künstliche Intelligenz für eine überzeugende Anwesenheitssimulation, die Einbrecher und Diebe fernhält.",
+          "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.",
           "contentColor": "#FFFFFF",
           "link": "https://dashboard.conradconnect.de/marketplace/service/CC-PRT-SC-1"
       },
       {
-          "title": "Starten Sie Ihren Fitness-Wettbewerb",
+          "title": "Ut enim ad minim veniam, quis nostrud exercitation ullamco",
           "titleColor": "#FFFFFF",
           "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/fitness_mobile_promoarea.png",
           "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/fitness_promoarea.jpg",
-          "content": "Jetzt einen Fitness-Wettbewerb mit Freunden, Kollegen oder Familienmitgliedern starten und geräteunabhängig die Schrittzahl vergleichen.",
+          "content": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
           "contentColor": "#FFFFFF",
           "link": "https://dashboard.conradconnect.de/marketplace/service/CC-MYD-ACT-4c8bf2a0-be72-11e9-a649-575c9101f1f1"
       },
       {
-          "title": "Die clevere Art online zu bestellen",
+          "title": "Excepteur sint occaecat cupidatat non proident, sunt in culpa",
           "titleColor": "#67e2e7",
           "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/order_mobile_promoarea.png",
           "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/order_promoarea.jpg",
-          "content": "Bestellen Sie Ihre Alltagsprodukte ganz einfach in verschiedenen Online-Shops per Sprachbefehl oder Knopfdruck nach.",
+          "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
           "contentColor": "#ffffff",
           "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-COR-1"
       }
