@@ -1,32 +1,5 @@
 {
     "projectPromotions": [
-         {
-            "title": "Mehr Motivation beim Training",
-            "titleColor": "#feb7ae",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/mehr_motivation_mobile_promoarea.png",
-            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/mehr_motivation_promoarea.jpg",  
-            "content": "Motivieren Sie sich und andere, indem Sie Ihre Schrittzahl per SMS teilen, sobald Sie ein bestimmtes Ziel erreicht haben.",
-            "contentColor": "#FFFFFF",
-            "link": "https://dashboard.conradconnect.de/projects/public/598dbf8b1981b52897b6f29a"
-        },
-        {
-            "title": "Der perfekte Start in den Tag",
-            "titleColor": "#000000",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/perfekter_start_mobile_promoarea.png",
-            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/perfekter_start_promoarea.jpg",  
-            "content": "Automatisieren Sie Ihre Heizung, Musik und Beleuchtung, um mühelos aufzuwachen und komfortabel in den Tag zu starten.",
-            "contentColor": "#000000",
-            "link": "https://dashboard.conradconnect.de/projects/public/5c8a4d16327e2ecbdde3c22b"
-        },
-        {
-            "title": "Einfach gesünder leben",
-            "titleColor": "#45434e",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/gesuender_leben_mobile_promoarea.png",
-            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/gesuender_leben_promoarea.jpg",  
-            "content": "Lassen Sie sich automatisch von smarten Lampen benachrichtigen, um Ihr Fenster zu öffnen, wenn die Luftqualität im Raum sinkt.",
-            "contentColor": "#45434e",
-            "link": "https://dashboard.conradconnect.de/projects/public/59ce4a7b23ded67578391b38"
-        },
         {
             "title": "Büro richtig heizen",
             "titleColor": "#45434e",
