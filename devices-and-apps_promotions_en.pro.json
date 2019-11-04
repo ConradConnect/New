@@ -35,6 +35,17 @@
             "content": "Weather getting information about the temperature, humidity or even noise: Netatmo devices give you peace of mind that you have everything under control.",
             "contentColor": "#ffffff",
             "link": "https://dashboard.conradconnect.de/devices/netatmo"
+        },
+        {
+            "title": "Level up your business with Disruptive Technologies",
+            "titleColor": "#ffee68",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea_mobile.jpg",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC%20Pro/CCPro_category-banner_dev%26apps_v2.jpg",  
+            "content": "Use smart, wireless mini-sensors for digital transformation",
+            "contentColor": "#ffffff",
+            "link": "https://dashboard.conradconnect.de/devices/disruptivetechnologies"
         }
+    
+    
   ]
 }
