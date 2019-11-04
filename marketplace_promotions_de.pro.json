@@ -8,6 +8,15 @@
             "content": "Bestellen Sie benötigte Produkte automatisch über den Smart Ordering Service nach.",
             "contentColor": "#ffffff",
             "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-COR-1"
+        },
+        {
+            "title": "Schützen Sie Ihr Büro intelligent",
+            "titleColor": "#ffca43",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/anwesenheit_mobile_promoarea.png",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC%20Pro/Mobile_Smart%20odering.png",  
+            "content": "Nutzen Sie künstliche Intelligenz für eine überzeugende Anwesenheitssimulation, die Einbrecher und Diebe fernhält.",
+            "contentColor": "#FFFFFF",
+            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-PRT-SC-1"
         }
     ]
 }
