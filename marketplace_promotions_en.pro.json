@@ -8,6 +8,15 @@
             "content": "Re-order needed products automatically via Smart Ordering Service.",
             "contentColor": "#ffffff",
             "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-COR-1"
+        },
+        {
+            "title": "Protect your building the smart way",
+            "titleColor": "#ffca43",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/anwesenheit_mobile_promoarea.png",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC%20Pro/Mobile_Smart%20odering.png",  
+            "content": "Leverage artificial intelligence for a powerful presence simulation that keeps burglars and thieves away.",
+            "contentColor": "#FFFFFF",
+            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-PRT-SC-1"
         }
     ]
 }
