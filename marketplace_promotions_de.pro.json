@@ -26,6 +26,15 @@
             "content": "Bestellen Sie Ihre Alltagsprodukte ganz einfach in verschiedenen Online-Shops per Sprachbefehl oder Knopfdruck nach.",
             "contentColor": "#ffffff",
             "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-COR-1"
+        },
+        {
+            "title": "Business-Artikel smart bestellen",
+            "titleColor": "#67e2e7",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/marketplace-promotions/order_mobile_promoarea.png",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC%20Pro/CCPro_category-banner_services.jpg",  
+            "content": "Bestellen Sie benötigte Produkte automatisch über den Smart Ordering Service nach.",
+            "contentColor": "#ffffff",
+            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-COR-1"
         }
     ]
 }
