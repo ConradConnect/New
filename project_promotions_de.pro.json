@@ -8,6 +8,15 @@
             "content": "Integrieren Sie dieses intelligente Heizungsprojekt, um die Temperatur in Ihrem Büro zu optimieren.",
             "contentColor": "#45434e",
             "link": "https://dashboard.conradconnect.de/projects/public/59d4d3fba3bd1c7cb7eb5f6d"
+        },
+        {
+            "title": "Büro richtig heizen",
+            "titleColor": "#45434e",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC%20Pro/Mobile_Smart%20office%20(1).png",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC%20Pro/CCPro_category-banner_projets_2.jpg",  
+            "content": "Integrieren Sie dieses intelligente Heizungsprojekt, um die Temperatur in Ihrem Büro zu optimieren.",
+            "contentColor": "#45434e",
+            "link": "https://dashboard.conradconnect.de/projects/public/59d4d3fba3bd1c7cb7eb5f6d"
         }
     ]
 }
