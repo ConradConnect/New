@@ -1,6 +1,14 @@
 {
     "news": [
         {
+            "title": "Der neuste Messenger Service",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/messenger.png",
+            "date": "04.11.2019",
+            "htmlBody": "Mit dem neuen WhatsApp Service unbegrenzt Action Button-Projekte aktivieren und sich bis zu zehn Benachrichtigungen pro Monat schicken lassen:<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-MYD-ACT-2a3b7840-f4b1-11e9-91b8-1b34b73b724d",
+            "linkText": "WhatsApp Service buchen!"
+        },
+        {
             "title": "Neuer Partner",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Leedarson.png",
             "date": "18.10.2019",
