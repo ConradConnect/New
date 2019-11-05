@@ -1,15 +1,7 @@
 {
   "devicesAndAppsPromotions": [
-          {
-            "title": "Mit Tuya mühelos das Smart Office gestalten",
-            "titleColor": "#FFFFFF",
-            "imageUrl": "https://dashboard.conradconnect.de/img/providers/tuya/product.png",
-            "heroImageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/shutterstock_1264041919%20_RESIZED.jpg",  
-            "content": "",
-            "contentColor": "#FFFFFF",
-            "link": "https://dashboard.conradconnect.de/devices/tuya"
-         },
-       {
+          
+    {
             "title": "Geschäft mit Disruptive Technologies verbessern",
             "titleColor": "#F89631",
             "imageUrl": "https://dashboard.conradconnect.de/img/providers/disruptivetechnologies/disruptive_technologies_promo.png",
@@ -17,6 +9,16 @@
             "content": "Verwenden Sie intelligente, drahtlose Minisensoren für die digitale Transformation",
             "contentColor": "#ffffff",
             "link": "https://dashboard.conradconnect.de/devices/disruptivetechnologies"
-        }
+        },
+    {
+            "title": "Mit Tuya mühelos das Smart Office gestalten",
+            "titleColor": "#FFFFFF",
+            "imageUrl": "https://dashboard.conradconnect.de/img/providers/tuya/product.png",
+            "heroImageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/shutterstock_1264041919%20_RESIZED.jpg",  
+            "content": "",
+            "contentColor": "#FFFFFF",
+            "link": "https://dashboard.conradconnect.de/devices/tuya"
+         }
+       
   ]
 }
