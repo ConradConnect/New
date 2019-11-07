@@ -11,11 +11,11 @@
         },
         {
             "title": "Intelligent Heizen in Ferienwohnungen",
-            "titleColor": "#45434e",
+            "titleColor": "#FFFFFF",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC%20Pro/Mobile_holiday%20house.png",
             "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC%20Pro/CCPro_category-bannerProjects-4.jpg",  
             "content": "Reduzieren Sie Ihre Heizungskosten: Nutzen Sie smarte Steuerung für Ihre Ferienwohnungen oder Häuser und aktivieren Sie die Heizung bei Belegung automatisch.",
-            "contentColor": "#45434e",
+            "contentColor": "#FFFFFF",
             "link": "https://dashboard.conradconnect.de/projects/public/5dc1442ba085f170e5b7a4ab"
         }
     ]
