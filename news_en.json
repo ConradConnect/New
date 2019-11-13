@@ -1,6 +1,14 @@
 {
     "news": [
-         {
+        {
+            "title": "Integration of Samsung SmartThings",
+            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/dd9d0c2e-47d0-4dad-aa40-bf29e44fa9b3.jpg",
+            "date": "13.11.2019",
+            "htmlBody": "How to connect devices, and what functions you can now use in smart projects:<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://conradconnect.com/en/blog/iot-team-play-samsung-smartthings-and-conrad-connect-universal-remote-control-everyday-digital?utm_source=linkedin.com&utm_medium=social&utm_campaign=social%2Bcampaign%2Bsamsung%2Blinkedin",
+            "linkText": "Read the blog post!"
+        }, 
+        {
             "title": "The newest Messenger Service",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/messenger.png",
             "date": "04.11.2019",
