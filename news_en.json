@@ -1,5 +1,13 @@
 {
     "news": [
+         {
+            "title": "Latest integration",
+            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/080ea04f-58dd-4e8d-9d1e-a1893e1ac2fd.png",
+            "date": "10.12.2019",
+            "htmlBody": "What Conrad Connect can do in a teamplay 🤝 with Xiaomi and Yeelight:<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://conradconnect.com/en/blog/iot-team-play-smart-home-lighting-using-yeelight-and-conrad-connect",
+            "linkText": "Read the blog post!"
+        },
         {
             "title": "Cooking, cleaning, washing, refrigeration with IoT",
             "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/4254b23f-2db8-406b-b10d-6f7cca7ccc79.jpg",
@@ -23,14 +31,6 @@
             "htmlBody": "With the new WhatsApp service, you can activate unlimited action button projects and send up to ten notifications per month:<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
             "link": "https://dashboard.conradconnect.de/marketplace/service/CC-MYD-ACT-2a3b7840-f4b1-11e9-91b8-1b34b73b724d",
             "linkText": "Book the WhatsApp Service!"
-        },
-        {
-            "title": "New partner",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Leedarson.png",
-            "date": "18.10.2019",
-            "htmlBody": "Integrate from now on also Arnoo, the cloud-based and intelligent IoT solution from Leedarson:<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
-            "link": "https://dashboard.conradconnect.de/devices/leedarson",
-            "linkText": "Connect devices here!"
         },
         {
             "title": "Conrad Connect Business Solutions",
