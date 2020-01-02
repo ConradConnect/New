@@ -1,6 +1,14 @@
 {
     "news": [
         {
+            "title": "Smartes Neujahrs-Projekt",
+            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/92e9008f-5eda-45ad-b0ec-0f17cd44218f.png",
+            "date": "31.12.2019",
+            "htmlBody": "Langfristig gute Vorsätze wie Energie sparen oder gesünder leben umsetzen:<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://dashboard.conradconnect.de/projects/public/5de9131e7f321ed2339eb7f8",
+            "linkText": "Hier geht's zum smarten Projekt!"
+        },
+        {
             "title": "Neuer OTTO Smart Ordering Service",
             "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/2fddeabb-1e51-4338-8ba7-6604ef3a0219.png",
             "date": "17.12.2019",
