@@ -1,6 +1,14 @@
 {
     "news": [
         {
+            "title": "Ring ist ab sofort kompatible",
+            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/2986175b-dbcc-4b42-a468-e0df9f1274d3.jpg",
+            "date": "07.01.2020",
+            "htmlBody": "Von personalisiertem Besucher-Empfang, über Zugangskontrolle von überall bis hin zu Einbruchschutz und vielem mehr!<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://dashboard.conradconnect.de/devices/ring",
+            "linkText": "Hier Ring Geräte verbinden."
+        },
+        {
             "title": "Smartes Neujahrs-Projekt",
             "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/92e9008f-5eda-45ad-b0ec-0f17cd44218f.png",
             "date": "31.12.2019",
@@ -31,14 +39,6 @@
             "htmlBody": "Mit dem neuen WhatsApp Service unbegrenzt Action Button-Projekte aktivieren und sich bis zu zehn Benachrichtigungen pro Monat schicken lassen:<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
             "link": "https://dashboard.conradconnect.de/marketplace/service/CC-MYD-ACT-2a3b7840-f4b1-11e9-91b8-1b34b73b724d",
             "linkText": "WhatsApp Service buchen!"
-        },
-        {
-            "title": "Neuer Partner",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Leedarson.png",
-            "date": "18.10.2019",
-            "htmlBody": "Ab jetzt Arnoo, die Cloud-basierte und intelligente IoT-Lösung von Leedarson integrieren:<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
-            "link": "https://dashboard.conradconnect.de/devices/leedarson",
-            "linkText": "Hier Leedarson-Geräte hinzufügen!"
         },
         {
             "title": "Conrad Connect Business Solutions",
