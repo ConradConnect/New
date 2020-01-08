@@ -1,6 +1,14 @@
 {
     "news": [
         {
+            "title": "Ring is now compatible",
+            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/2986175b-dbcc-4b42-a468-e0df9f1274d3.jpg",
+            "date": "07.01.2020",
+            "htmlBody": "From personalized visitor reception, to access control without being home, to burglary protection and much more!<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://dashboard.conradconnect.de/devices/ring",
+            "linkText": "Connect your Ring devices here."
+        },
+        {
             "title": "Smart New Years Project",
             "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/92e9008f-5eda-45ad-b0ec-0f17cd44218f.png",
             "date": "31.12.2019",
