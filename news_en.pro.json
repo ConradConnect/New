@@ -1,12 +1,12 @@
 {
     "news": [
          {
-            "title": "New partner",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Leedarson.png",
-            "date": "18.10.2019",
-            "htmlBody": "Integrate from now on also Arnoo, the cloud-based and intelligent IoT solution from Leedarson:<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
-            "link": "https://dashboard.conradconnect.de/devices/leedarson",
-            "linkText": "Connect devices here!"
+            "title": "Ring is compatible from now on",
+            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/2986175b-dbcc-4b42-a468-e0df9f1274d3.jpg",
+            "date": "07.01.2020",
+            "htmlBody": "From personalized visitor reception, to access control without being home, to burglary protection and much more!<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://dashboard.conradconnect.de/devices/ring",
+            "linkText": "Connect your Ring devices here."
         },
         {
             "title": "Conrad Connect Professional",
