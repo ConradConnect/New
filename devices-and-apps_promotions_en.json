@@ -1,5 +1,16 @@
 {
   "devicesAndAppsPromotions": [
+    
+    {
+            "title": "Home security at your fingertips with Ring",
+            "titleColor": "#FFFFFF",
+            "imageUrl": "",
+            "heroImageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/category-banner_dev%26apps.jpg",  
+            "content": "Protect your home and leverage smart security projects with video doorbells, security cameras, and alarm systems from Ring.",
+            "contentColor": "#FFFFFF",
+            "link": "https://dashboard.conradconnect.de/devices/ring"
+         },
+    
          {
             "title": "Design your smart home effortlessly with Tuya",
             "titleColor": "#FFFFFF",
