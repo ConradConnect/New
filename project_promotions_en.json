@@ -1,5 +1,16 @@
 {
     "projectPromotions": [
+        
+        {
+            "title": "Get your home ready for your absence",
+            "titleColor": "#1A4276",
+            "imageUrl": "",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/categoriy-Banner_projects.jpg",  
+            "content": "Prepare your home for your absence with the touch of a smart button. Security systems, lights, and even the door lock can be controlled with just one click.",
+            "contentColor": "#1A4276",
+            "link": "https://dashboard.conradconnect.de/public/projects/5b87ff171a81767568807c23"
+        },
+        
          {
             "title": "More motivation during training",
             "titleColor": "#feb7ae",
