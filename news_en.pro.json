@@ -1,12 +1,12 @@
 {
     "news": [
          {
-            "title": "Hotel automization",,
-            "imageUrl": "https://conradconnect.com/sites/default/files/styles/max_650x650/public/Dorint_B%20POTSDAM_2016_RGB.jpg?itok=LBIblAVy",
-            "date": "25.02.2020",
-            "htmlBody": "We are happy to announce Dorint Hotels & Resorts as our new partner! The chain’s Potsdam-based Dorint Sansoucci is the first establishment utilizing Conrad Connect Professional to optimize multiple aspects of running a hotel.:<br><br><a href='http://eepurl.com/gB0Jjf' target='_blank'>Subscribe</a> now to our news!",
-            "link": "https://conradconnect.com/en/blog/occupancy-based-automation-rental-property",
-            "linkText": "Learn more on our blog!"
+            "title": "#StayAtHome and create an IoT project",
+            "imageUrl": "https://conradconnect.com/sites/default/files/inline-images/CC_Title_image-%28homeoffice%29_1.png",
+            "date": "25.03.2020",
+            "htmlBody": "Join us for finding the best automated solutions during COVID-19 crisis.<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=5c8b944291' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://conradconnect.com/en/stay-home",
+            "linkText": "Join now!"
         },
         {
             "title": "Latest IoT Partner",
