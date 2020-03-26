@@ -1,20 +1,20 @@
 {
     "news": [
-                {
+        {
+            "title": "#StayAtHome and create an IoT project",
+            "imageUrl": "https://conradconnect.com/sites/default/files/inline-images/CC_Title_image-%28homeoffice%29_1.png",
+            "date": "25.03.2020",
+            "htmlBody": "Join us for finding the best automated solutions during COVID-19 crisis.<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://conradconnect.com/en/stay-home",
+            "linkText": "Join now!"
+        },
+         {
             "title": "Latest IoT Partner",
             "imageUrl": "https://conradconnect.com/sites/default/files/styles/max_650x650/public/brand_key-visual.png?itok=Y9bz2-_S",
             "date": "11.02.2020",
             "htmlBody": "CloudRain: Your smart garden irrigation:<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
             "link": "https://dashboard.conradconnect.de/devices/cd896450-3dc0-11ea-a487-559b9a7fb5ed",
             "linkText": "Connect CloudRain here!"
-        },
-        {
-            "title": "Ring is now compatible",
-            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/2986175b-dbcc-4b42-a468-e0df9f1274d3.jpg",
-            "date": "07.01.2020",
-            "htmlBody": "From personalized visitor reception, to access control without being home, to burglary protection and much more!<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
-            "link": "https://dashboard.conradconnect.de/devices/ring",
-            "linkText": "Connect your Ring devices here."
         },
          {
             "title": "New OTTO Smart Ordering Service",
