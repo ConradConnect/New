@@ -1,5 +1,14 @@
 {
     "news": [
+        
+        {
+            "title": "#WirBleibenZuhause und entwickeln IoT-Lösungen",
+            "imageUrl": "https://conradconnect.com/sites/default/files/inline-images/CC_Title_image-%28homeoffice%29_1.png",
+            "date": "25.03.2020",
+            "htmlBody": "Jetzt mitmachen und die besten automatisierten Projekte für die COVID-19-Krise kreieren.<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=5c8b944291' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://conradconnect.com/de/wir-bleiben-zuhause",
+            "linkText": "Mehr erfahren"
+        },
         {
             "title": "Smartes Hotel",
             "imageUrl": "https://conradconnect.com/sites/default/files/styles/max_650x650/public/Dorint_B%20POTSDAM_2016_RGB.jpg?itok=LBIblAVy",
@@ -15,14 +24,6 @@
             "htmlBody": "Joan hilft bei der optimalen Nutzung von Meetingräumen und ist jetzt mit Conrad Connect kompatibel:<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
             "link": "https://dashboard.conradconnect.de/devices/joan",
             "linkText": "Hier Joan verbinden!"
-        },
-        {
-            "title": "Ring ist ab sofort kompatibel",
-            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/2986175b-dbcc-4b42-a468-e0df9f1274d3.jpg",
-            "date": "07.01.2020",
-            "htmlBody": "Von personalisiertem Besucher-Empfang, über Zugangskontrolle von überall bis hin zu Einbruchschutz und vielem mehr!<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
-            "link": "https://dashboard.conradconnect.de/devices/ring",
-            "linkText": "Hier Ring Geräte verbinden."
         },
         {
             "title": "Conrad Connect Professional",
