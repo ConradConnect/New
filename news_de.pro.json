@@ -2,10 +2,10 @@
     "news": [
         
         {
-            "title": "Tec Connect News",
+            "title": "Neuigkeiten",
             "imageUrl": "https://conradconnect.com/sites/default/files/inline-images/CC_Title_image-%28homeoffice%29_1.png",
             "date": "01.07.2020",
-            "htmlBody": "Hier die neusten Tec Connect News erfahren.",
+            "htmlBody": "Hier die neusten Neuigkeiten erfahren.",
             "link": "https://conradconnect.com/de/wir-bleiben-zuhause",
             "linkText": "Mehr erfahren"
         }
