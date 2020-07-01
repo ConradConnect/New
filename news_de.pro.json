@@ -2,52 +2,12 @@
     "news": [
         
         {
-            "title": "#WirBleibenZuhause",
+            "title": "Tec Connect News",
             "imageUrl": "https://conradconnect.com/sites/default/files/inline-images/CC_Title_image-%28homeoffice%29_1.png",
-            "date": "25.03.2020",
-            "htmlBody": "Jetzt mitmachen und die besten automatisierten Projekte für die COVID-19-Krise kreieren.<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
+            "date": "01.07.2020",
+            "htmlBody": "Hier die neusten Tec Connect News erfahren.",
             "link": "https://conradconnect.com/de/wir-bleiben-zuhause",
             "linkText": "Mehr erfahren"
-        },
-        {
-            "title": "Smartes Hotel",
-            "imageUrl": "https://conradconnect.com/sites/default/files/styles/max_650x650/public/Dorint_B%20POTSDAM_2016_RGB.jpg?itok=LBIblAVy",
-            "date": "25.02.2020",
-            "htmlBody": "Wir freuen uns Dorint Hotels & Resorts als neuen Partner zu präsentieren. Als erstes Haus nutzt das Dorint Sansoucci in Potsdam die Möglichkeiten von Conrad Connect Professional, um gleich mehrere Aspekte des Hotelbetriebs zu optimieren.:<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
-            "link": "https://conradconnect.com/de/blog/steht-ihr-mietobjekt-leer-schickt-das-smart-home-die-heizung-den-urlaub",
-            "linkText": "Mehr erfahren!"
-        },
-        {
-            "title": "Neuster IoT Partner",
-            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/88107cf8-925f-437e-a8fb-c25d925ef53b.jpg",
-            "date": "14.01.2020",
-            "htmlBody": "Joan hilft bei der optimalen Nutzung von Meetingräumen und ist jetzt mit Conrad Connect kompatibel:<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
-            "link": "https://dashboard.conradconnect.de/devices/joan",
-            "linkText": "Hier Joan verbinden!"
-        },
-        {
-            "title": "Conrad Connect Professional",
-            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/f2ba519f-48e4-45fa-9a1e-ec97781cfd6b.jpg",
-            "date": "14.10.2019",
-            "htmlBody": "Die zehn wichtigsten Fragen und Antworten:<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
-            "link": "https://conradconnect.com/de/blog/conrad-connect-professional-die-10-wichtigsten-fragen-und-antworten-frisch-von-der-ifa-2019",
-            "linkText": "Mehr zum Thema lesen!"
-        },
-        {
-            "title": "Die clevere Art online zu bestellen",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/SOS%20Video%20DE.png",
-            "date": "17.09.2019",
-            "htmlBody": "Automatisch bei den Online-Shops von Conrad Electronic, Digitalo, SMDV, SnackBaron, Voelkner und Müsli.de bestellen!<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
-            "link": "https://www.youtube.com/watch?v=GgL6C_zsXZI",
-            "linkText": "So geht's!"
-        },
-        {
-            "title": "Conrad Connect Business Solutions",
-            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/67e7ab8b-d486-4bec-86ce-ddd407184797.jpg",
-            "date": "11.06.2019",
-            "htmlBody": "Conrad Connect Professional ✦ Ecosystem Partnerships ✦ Platform as a Service ✦ <br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
-            "link": "https://conradconnect.de/de/blog/conrad-connect-business-solutions",
-            "linkText": "Blog Post lesen!"
         }
     ]
     
