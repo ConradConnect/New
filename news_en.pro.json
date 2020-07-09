@@ -1,11 +1,11 @@
 {
     "news": [
          {
-            "title": "#StayAtHome and create an IoT project",
-            "imageUrl": "https://conradconnect.com/sites/default/files/inline-images/CC_Title_image-%28homeoffice%29_1.png",
-            "date": "25.03.2020",
-            "htmlBody": "Join us for finding the best automated solutions during COVID-19 crisis.<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=5c8b944291' target='_blank'>Subscribe</a> now to our news!",
-            "link": "https://conradconnect.com/en/stay-home",
+            "title": "Latest expansion",
+            "imageUrl": "https://storage.cloud.google.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/roomle-int_v2.jpg",
+            "date": "09.07.2020",
+            "htmlBody": "Users can now easily create floor plans within Conrad Connect's room planning service using the Roomle extension.<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=5c8b944291' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-FLOOR",
             "linkText": "Join now!"
         },
         {
