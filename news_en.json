@@ -41,12 +41,12 @@
             "linkText": "New blog post here!"
         },
         {
-            "title": "Conrad Connect Business Solutions",
-            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/67e7ab8b-d486-4bec-86ce-ddd407184797.jpg",
-            "date": "11.06.2019",
-            "htmlBody": "Conrad Connect Professional ✦ Ecosystem Partnerships ✦ Platform as a Service ✦ <br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
-            "link": "https://conradconnect.de/en/blog/conrad-connect-business-solutions",
-            "linkText": "Read more here!"
+            "title": "New, smart integration",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/enet_news_widget.png",
+            "date": "30.07.2020",
+            "htmlBody": "Conrad Connect and eNet Smart Home are now connected and make your home even smarter.<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://dashboard.conradconnect.de/devices/8962ce70-57e6-11ea-ba43-374aed83284a",
+            "linkText": "Start now!"
         }
     ]
     
