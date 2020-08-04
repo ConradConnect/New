@@ -1,6 +1,14 @@
 {
     "news": [
         {
+            "title": "New, smart integration",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/enet_news_widget.png",
+            "date": "30.07.2020",
+            "htmlBody": "Conrad Connect and eNet Smart Home are now connected and make your home even smarter.<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://dashboard.conradconnect.de/devices/8962ce70-57e6-11ea-ba43-374aed83284a",
+            "linkText": "Start now!"
+        },
+        {
             "title": "Latest expansion",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/roomle-int_v2.jpg",
             "date": "09.07.2020",
@@ -39,14 +47,6 @@
             "htmlBody": "Smart Living centred around Smart Home appliances:<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
             "link": "https://conradconnect.com/en/blog/cooking-washing-refrigeration-smart-living-centred-around-smart-home-appliances",
             "linkText": "New blog post here!"
-        },
-        {
-            "title": "New, smart integration",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/enet_news_widget.png",
-            "date": "30.07.2020",
-            "htmlBody": "Conrad Connect and eNet Smart Home are now connected and make your home even smarter.<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
-            "link": "https://dashboard.conradconnect.de/devices/8962ce70-57e6-11ea-ba43-374aed83284a",
-            "linkText": "Start now!"
         }
     ]
     
