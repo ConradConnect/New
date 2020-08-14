@@ -1,6 +1,15 @@
 {
     "news": [
-         {
+       
+        {
+            "title": "Free IoT whitepaper - Smart building automation",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/whitepaper-mockup_eng.png",
+            "date": "14.08.2020",
+            "htmlBody": "Learn from real usecases on how SMEs can benefit from the Internet of Things.<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=5c8b944291' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Whitepaper/Whitepaper%20%20IoT%20smart%20buildings_ENG.pdf",
+            "linkText": "Read now!"
+        },
+                {
             "title": "Latest expansion",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/roomle-int_v2.jpg",
             "date": "09.07.2020",
@@ -39,14 +48,6 @@
             "htmlBody": "How smart you automatically order products in whole Germany from Conrad Electronic, Digitalo, SMDV, SnackBaron, Voelkner and Müsli.de online shops.<br><br><a href='http://eepurl.com/gB0Jjf' target='_blank'>Subscribe</a> now to our news!",
             "link": "https://www.youtube.com/watch?v=PeRYuzy1eqQ",
             "linkText": "Find out how it works!"
-        },
-        {
-            "title": "Conrad Connect Business Solutions",
-            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/67e7ab8b-d486-4bec-86ce-ddd407184797.jpg",
-            "date": "11.06.2019",
-            "htmlBody": "Conrad Connect Professional ✦ Ecosystem Partnerships ✦ Platform as a Service ✦ <br><br><a href='http://eepurl.com/gB0Jjf' target='_blank'>Subscribe</a> now to our news!",
-            "link": "https://conradconnect.de/en/blog/conrad-connect-business-solutions",
-            "linkText": "Read more here!"
         }
     ]
     
