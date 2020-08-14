@@ -2,6 +2,14 @@
     "news": [
         
         {
+            "title": "Kostenloses IoT-Whitepaper - Smarte Gebäudeautomation",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/wp_news_widget.PNG",
+            "date": "14.08.2020",
+            "htmlBody": "Lernen Sie aus echten Anwendungsfällen, wie KMU vom Internet der Dinge profitieren können.<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
+            "link": "https://conradconnect.com/de/whitepaper",
+            "linkText": "Mehr erfahren"
+        },
+        {
             "title": "Neuste Erweiterung",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/roomle-int_v2.jpg",
             "date": "09.07.2020",
@@ -40,14 +48,6 @@
             "htmlBody": "Automatisch bei den Online-Shops von Conrad Electronic, Digitalo, SMDV, SnackBaron, Voelkner und Müsli.de bestellen!<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
             "link": "https://www.youtube.com/watch?v=GgL6C_zsXZI",
             "linkText": "So geht's!"
-        },
-        {
-            "title": "Conrad Connect Business Solutions",
-            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/67e7ab8b-d486-4bec-86ce-ddd407184797.jpg",
-            "date": "11.06.2019",
-            "htmlBody": "Conrad Connect Professional ✦ Ecosystem Partnerships ✦ Platform as a Service ✦ <br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
-            "link": "https://conradconnect.de/de/blog/conrad-connect-business-solutions",
-            "linkText": "Blog Post lesen!"
         }
     ]
     
