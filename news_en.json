@@ -1,5 +1,14 @@
 {
     "news": [
+
+          {
+            "title": "Back 2 Office in Corona times",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome Screen News/BP_header_backtooffice.png",
+            "date": "23.10.2020",
+            "htmlBody": "Back at the Office: IoT Automation Ensures Clean Air at the Workplace in the Times of Corona.:<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://conradconnect.com/en/blog/back-2-office-corona-times",
+            "linkText": "Read our latest blog post!"
+        },       
         {
             "title": "New, smart integration",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/enet_news_widget.png",
@@ -39,14 +48,6 @@
             "htmlBody": "Connect Miele to Conrad Connect and control washing machines, refrigerators, vacuum cleaners and many other household appliances:<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
             "link": "https://dashboard.conradconnect.de/devices/miele",
             "linkText": "Read more here!"
-        },
-        {
-            "title": "Cooking, cleaning, washing, refrigeration with IoT",
-            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/4254b23f-2db8-406b-b10d-6f7cca7ccc79.jpg",
-            "date": "03.12.2019",
-            "htmlBody": "Smart Living centred around Smart Home appliances:<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
-            "link": "https://conradconnect.com/en/blog/cooking-washing-refrigeration-smart-living-centred-around-smart-home-appliances",
-            "linkText": "New blog post here!"
         }
     ]
     
