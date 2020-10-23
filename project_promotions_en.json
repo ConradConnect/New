@@ -30,13 +30,13 @@
             "link": "https://dashboard.conradconnect.de/projects/public/5c8a4d16327e2ecbdde3c22b"
         },
         {
-            "title": "Simply live healthier",
+            "title": "Halloween projects for the right creepy mood",
             "titleColor": "#45434e",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/gesuender_leben_mobile_promoarea.png",
-            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/gesuender_leben_promoarea.jpg",  
-            "content": "Get notified automatically by smart lights to open your window when the air quality in the room drops.",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC_platfform_projects/Projects_halloween_mobile.png",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC_platfform_projects/projects_halloween.png",  
+            "content": "With the matching Halloween projects from Conrad Connect you can make your scary party perfect.",
             "contentColor": "#45434e",
-            "link": "https://dashboard.conradconnect.de/projects/public/59ce4a7b23ded67578391b38"
+            "link": "https://dashboard.conradconnect.de/projects/public?search_term=halloween"
         }
     ]
 }
