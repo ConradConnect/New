@@ -1,6 +1,14 @@
 {
     "news": [
-        
+
+        {
+            "title": "Neue Dashboard Features",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome Screen News/CC_Dashboard_Laptop.jpg",
+            "date": "21.10.2020”",
+            "htmlBody": "Mit dem neusten Upgrade hat Conrad Connect viele Dashboard-Funktionen deutlich erweitert.:<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
+            "link": "https://www.youtube.com/watch?v=NROxQZ6aF6g&feature=youtu.be",
+            "linkText": "Sehen und entdecken Sie selbst!"
+        },        
         {
             "title": "Kostenloses IoT-Whitepaper - Smarte Gebäudeautomation",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/wp_news_widget.PNG",
@@ -40,14 +48,6 @@
             "htmlBody": "Die zehn wichtigsten Fragen und Antworten:<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
             "link": "https://conradconnect.com/de/blog/conrad-connect-professional-die-10-wichtigsten-fragen-und-antworten-frisch-von-der-ifa-2019",
             "linkText": "Mehr zum Thema lesen!"
-        },
-        {
-            "title": "Die clevere Art online zu bestellen",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/SOS%20Video%20DE.png",
-            "date": "17.09.2019",
-            "htmlBody": "Automatisch bei den Online-Shops von Conrad Electronic, Digitalo, SMDV, SnackBaron, Voelkner und Müsli.de bestellen!<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
-            "link": "https://www.youtube.com/watch?v=GgL6C_zsXZI",
-            "linkText": "So geht's!"
         }
     ]
     
