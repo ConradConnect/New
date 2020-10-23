@@ -2,6 +2,14 @@
     "news": [
 
         {
+            "title": "Back 2 Office in Corona-Zeiten",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome Screen News/BP_header_backtooffice.png",
+            "date": "23.10.2020",
+            "htmlBody": "Zurück ins Büro: Gute Luft fürs Smart Office in Corona-Zeiten mit IoT-Automationen.:<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
+            "link": "https://conradconnect.com/de/blog/back-2-office-corona-zeiten",
+            "linkText": "Lesen Sie unseren neusten Blogbeitrag!"
+        },        
+        {
             "title": "Neue Dashboard Features",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome Screen News/CC_Dashboard_Laptop.jpg",
             "date": "21.10.2020",
@@ -40,14 +48,6 @@
             "htmlBody": "Joan hilft bei der optimalen Nutzung von Meetingräumen und ist jetzt mit Conrad Connect kompatibel:<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
             "link": "https://dashboard.conradconnect.de/devices/joan",
             "linkText": "Hier Joan verbinden!"
-        },
-        {
-            "title": "Conrad Connect Professional",
-            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/f2ba519f-48e4-45fa-9a1e-ec97781cfd6b.jpg",
-            "date": "14.10.2019",
-            "htmlBody": "Die zehn wichtigsten Fragen und Antworten:<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
-            "link": "https://conradconnect.com/de/blog/conrad-connect-professional-die-10-wichtigsten-fragen-und-antworten-frisch-von-der-ifa-2019",
-            "linkText": "Mehr zum Thema lesen!"
         }
     ]
     
