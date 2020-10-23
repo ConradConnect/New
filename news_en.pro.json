@@ -1,6 +1,14 @@
 {
     "news": [
-       
+
+        {
+            "title": "Back 2 Office in Corona times",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome Screen News/BP_header_backtooffice.png",
+            "date": "23.10.2020",
+            "htmlBody": "Back at the Office: IoT Automation Ensures Clean Air at the Workplace in the Times of Corona!<br><br><a href='http://eepurl.com/gB0Jjf' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://conradconnect.com/en/blog/back-2-office-corona-times",
+            "linkText": "Read our latest blog post!"
+        },        
         {
             "title": "Free IoT whitepaper - Smart building automation",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/whitepaper-mockup_eng.png",
@@ -40,14 +48,6 @@
             "htmlBody": "Ten Key Questions and Answers:<br><br><a href='http://eepurl.com/gB0Jjf' target='_blank'>Subscribe</a> now to our news!",
             "link": "https://conradconnect.com/en/blog/conrad-connect-professional-ten-key-questions-and-answers-2019-ifa",
             "linkText": "Read more about this topic!"
-        },
-        {
-            "title": "The Clever Way to Order Online",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/SOS%20Video%20EN.png",
-            "date": "17.09.2019",
-            "htmlBody": "How smart you automatically order products in whole Germany from Conrad Electronic, Digitalo, SMDV, SnackBaron, Voelkner and Müsli.de online shops.<br><br><a href='http://eepurl.com/gB0Jjf' target='_blank'>Subscribe</a> now to our news!",
-            "link": "https://www.youtube.com/watch?v=PeRYuzy1eqQ",
-            "linkText": "Find out how it works!"
         }
     ]
     
