@@ -1,5 +1,20 @@
 {
     "news": [
+         {
+            "title": "Back 2 Office in Corona-Zeiten",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome Screen News/BP_header_backtooffice.png",
+            "date": "23.10.2020",
+            "htmlBody": "Zurück ins Büro: Gute Luft fürs Smart Office in Corona-Zeiten mit IoT-Automationen.<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://conradconnect.com/de/blog/back-2-office-corona-zeiten",
+            "linkText": "Lesen Sie unseren neusten Blogbeitrag!"
+        },
+            "title": "Neue Dashboard Features",
+            "imageUrl": " https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome Screen News/CC_Dashboard_Laptop.jpg",
+            "date": "21.10.2020",
+            "htmlBody": "Mit dem neusten Upgrade hat Conrad Connect viele Dashboard-Funktionen deutlich erweitert.<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://www.youtube.com/watch?v=NROxQZ6aF6g&feature=youtu.be",
+            "linkText": "Sehen und entdecken Sie selbst!"
+        },
           {
             "title": "Neue, smarte Integration",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/enet_news_widget.png",
@@ -31,23 +46,7 @@
             "htmlBody": "Automatisch Nachschub bestellen und dafür nicht mehr als für klassische Bestellungen zahlen:<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
             "link": "https://dashboard.conradconnect.de/marketplace/service/CC-PRT-OTTO",
             "linkText": "Hier Service buchen."
-        },
-        {
-            "title": "Neuste Integration",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/miele_CC.jpg",
-            "date": "11.05.2020",
-            "htmlBody": "Verbinden Sie jetzt Miele mit Conrad Connect und steuern Sie Waschmaschinen, Kühlschränke, Saugroboter und viele weitere Haushaltsgeräte:<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
-            "link": "https://dashboard.conradconnect.de/devices/miele",
-            "linkText": "Erfahren Sie mehr!"
-        },
-        {
-            "title": "Der neuste Messenger Service",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/messenger.png",
-            "date": "04.11.2019",
-            "htmlBody": "Mit dem neuen WhatsApp Service unbegrenzt Action Button-Projekte aktivieren und sich bis zu zehn Benachrichtigungen pro Monat schicken lassen:<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
-            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-MYD-ACT-2a3b7840-f4b1-11e9-91b8-1b34b73b724d",
-            "linkText": "WhatsApp Service buchen!"
         }
-    ]
+       ]
     
 }
