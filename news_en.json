@@ -1,5 +1,14 @@
 {
     "news": [
+        
+        {
+            "title": "New features!",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/dashboarf-improvements-small.png",
+            "date": "28.10.2020",
+            "htmlBody": "The next level of automation features available! Check our latest update<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://www.youtube.com/watch?v=00Bn1BmsSlE&t",
+            "linkText": "Watch video!"
+        }, 
 
           {
             "title": "Back 2 Office in Corona times",
