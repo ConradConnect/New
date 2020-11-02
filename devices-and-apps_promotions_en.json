@@ -1,7 +1,15 @@
 {
   "devicesAndAppsPromotions": [
  
-
+         {
+            "title": "With Netatmo you keep the air quality in your home office under control",
+            "titleColor": "#ffee68",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/air%20quaity.png",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/platform_sections-banner.png",  
+            "content": "Good air in corona times with Netatmo units: Have the CO2 level, humidity or noise level in your smart home office always under control and know exactly when its time to ventilate.",
+            "contentColor": "#ffffff",
+            "link": "https://dashboard.conradconnect.de/devices/netatmo"
+           }, 
     {
             "title": "Home security at your fingertips with Ring",
             "titleColor": "#FFFFFF",
@@ -29,15 +37,6 @@
             "content": "Control your household appliances or get informed as soon as your dishwasher is ready. Perfect for the whole overview in the household.",
             "contentColor": "#000000",
             "link": "https://dashboard.conradconnect.de/devices/boschhome"
-        },
-        {
-            "title": "With Netatmo you stay in control",
-            "titleColor": "#ffee68",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea_mobile.jpg",
-            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea.jpg",  
-            "content": "Weather getting information about the temperature, humidity or even noise: Netatmo devices give you peace of mind that you have everything under control.",
-            "contentColor": "#ffffff",
-            "link": "https://dashboard.conradconnect.de/devices/netatmo"
         }
   ]
 }
