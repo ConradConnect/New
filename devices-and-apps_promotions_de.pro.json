@@ -1,6 +1,15 @@
 {
   "devicesAndAppsPromotions": [
-          
+
+         {
+            "title": "Mit Netatmo behalten Sie die Luftqualität im Büro unter Kontrolle",
+            "titleColor": "#ffee68",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/air%20quaity.png",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/platform_sections-banner.png",  
+            "content": "Mit Netatmo-Geräten gute Luft in Corona-Zeiten: Haben Sie den CO2-Gehalt, die Luftfeuchtigkeit oder den Lärmpegel im smarten Office immer unter Kontrolle und wissen Sie genau, wann gelüftet werden muss.",
+            "contentColor": "#ffffff",
+            "link": "https://dashboard.conradconnect.de/devices/netatmo"
+           },     
     {
             "title": "Geschäft mit Disruptive Technologies verbessern",
             "titleColor": "#F89631",
