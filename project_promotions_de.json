@@ -1,7 +1,16 @@
 {
     "projectPromotions": [
-        
+
         {
+            "title": "Halloween-Projekte für die richtige Gruselstimmung",
+            "titleColor": "#45434e",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC_platfform_projects/Projects_halloween_mobile.png",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC_platfform_projects/projects_halloween.png",  
+            "content": "Mit den passenden Halloween-Projekten von Conrad Connect machen Sie Ihr Gruselfest perfekt.",
+            "contentColor": "#45434e",
+            "link": "https://dashboard.conradconnect.de/projects/public?search_term=halloween"
+        },
+            {
             "title": "Das eigene Heim bereit für Ihre Abwesenheit",
             "titleColor": "#1A4276",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/security.png ",
@@ -10,8 +19,7 @@
             "contentColor": "#1A4276",
             "link": "https://dashboard.conradconnect.de/projects/public/5b87ff171a81767568807c23"
         },
-        
-         {
+            {
             "title": "Mehr Motivation beim Training",
             "titleColor": "#feb7ae",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/mehr_motivation_mobile_promoarea.png",
@@ -28,15 +36,6 @@
             "content": "Automatisieren Sie Ihre Heizung, Musik und Beleuchtung, um mühelos aufzuwachen und komfortabel in den Tag zu starten.",
             "contentColor": "#000000",
             "link": "https://dashboard.conradconnect.de/projects/public/5c8a4d16327e2ecbdde3c22b"
-        },
-        {
-            "title": "Halloween-Projekte für die richtige Gruselstimmung",
-            "titleColor": "#45434e",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC_platfform_projects/Projects_halloween_mobile.png",
-            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC_platfform_projects/projects_halloween.png",  
-            "content": "Mit den passenden Halloween-Projekten von Conrad Connect machen Sie Ihr Gruselfest perfekt.",
-            "contentColor": "#45434e",
-            "link": "https://dashboard.conradconnect.de/projects/public?search_term=halloween"
         }
     ]
 }
