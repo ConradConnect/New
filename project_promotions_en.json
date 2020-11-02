@@ -1,6 +1,15 @@
 {
     "projectPromotions": [
-        
+
+       {
+            "title": "Halloween projects for the right creepy mood",
+            "titleColor": "#45434e",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC_platfform_projects/Projects_halloween_mobile.png",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC_platfform_projects/projects_halloween.png",  
+            "content": "With the matching Halloween projects from Conrad Connect you can make your scary party perfect.",
+            "contentColor": "#45434e",
+            "link": "https://dashboard.conradconnect.de/projects/public?search_term=halloween"
+         },          
         {
             "title": "Get your home ready for your absence",
             "titleColor": "#1A4276",
@@ -28,15 +37,6 @@
             "content": "Automate your heating, music and lighting to easily wake up and start the day comfortably.",
             "contentColor": "#000000",
             "link": "https://dashboard.conradconnect.de/projects/public/5c8a4d16327e2ecbdde3c22b"
-        },
-        {
-            "title": "Halloween projects for the right creepy mood",
-            "titleColor": "#45434e",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC_platfform_projects/Projects_halloween_mobile.png",
-            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC_platfform_projects/projects_halloween.png",  
-            "content": "With the matching Halloween projects from Conrad Connect you can make your scary party perfect.",
-            "contentColor": "#45434e",
-            "link": "https://dashboard.conradconnect.de/projects/public?search_term=halloween"
-        }
+         }
     ]
 }
