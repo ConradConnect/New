@@ -1,6 +1,16 @@
 {
   "devicesAndAppsPromotions": [
-        {
+
+         {
+            "title": "With Netatmo you keep the air quality in your office under control",
+            "titleColor": "#ffee68",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/air%20quaity.png",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/platform_sections-banner.png",  
+            "content": "Good air in corona times with Netatmo units: Have the CO2 level, humidity or noise level in your smart office always under control and know exactly when its time to ventilate.",
+            "contentColor": "#ffffff",
+            "link": "https://dashboard.conradconnect.de/devices/netatmo"
+           },     
+    {
             "title": "Level up your business with Disruptive Technologies",
             "titleColor": "#F89631",
             "imageUrl": "https://dashboard.conradconnect.de/img/providers/disruptivetechnologies/disruptive_technologies_promo.png",
