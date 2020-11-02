@@ -1,7 +1,15 @@
 {
   "devicesAndAppsPromotions": [
  
- 
+         {
+            "title": "Mit Netatmo behalten Sie die Luftqualität im Büro unter Kontrolle",
+            "titleColor": "#ffee68",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/air%20quaity.png",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/platform_sections-banner.png",  
+            "content": "Mit Netatmo-Geräten gute Luft in Corona-Zeiten: Haben Sie den CO2-Gehalt, die Luftfeuchtigkeit oder den Lärmpegel im smarten Office immer unter Kontrolle und wissen Sie genau, wann gelüftet werden muss.",
+            "contentColor": "#ffffff",
+            "link": "https://dashboard.conradconnect.de/devices/netatmo"
+           },  
      {
             "title": "Mit Ring zu mehr Sicherheit im eigenen Zuhause",
             "titleColor": "#FFFFFF",
@@ -28,15 +36,6 @@
             "content": "Kontrollieren Sie Ihre Haushaltsgeräte oder lassen Sie sich informieren, sobald Ihre Spülmaschine bereit ist. Perfekt für den gesamten Überblick im Haushalt.",
             "contentColor": "#000000",
             "link": "https://dashboard.conradconnect.de/devices/boschhome"
-        },
-        {
-            "title": "Mit Netatmo behalten Sie die Kontrolle",
-            "titleColor": "#ffee68",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea_mobile.jpg",
-            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/netatmo_promoarea.jpg",  
-            "content": "Ob Informationen über die Temperatur, Luftfeuchtigkeit oder sogar Lärm: Netatmo-Geräte geben Ihnen die Gewissheit, dass Sie alles unter Kontrolle haben.",
-            "contentColor": "#ffffff",
-            "link": "https://dashboard.conradconnect.de/devices/netatmo"
         }
   ]
 }
