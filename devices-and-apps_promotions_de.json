@@ -1,15 +1,7 @@
 {
   "devicesAndAppsPromotions": [
  
-         {
-            "title": "7 geniale Geräte fürs smarte Homeoffice",
-            "titleColor": "#e8b8ff",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/air%20quaity.png",
-            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/platform_sections-banner.png",  
-            "content": "Mit smarten Geräten und Conrad Connect kriegen Sie Ihr Homeoffice erledigt, den Familienalltag gebändigt und das Facility Management aus der Ferne geregelt.",
-            "contentColor": "#FFFFFF",
-            "link": "https://conradconnect.com/de/blog/7-geniale-geraete-fuers-smarte-homeoffice"
-        },    
+ 
      {
             "title": "Mit Ring zu mehr Sicherheit im eigenen Zuhause",
             "titleColor": "#FFFFFF",
