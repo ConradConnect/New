@@ -1,6 +1,7 @@
 {
   "devicesAndAppsPromotions": [
-    
+ 
+
     {
             "title": "Home security at your fingertips with Ring",
             "titleColor": "#FFFFFF",
@@ -10,16 +11,7 @@
             "contentColor": "#FFFFFF",
             "link": "https://dashboard.conradconnect.de/devices/ring"
          },
-    
-         {
-            "title": "Design your smart home effortlessly with Tuya",
-            "titleColor": "#FFFFFF",
-            "imageUrl": "https://dashboard.conradconnect.de/img/providers/tuya/product.png",
-            "heroImageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/shutterstock_1264041919%20_RESIZED.jpg",  
-            "content": "",
-            "contentColor": "#FFFFFF",
-            "link": "https://dashboard.conradconnect.de/devices/tuya"
-         },
+
          {
             "title": "Lights for every mood with Nanoleaf",
             "titleColor": "#e8b8ff",
