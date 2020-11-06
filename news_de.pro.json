@@ -1,5 +1,13 @@
 {
     "news": [
+         {
+            "title": "Auf die Plätze, fertig, los!",
+            "imageUrl": "https://conradconnect.com/sites/default/files/2020-11/fitness-competition_0.gif",
+            "date": "06.11.2020",
+            "htmlBody": "Bleiben Sie fit und motiviert mit der Conrad Connect-Stepbystep-Challenge. <br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://conradconnect.com/de/bleiben-sie-waehrend-des-corona-lockdowns-fit",
+            "linkText": "Mehr erfahren!"
+         },
         {
             "title": "Die neuen Features sind da",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/dashboarf-improvements-small.png",
@@ -15,15 +23,7 @@
             "htmlBody": "Zurück ins Büro: Gute Luft fürs Smart Office in Corona-Zeiten mit IoT-Automationen!<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
             "link": "https://conradconnect.com/de/blog/back-2-office-corona-zeiten",
             "linkText": "Lesen Sie unseren neusten Blogbeitrag!"
-        },        
-        {
-            "title": "Neue Dashboard Features",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome Screen News/CC_Dashboard_Laptop.jpg",
-            "date": "21.10.2020",
-            "htmlBody": "Mit dem neusten Upgrade hat Conrad Connect viele Dashboard-Funktionen deutlich erweitert.:<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
-            "link": "https://www.youtube.com/watch?v=NROxQZ6aF6g&feature=youtu.be",
-            "linkText": "Sehen und entdecken Sie selbst!"
-        },        
+        },            
         {
             "title": "Kostenloses IoT-Whitepaper - Smarte Gebäudeautomation",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/wp_news_widget.PNG",
@@ -47,14 +47,6 @@
             "htmlBody": "Wir freuen uns Dorint Hotels & Resorts als neuen Partner zu präsentieren. Als erstes Haus nutzt das Dorint Sansoucci in Potsdam die Möglichkeiten von Conrad Connect Professional, um gleich mehrere Aspekte des Hotelbetriebs zu optimieren.:<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
             "link": "https://conradconnect.com/de/blog/steht-ihr-mietobjekt-leer-schickt-das-smart-home-die-heizung-den-urlaub",
             "linkText": "Mehr erfahren!"
-        },
-        {
-            "title": "Neuster IoT Partner",
-            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/88107cf8-925f-437e-a8fb-c25d925ef53b.jpg",
-            "date": "14.01.2020",
-            "htmlBody": "Joan hilft bei der optimalen Nutzung von Meetingräumen und ist jetzt mit Conrad Connect kompatibel:<br><br>Jetzt für News <a href='http://eepurl.com/gB0Jjf' target='_blank'>anmelden</a>!",
-            "link": "https://dashboard.conradconnect.de/devices/joan",
-            "linkText": "Hier Joan verbinden!"
         }
     ]
     
