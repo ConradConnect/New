@@ -1,6 +1,14 @@
 {
     "news": [
         {
+            "title": "Ready, set, go!",
+            "imageUrl": "https://conradconnect.com/sites/default/files/2020-11/fitness-competition_0.gif",
+            "date": "06.11.2020",
+            "htmlBody": "Our step challenge enables individuals and teams to stay fit and motivated!<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
+            "link": "https://conradconnect.com/en/stay-fit-during-lockdown",
+            "linkText": "Learn more!"
+        },
+        {
             "title": "New features!",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/dashboarf-improvements-small.png",
             "date": "28.10.2020",
@@ -33,28 +41,12 @@
             "linkText": "Join now!"
         },
         {
-            "title": "Latest IoT Partner",
-            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/88107cf8-925f-437e-a8fb-c25d925ef53b.jpg",
-            "date": "14.01.2020",
-            "htmlBody": "Joan helps to use meeting rooms in the best way and is now compatible with Conrad Connect:<br><br><a href='http://eepurl.com/gB0Jjf' target='_blank'>Subscribe</a> now to our news!",
-            "link": "https://dashboard.conradconnect.de/devices/joan",
-            "linkText": "Connect Joan here!"
-        }, 
-        {
             "title": "Ring is compatible from now on",
             "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/2986175b-dbcc-4b42-a468-e0df9f1274d3.jpg",
             "date": "07.01.2020",
             "htmlBody": "From personalized visitor reception, to access control without being home, to burglary protection and much more!<br><br><a href='http://eepurl.com/gB0Jjf' target='_blank'>Subscribe</a> now to our news!",
             "link": "https://dashboard.conradconnect.de/devices/ring",
             "linkText": "Connect your Ring devices here."
-        },
-        {
-            "title": "Conrad Connect Professional",
-            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/f2ba519f-48e4-45fa-9a1e-ec97781cfd6b.jpg",
-            "date": "14.10.2019",
-            "htmlBody": "Ten Key Questions and Answers:<br><br><a href='http://eepurl.com/gB0Jjf' target='_blank'>Subscribe</a> now to our news!",
-            "link": "https://conradconnect.com/en/blog/conrad-connect-professional-ten-key-questions-and-answers-2019-ifa",
-            "linkText": "Read more about this topic!"
         }
     ]
     
