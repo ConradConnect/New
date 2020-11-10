@@ -1,5 +1,13 @@
 {
     "news": [
+          {
+            "title": "Fuel smarter with Conrad Connect",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/E-vehicles_1200x628-2.png",
+            "date": "10.11.2020",
+            "htmlBody": "With the electric vehicle service you can now connect your electric car from BMW, Tesla, Audi and VW with Conrad Connect.<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-SMARTCAR",
+            "linkText": "Connect e-vehicle now!"
+        },
         {
             "title": "Ready, set, go!",
             "imageUrl": "https://conradconnect.com/sites/default/files/2020-11/fitness-competition_0.gif",
@@ -39,14 +47,6 @@
             "htmlBody": "Users can now easily create floor plans within Conrad Connect's room planning service using the Roomle extension.<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
             "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-FLOOR",
             "linkText": "Join now!"
-        },
-        {
-            "title": "Latest integration",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/miele_CC.jpg",
-            "date": "11.05.2020",
-            "htmlBody": "Connect Miele to Conrad Connect and control washing machines, refrigerators, vacuum cleaners and many other household appliances:<br><br><a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>Subscribe</a> now to our news!",
-            "link": "https://dashboard.conradconnect.de/devices/miele",
-            "linkText": "Read more here!"
         }
     ]
     
