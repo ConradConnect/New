@@ -1,5 +1,13 @@
 {
     "news": [
+          {
+            "title": "Smarter Strom tanken mit Conrad Connect",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/E-vehicles_1200x628-2.png",
+            "date": "10.11.2020",
+            "htmlBody": "Mit dem Elektrofahrzeug-Service können Sie jetzt Ihr E-Auto von BMW, Tesla, Audi und VW mit Conrad Connect verbinden.<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-SMARTCAR",
+            "linkText": "Jetzt E-Auto verbinden!"
+        },
         {
             "title": "Auf die Plätze, fertig, los!",
             "imageUrl": "https://conradconnect.com/sites/default/files/2020-11/fitness-competition_0.gif",
@@ -47,14 +55,6 @@
             "htmlBody": "Nutzer können jetzt Grundrisse innerhalb von Conrad Connect's Raumplaner-Service ganz einfach mit der Roomle-Erweiterung erstellen.<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
             "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-FLOOR",
             "linkText": "Mehr erfahren"
-        },
-        {
-            "title": "Neuer OTTO Smart Ordering Service",
-            "imageUrl": "https://gallery.mailchimp.com/00b2e43f0d47c8b9ce97054f0/images/2fddeabb-1e51-4338-8ba7-6604ef3a0219.png",
-            "date": "17.12.2019",
-            "htmlBody": "Automatisch Nachschub bestellen und dafür nicht mehr als für klassische Bestellungen zahlen:<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
-            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-PRT-OTTO",
-            "linkText": "Hier Service buchen."
         }
        ]
     
