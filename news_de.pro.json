@@ -1,5 +1,13 @@
 {
     "news": [
+        {
+            "title": "Zwei-Faktoren-Authentifizierung!",
+            "imageUrl": "https://storage.cloud.google.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/2FA.png",
+            "date": "01.02.2021",
+            "htmlBody": "Mehr Sicherheit für Conrad Connect Kunden mit neuer Zwei-Faktor-Authentifizierung. Aktivieren Sie die Funktion in Ihren Einstellungen und bestätigen Sie die Authentifizierung per E-Mail.",
+            "link": "https://dashboard.conradconnect.de/profile/settings",
+            "linkText": "Aktivieren der Zwei-Faktor-Authentifizierung"
+        },
           {
             "title": "Smarter Strom tanken mit Conrad Connect",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/E-vehicles_1200x628-2.png",
