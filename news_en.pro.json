@@ -1,5 +1,13 @@
 {
     "news": [
+         {
+            "title": "Two-factor authentication!",
+            "imageUrl": "https://storage.cloud.google.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/2FA.png",
+            "date": "01.02.2021",
+            "htmlBody": "More security for Conrad Connect customers with new two-factor authentication. Simply go to your account settings, activate the function and confirm the authentication by your e-mail.",
+            "link": "https://dashboard.conradconnect.de/profile/settings",
+            "linkText": "Enable two-factor-authentication"
+        },
           {
             "title": "Fuel smarter with Conrad Connect",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/E-vehicles_1200x628-2.png",
