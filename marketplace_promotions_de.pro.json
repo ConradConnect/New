@@ -1,5 +1,14 @@
 {
     "marketplacePromotions": [
+         {
+            "title": "Intelligentes Kundenstrom-Management für Ihr Geschäft",
+            "titleColor": "45515b",
+            "imageUrl": "https://storage.cloud.google.com/conrad-connect-static-content/marketing/CC%20Pro/DD.png",
+            "heroImageUrl" : "https://storage.cloud.google.com/conrad-connect-static-content/marketing/CC%20Pro/CC_promo-banner_services-pro.png",  
+            "content": "Mit unserem digitalen Pförtner können Sie kostengünstig die gesetzlichen Vorgaben erfüllen und den Datenschutz gewährleisten - ohne den Einsatz von Kameras. ",
+            "contentColor": "45515b",
+            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-TONI"
+        },
         {
             "title": "Business-Artikel smart bestellen",
             "titleColor": "#67e2e7",
