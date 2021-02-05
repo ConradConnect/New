@@ -1,5 +1,14 @@
 {
   "devicesAndAppsPromotions": [
+    {
+            "title": "Audi is now on board.",
+            "titleColor": "45515b",
+            "imageUrl": "https://storage.cloud.google.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/audi-mobile.png",
+            "heroImageUrl" : "https://storage.cloud.google.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/audi.png",  
+            "content": "Electric's vehicles owners now benefit from a wide range of functions if you link your e-car model with Conrad Connect: battery status and battery capacity, range and consumption and defining personal charging stations.",
+            "contentColor": "45515b",
+            "link": "https://dashboard.conradconnect.de/devices/enode_audi"
+        },
  
          {
             "title": "With Netatmo you keep the air quality in your home office under control",
