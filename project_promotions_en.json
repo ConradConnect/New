@@ -2,13 +2,13 @@
     "projectPromotions": [
 
        {
-            "title": "Halloween projects for the right creepy mood",
-            "titleColor": "#45434e",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC_platfform_projects/Projects_halloween_mobile.png",
-            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/CC_platfform_projects/projects_halloween.png",  
-            "content": "With the matching Halloween projects from Conrad Connect you can make your scary party perfect.",
-            "contentColor": "#45434e",
-            "link": "https://dashboard.conradconnect.de/projects/public?search_term=halloween"
+            "title": "Romantic surprise for Valentines day (...but it will work well on every other day!)",
+            "titleColor": "#ffffff",
+            "imageUrl": "https://storage.cloud.google.com/conrad-connect-static-content/marketing/project-promotions/CC_promo-banner_valentine-mobile.png",
+            "heroImageUrl" : "https://storage.cloud.google.com/conrad-connect-static-content/marketing/project-promotions/CC_promo-banner_valentines.png",  
+            "content": "You don't know how to make a moment special? No need to worry. You have an ally in Conrad Connect. Automate your music, lighting and sockets for surprising your loved one.",
+            "contentColor": "#ffffff",
+            "link": "https://dashboard.conradconnect.de/projects/public/5c5c09c6fbd597e4e496756f"
          },          
         {
             "title": "Get your home ready for your absence",
