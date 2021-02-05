@@ -1,28 +1,69 @@
 {
     "news": [
-        {
-            "title": "Online Schulungen: Hersteller & Lieferanten",
-            "imageUrl": "https://www.deha.de/files/5-newsroom/2020/webinare/online-schulungen_1200x730px.jpg",
-            "date": "02.06.2020",
-            "htmlBody": "Entdecken Sie jetzt eine Vielzahl an online Schulungen von namhaften Herstellern & Lieferanten zu Produktneuheiten, Technologien und vieles mehr. Jetzt anschauen und direkt anmelden.",
-            "link": "https://conradconnect.de",
-            "linkText": "Mehr erfahren"
+         {
+            "title": "Zwei-Faktoren-Authentifizierung!",
+            "imageUrl": "https://storage.cloud.google.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/2FA.png",
+            "date": "01.02.2021",
+            "htmlBody": "Mehr Sicherheit für Conrad Connect Kunden mit neuer Zwei-Faktor-Authentifizierung. Aktivieren Sie die Funktion in Ihren Einstellungen und bestätigen Sie die Authentifizierung per E-Mail.",
+            "link": "https://dashboard.conradconnect.de/profile/settings",
+            "linkText": "Aktivieren der Zwei-Faktor-Authentifizierung"
         },
         {
-            "title": "B.E.G.: Das neue Werkzeug für Installateure",
-            "imageUrl": "https://www.deha.de/files/5-newsroom/2020/200423_beg_ble-ir-adapter/beg-ble-adapter.png",
-            "date": "23.04.2020",
-            "htmlBody": "Die Programmierung und Kalibrierung von B.E.G. Produkten wird noch einfacher: Der neue Bluetooth-Infrarot-Adapter verbindet das Smartphone mit allen fernbedienbaren B.E.G. Produkten.",
-            "link": "https://conradconnect.de",
-            "linkText": "Mehr Informationen zu B.E.G."
+            "title": "Smarter Strom tanken mit Conrad Connect",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/E-vehicles_1200x628-2.png",
+            "date": "10.11.2020",
+            "htmlBody": "Mit dem Elektrofahrzeug-Service können Sie jetzt Ihr E-Auto von BMW, Tesla, Audi und VW mit Conrad Connect verbinden.<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-SMARTCAR",
+            "linkText": "Jetzt E-Auto verbinden!"
         },
         {
-            "title": "Homepage-Baukasten für Elektrobetriebe",
-            "imageUrl": "https://www.deha.de/files/5-newsroom/2019/homepage-baukasten/tecworld-website-erstellung.jpg",
-            "date": "24.02.2020",
-            "htmlBody": "Die virtuell geführte Assistenz im TECWORLD Homepage-Baukasten sowie die intuitive Bedienbarkeit machen es möglich. Vorgefertigte branchenspezifische & suchmaschinenoptimierte Textbausteine.",
-            "link": "https://conradconnect.de",
+            "title": "Auf die Plätze, fertig, los!",
+            "imageUrl": "https://conradconnect.com/sites/default/files/2020-11/fitness-competition_0.gif",
+            "date": "06.11.2020",
+            "htmlBody": "Bleiben Sie fit und motiviert mit der Conrad Connect #Fit4smart-Challenge. <br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://conradconnect.com/de/bleiben-sie-waehrend-des-corona-lockdowns-fit",
             "linkText": "Mehr erfahren!"
+         },
+        {
+            "title": "Die neuen Features sind da",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/dashboarf-improvements-small.png",
+            "date": "28.10.2020",
+            "htmlBody": "Entdecken Sie jetzt die neuen Conrad Connect Dashboard Funktionen! <br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://youtu.be/NROxQZ6aF6g",
+            "linkText": "Video Tutorial ansehen!"
+         }, 
+        {
+            "title": "Back 2 Office in Corona-Zeiten",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/backtooffice.JPG",
+            "date": "23.10.2020",
+            "htmlBody": "Zurück ins Büro: Gute Luft fürs Smart Office in Corona-Zeiten mit IoT-Automationen!<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://conradconnect.com/de/blog/back-2-office-corona-zeiten",
+            "linkText": "Lesen Sie unseren neusten Blogbeitrag!"
+         },
+          {
+            "title": "Neue Dashboard Features",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome Screen News/CC_Dashboard_Laptop.jpg",
+            "date": "21.10.2020",
+            "htmlBody": "Mit dem neusten Upgrade hat Conrad Connect viele Dashboard-Funktionen deutlich erweitert.<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://www.youtube.com/watch?v=NROxQZ6aF6g&feature=youtu.be",
+            "linkText": "Sehen und entdecken Sie selbst!"
+        },
+          {
+            "title": "Neue, smarte Integration",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/enet_news_widget.png",
+            "date": "30.07.2020",
+            "htmlBody": "Conrad Connect und eNet Smart Home sind jetzt vernetzt und machen Ihr Zuhause noch smarter.<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://dashboard.conradconnect.de/devices/8962ce70-57e6-11ea-ba43-374aed83284a",
+            "linkText": "Jetzt starten!"
+        },
+          {
+            "title": "Neuste Erweiterung",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/Welcome%20Screen%20News/Welcome%20screen%20News/roomle-int_v2.jpg",
+            "date": "09.07.2020",
+            "htmlBody": "Nutzer können jetzt Grundrisse innerhalb von Conrad Connect's Raumplaner-Service ganz einfach mit der Roomle-Erweiterung erstellen.<br><br>Jetzt für News <a href='https://conradconnect.us14.list-manage.com/subscribe?u=00b2e43f0d47c8b9ce97054f0&id=31334daa30' target='_blank'>anmelden</a>!",
+            "link": "https://dashboard.conradconnect.de/marketplace/service/CC-NAT-FLOOR",
+            "linkText": "Mehr erfahren"
         }
-    ]
+       ]
+    
 }
