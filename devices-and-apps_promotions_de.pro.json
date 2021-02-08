@@ -1,6 +1,15 @@
 {
   "devicesAndAppsPromotions": [
 
+    {
+            "title": "Audi ist jetzt mit an Bord!",
+            "titleColor": "#fda503",
+            "imageUrl": "https://storage.cloud.google.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/audi-mobile.png",
+            "heroImageUrl" : "https://storage.cloud.google.com/conrad-connect-static-content/marketing/devices-and-apps-promotions/CC_Promo_banner_audi.png",  
+            "content": "Besitzer von Elektrofahrzeugen profitieren jetzt von einer Vielzahl von Funktionen, wenn Sie Ihr E-Auto-Modell mit Conrad Connect verknüpfen: Batteriestatus und -kapazität, Reichweite und Verbrauch sowie Festlegen persönlicher Ladestationen",
+            "contentColor": "#ffffff",
+            "link": "https://dashboard.conradconnect.de/devices/enode_audi"
+        },
         
     {
             "title": "Mit Netatmo behalten Sie die Luftqualität im Büro unter Kontrolle",
