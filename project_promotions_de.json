@@ -2,16 +2,6 @@
     "projectPromotions": [
 
         {
-            "title": "Der perfekte Start in den Tag",
-            "titleColor": "#000000",
-            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/perfekter_start_mobile_promoarea.png",
-            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/perfekter_start_promoarea.jpg",  
-            "content": "Automatisieren Sie Ihre Heizung, Musik und Beleuchtung, um mühelos aufzuwachen und komfortabel in den Tag zu starten.",
-            "contentColor": "#000000",
-            "link": "https://dashboard.conradconnect.de/projects/public/5c8a4d16327e2ecbdde3c22b"
-        }
-        
-            {
             "title": "Das eigene Heim bereit für Ihre Abwesenheit",
             "titleColor": "#1A4276",
             "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/security.png ",
@@ -20,6 +10,15 @@
             "contentColor": "#1A4276",
             "link": "https://dashboard.conradconnect.de/projects/public/5b87ff171a81767568807c23"
         },
+        {
+            "title": "Der perfekte Start in den Tag",
+            "titleColor": "#000000",
+            "imageUrl": "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/perfekter_start_mobile_promoarea.png",
+            "heroImageUrl" : "https://storage.googleapis.com/conrad-connect-static-content/marketing/project-promotions/perfekter_start_promoarea.jpg",  
+            "content": "Automatisieren Sie Ihre Heizung, Musik und Beleuchtung, um mühelos aufzuwachen und komfortabel in den Tag zu starten.",
+            "contentColor": "#000000",
+            "link": "https://dashboard.conradconnect.de/projects/public/5c8a4d16327e2ecbdde3c22b"
+        },                    
             {
             "title": "Mehr Motivation beim Training",
             "titleColor": "#feb7ae",
@@ -28,8 +27,7 @@
             "content": "Motivieren Sie sich und andere, indem Sie Ihre Schrittzahl per SMS teilen, sobald Sie ein bestimmtes Ziel erreicht haben.",
             "contentColor": "#FFFFFF",
             "link": "https://dashboard.conradconnect.de/projects/public/598dbf8b1981b52897b6f29a"
-        },
-        
+        },        
         {
             "title": "Romantische Überraschung für den Valentinstag (...aber es funktioniert auch an jedem anderen Tag!)",
             "titleColor": "#ffffff",
